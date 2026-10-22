@@ -1,0 +1,146 @@
+{
+  "juizes": {
+    "deepseek-r1:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 5,
+            "learning_objectives": 4,
+            "constructive_alignment": 5,
+            "pedagogical_progression": 5,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada e abrangente, cobrindo todos os tópicos da CG de Estatística Geral. As UAs estão bem sequenciadas, desde a estatística descritiva até os testes de hipóteses, com recursos variados que promovem o engajamento do aluno.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange integralmente todos os objetivos e competências da CG. Cada unidade foca em tópicos específicos, como estatística descritiva e probabilidade, garantindo que nenhuma parte da CG seja deixada de fora.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros, medíveis e bem definidos em cada UA. Eles usam verbos apropriados como 'identificar', 'representar' e 'calcular', promovendo uma compreensão clara do que será aprendido.",
+            "constructive_alignment": "Há uma coerência forte entre os objetivos, conteúdos e atividades. Por exemplo, as UAs sobre distribuições binomiais incluem tanto teoria quanto problemas práticos, mantendo o alinhamento construtivo.",
+            "pedagogical_progression": "A sequência das UAs segue uma progressão lógica, começando com conceitos básicos e progredindo para tópicos mais complexos. Isso ajuda os alunos a construírem conhecimento de forma渐进.",
+            "activity_resource_workload_viability": "As atividades são variadas e incluem diferentes métodos de ensino, como aulas sincronas e quizzes. No entanto, algumas atividades têm duração zero ou são reaproveitadas, o que pode comprometer a viabilidade."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada e abrangente, cobrindo os principais tópicos da estatística geral. No entanto, há algumas omissões em relação às competências que envolvem a integração de ferramentas de programação e modelagem de fenômenos naturais ou engenharia. A sequência lógica das unidades contribui para uma progressão pedagógica adequada, mas a falta de contextualização em problemas reais pode limitar a aplicabilidade prática.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange todos os tópicos principais da CG, como estatística descritiva, probabilidade, distribuições, estimação e testes de hipóteses. No entanto, há uma ausência de atividades que envolvam a integração de ferramentas de programação ou modelagem de fenômenos naturais, conforme mencionado nas competências da CG.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e medíveis, alinhando-se bem com os requisitos da CG. No entanto, há repetições em algumas unidades, o que pode levar a uma sobreposição de conteúdo.",
+            "constructive_alignment": "Há uma boa coerência entre competências, objetivos e atividades, com recursos que suportam os objetivos. Contudo, a falta de contextualização em problemas reais ou integração com outras disciplinas como programação limita a alinhamento total.",
+            "pedagogical_progression": "A sequência lógica das unidades contribui para uma progressão pedagógica adequada. No entanto, algumas unidades parecem isoladas e não exploram aprofundadamente a conexão com outros componentes curriculares.",
+            "activity_resource_workload_viability": "As atividades são variadas e incluem diferentes métodos de aprendizagem. No entanto, há recursos com duração zero, o que pode ser confuso, e a falta de atividades práticas envolvendo programação ou análise de dados reais limita a relevância contextual."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 5,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 5,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada e abrangente, cobrindo todos os componentes necessários para um curso de Estatística Geral. Ele demonstra uma boa alinhamento com as diretrizes curriculares, objetivos de aprendizagem claros e uma sequência lógica que promove a progressão pedagógica. No entanto, há algumas áreas onde melhorias podem ser feitas para aumentar a diversidade das atividades e recursos, bem como para garantir que as cargas de trabalho sejam consistentes e viáveis.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange todos os principais tópicos da CG, incluindo estatística descritiva, probabilidade, distribuições, estimação e testes de hipóteses. Cada unidade de aprendizagem foca em um conjunto de competências específicas e objetivos de aprendizagem, garantindo que os alunos adquiram as habilidades necessárias para analisar e resolver problemas estatísticos.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e medíveis, alinhados diretamente com os requisitos da CG. Por exemplo, 'Representar dados por meio de tabelas e gráficos' é um objetivo bem definido que pode ser medido através de atividades e avaliações. No entanto, algumas repetições nos objetivos em diferentes unidades podem indicar uma oportunidade para maior variedade.",
+            "constructive_alignment": "Há uma boa coerência entre os objetivos, conteúdo, atividades e avaliações. Cada unidade inclui recursos variados como OVAs, roteiros de atividades e quizzes que ajudam a alcançar os objetivos de aprendizagem. Por exemplo, a UA01 usa diferentes métodos para ensinar representação gráfica de dados, promovendo uma abordagem multifacética ao aprendizado.",
+            "pedagogical_progression": "A sequência das unidades segue um fluxo lógico, começando com estatística descritiva, passando por probabilidade e distribuições, até chegar a estimação e testes de hipóteses. Este arranjo permite que os alunos construam suas habilidades de forma progressiva, desde conceitos básicos para aplicações mais complexas.",
+            "activity_resource_workload_viability": "As atividades e recursos são variados e relevantes, incluindo vídeos, roteiros de atividades e quizzes. No entanto, há uma certa repetição em alguns recursos e a estimativa de tempo pode ser inconsistente (por exemplo, algumas atividades têm 0 minutos). Isso pode afetar a gestão da carga de trabalho."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 5,
+        "learning_objectives": 4,
+        "constructive_alignment": 4,
+        "pedagogical_progression": 5,
+        "activity_resource_workload_viability": 3
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.471,
+        "learning_objectives": 0.0,
+        "constructive_alignment": 0.471,
+        "pedagogical_progression": 0.471,
+        "activity_resource_workload_viability": 0.471
+      },
+      "escore_global_ponderado": 4.2
+    },
+    "qwen2.5:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP em questão cobre adequadamente os conteúdos da CG, com objetivos claros e coerentes entre as UAs. No entanto, há algumas inconsistências menores na progressão pedagógica e no detalhamento de alguns recursos que podem ser melhorados.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange todos os principais tópicos da CG, incluindo estatística descritiva, probabilidade, distribuições de probabilidades para variáveis discretas e contínuas, estimação e testes de hipóteses. No entanto, alguns detalhes específicos da CG não são mencionados em todas as UAs.",
+            "learning_objectives": "Os objetivos de aprendizagem estão claramente definidos para cada UA e são mensuráveis, utilizando verbos como 'identificar', 'resolver' e 'calcular'. No entanto, alguns recursos não especificam objetivos claros.",
+            "constructive_alignment": "Há uma boa coerência entre os objetivos de aprendizagem, conteúdo formativo e atividades em cada UA. Entretanto, há algumas inconsistências menores na aplicação dos recursos para atingir os objetivos.",
+            "pedagogical_progression": "A progressão pedagógica entre as UAs é lógica e coerente, com cada UA construindo sobre o conhecimento adquirido nas anteriores. No entanto, algumas transições podem ser mais claras para facilitar a compreensão do aluno.",
+            "activity_resource_workload_viability": "As atividades e recursos propostos são variados e relevantes para o aprendizado, incluindo OVA, roteiros de atividade, aulas síncronas e quizzes. No entanto, alguns tempos de atividade não estão especificados."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP em questão cobre a maior parte dos conteúdos e objetivos estabelecidos na Curriculum Guideline (CG) para Estatística Geral. As unidades de aprendizagem são bem estruturadas, com uma progressão lógica que segue o desenvolvimento do conhecimento desde conceitos básicos até aplicações mais avançadas. No entanto, há algumas lacunas e inconsistências em termos de cobertura completa dos objetivos e competências estabelecidos na CG.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange a maioria das competências e objetivos da CG, mas falta cobrir alguns aspectos importantes como a integração com outras disciplinas (Matemática, Física, Química) e o uso de programação. Além disso, não há menções explícitas sobre as estratégias criativas para modelagem e representação de fenômenos naturais ou relacionados à engenharia.",
+            "learning_objectives": "Os objetivos de aprendizagem são claramente definidos em cada unidade, usando verbos mensuráveis. No entanto, alguns objetivos poderiam ser mais granulares para facilitar a avaliação e o acompanhamento do progresso dos alunos.",
+            "constructive_alignment": "Há uma boa coerência entre os conteúdos formativos, atividades e avaliações em cada unidade. No entanto, algumas unidades poderiam beneficiar de mais diversidade nas atividades propostas para garantir que todos os aspectos dos objetivos sejam abordados.",
+            "pedagogical_progression": "A progressão pedagógica entre as unidades é lógica e coerente, seguindo uma sequência de introdução a conceitos básicos até aplicações mais complexas. No entanto, algumas transições poderiam ser melhor explicadas para garantir que os alunos entendam claramente como cada unidade se conecta com a próxima.",
+            "activity_resource_workload_viability": "As atividades e recursos propostos são variados e relevantes, incluindo vídeos, roteiros de atividades, aulas síncronas e quizzes. No entanto, algumas atividades têm durações muito curtas ou não especificadas, o que pode dificultar a gestão do tempo pelos alunos."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 5,
+            "learning_objectives": 5,
+            "constructive_alignment": 5,
+            "pedagogical_progression": 5,
+            "activity_resource_workload_viability": 5
+          },
+          "rationale_geral": "O LAP em questão cobre adequadamente os conteúdos e objetivos estabelecidos na Curriculum Guideline (CG) para o componente curricular de Estatística Geral. As unidades de aprendizagem estão bem estruturadas, com uma progressão lógica que segue a sequência dos conceitos desde a introdução à estatística até os testes de hipóteses. Os objetivos de aprendizagem são claros e mensuráveis, e as atividades propostas parecem ser relevantes e viáveis para o contexto do curso. No entanto, algumas unidades poderiam beneficiar-se de mais diversidade em termos de recursos e tipos de atividades.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange todos os principais tópicos da CG, incluindo estatística descritiva, fundamentos de probabilidade, distribuições de probabilidades para variáveis discretas e contínuas, estimação e testes de hipóteses. Os objetivos de aprendizagem são consistentes com os requisitos da CG.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros, mensuráveis e cobrem todos os aspectos essenciais do conteúdo estatístico conforme definido na CG. Eles estão bem estruturados para cada unidade de aprendizagem.",
+            "constructive_alignment": "Há uma coerência clara entre as competências, objetivos, conteúdos e avaliações ao longo do LAP. As atividades propostas são direcionadas aos objetivos específicos de cada unidade e os recursos fornecidos (OVAs, roteiros de atividades, aulas síncronas) suportam efetivamente o aprendizado.",
+            "pedagogical_progression": "A progressão pedagógica entre as unidades é lógica e coerente. As UAs começam com conceitos básicos (introdução à estatística) e avançam para tópicos mais complexos (distribuições de probabilidade, testes de hipóteses), garantindo que os pré-requisitos sejam cumpridos antes de abordar novas ideias.",
+            "activity_resource_workload_viability": "As atividades e recursos propostos são variados e relevantes para o aprendizado, incluindo OVAs, roteiros de atividade, aulas síncronas e quizzes. A carga horária parece ser adequada para cada unidade, permitindo que os alunos absorvam e apliquem os conceitos adequadamente."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 4,
+        "learning_objectives": 4,
+        "constructive_alignment": 4,
+        "pedagogical_progression": 4,
+        "activity_resource_workload_viability": 4
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.471,
+        "learning_objectives": 0.471,
+        "constructive_alignment": 0.471,
+        "pedagogical_progression": 0.471,
+        "activity_resource_workload_viability": 0.471
+      },
+      "escore_global_ponderado": 4.0
+    }
+  }
+}

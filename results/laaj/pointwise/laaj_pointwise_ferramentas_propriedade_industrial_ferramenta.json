@@ -1,0 +1,146 @@
+{
+  "juizes": {
+    "deepseek-r1:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 3,
+            "pedagogical_progression": 3,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada e abrangente, cobrindo desde os fundamentos da Propriedade Intelectual até aspectos mais especializados como a proteção de patentes e marcas. No entanto, há algumas áreas que merecem melhorias, especialmente em torno da coerência entre as unidades de aprendizagem e a diversidade das atividades propostas.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange todos os objetivos e competências estabelecidos na CG. Cada unidade de aprendizagem (UA) está alinhada com os objetivos específicos da CG, como a compreensão dos conceitos fundamentais da Propriedade Intelectual e a aplicação de métodos para busca de anterioridade.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e bem definidos, mas algumas UAs possuem objetivos que se repetem ou que poderiam ser mais específicos. Por exemplo, a UA1 e UA2 ambos tratam de identificar elementos da Propriedade Intelectual.",
+            "constructive_alignment": "Há uma boa coerência entre os objetivos, conteúdo e atividades em cada UA. Porém, há inconsistências na abordagem de tópicos como a proteção internacional de patentes, que é tratada superficialmente em algumas UAs e com mais profundidade em outras.",
+            "pedagogical_progression": "A sequência lógica das unidades é clara, começando com os fundamentos e progredindo para tópicos mais especializados. No entanto, há uma sobreposição de conteúdo em algumas UAs, o que pode confundir os alunos.",
+            "activity_resource_workload_viability": "As atividades são variadas e incluem diferentes tipos de recursos, como OVAs, textos, podcasts e quizzes. No entanto, a carga horária pode ser excessiva em algumas UAs, especialmente na UA8, que acumula mais de 100 minutos de aulas sincronas."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 3,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 3,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada e abrange todos os tópicos da CG. No entanto, algumas unidades como UA8 abrangem muitos assuntos, o que pode prejudicar a clareza. As atividades são variadas e relevantes, mas há necessidade de revisão para melhorar a coesão em algumas unidades.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre todos os tópicos da CG, como patentes, marcas e desenho industrial. No entanto, a distribuição dos assuntos em UA8 é excessiva.",
+            "learning_objectives": "Os objetivos são claros e medíveis, mas há repetições e algumas unidades não alinham bem os objetivos com o conteúdo.",
+            "constructive_alignment": "Há boa coerência entre objetivos e atividades, mas a abrangência excessiva em UA8 prejudica a coesão.",
+            "pedagogical_progression": "A progressão é lógica, com cada UA preparando para o conteúdo seguinte. No entanto, a carga de tópicos em UA8 pode ser desorientadora.",
+            "activity_resource_workload_viability": "As atividades são variadas e relevantes, mas a carga horária em algumas unidades pode ser excessiva."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura lógica e abrangente, cobrindo todos os tópicos essenciais da Propriedade Industrial. Utiliza recursos variados para promover diferentes estilos de aprendizagem, mas há repetições significativas entre as unidades e possíveis excessos de conteúdo.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange todos os principais tópicos da CG, incluindo patentes, marcas, desenho industrial e indicações geográficas. Ele também incorpora aspectos práticos como a estrutura de documentos de patente e procedimentos legais.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e medíveis, mas algumas unidades apresentam objetivos vagos. Por exemplo, 'Analisar a importância da proteção industrial' poderia ser mais específico.",
+            "constructive_alignment": "A alinhamento entre competências e atividades é sólido, com avaliações que reforçam os objetivos. No entanto, a sobreposição de conteúdo em unidades diferentes pode confundir os alunos.",
+            "pedagogical_progression": "A progressão pedagógica é lógica, desde os fundamentos até aplicações internacionais. Cada unidade constrói sobre a anterior, promovendo uma curva de aprendizagem suave.",
+            "activity_resource_workload_viability": "Os recursos são variados e relevantes, mas algumas atividades podem ser excessivas ou desnecessárias. A repetição de conteúdo em unidades diferentes pode ser ineficiente."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 4,
+        "learning_objectives": 4,
+        "constructive_alignment": 4,
+        "pedagogical_progression": 3,
+        "activity_resource_workload_viability": 3
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.0,
+        "learning_objectives": 0.471,
+        "constructive_alignment": 0.471,
+        "pedagogical_progression": 0.471,
+        "activity_resource_workload_viability": 0.471
+      },
+      "escore_global_ponderado": 3.6
+    },
+    "qwen2.5:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 3,
+            "learning_objectives": 4,
+            "constructive_alignment": 3,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP abrange uma variedade de tópicos relacionados à Propriedade Intelectual, mas há algumas inconsistências e lacunas em relação às diretrizes curriculares. As unidades de aprendizagem (UAs) são bem estruturadas com recursos variados, mas a cobertura dos objetivos de aprendizagem é irregular.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange uma grande parte do conteúdo formativo da CG, mas falta cobrir alguns tópicos importantes como o modelo de utilidade e suas estratégias. Além disso, há um excesso de foco em certas áreas que não são tão relevantes para os objetivos gerais.",
+            "learning_objectives": "Os objetivos de aprendizagem são claramente definidos e mensuráveis, mas algumas UAs têm mais ênfase do que outras. Por exemplo, a UA1 tem um foco muito grande em introdução à Propriedade Intelectual, enquanto outros tópicos importantes como o modelo de utilidade (UA5) recebem menos atenção.",
+            "constructive_alignment": "Há uma boa correspondência entre os objetivos de aprendizagem e as atividades propostas em cada UA, mas a avaliação parece ser mais focada na memorização do que no desenvolvimento de habilidades práticas. Por exemplo, quizzes são usados extensivamente para avaliar o conhecimento teórico, mas há pouca ênfase em tarefas práticas ou projetos.",
+            "pedagogical_progression": "A progressão pedagógica é lógica e coerente entre as UAs. A estrutura segue uma sequência natural de introdução ao avanço para temas mais complexos, como a proteção da invenção e o depósito de patentes.",
+            "activity_resource_workload_viability": "Os recursos propostos são variados e incluem OVA, textos, podcasts, vídeos e quizzes. No entanto, há uma sobrecarga significativa em algumas UAs com aulas síncronas de até 100 minutos, o que pode ser desafiador para os alunos manterem a atenção."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 3,
+            "constructive_alignment": 3,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP abrange uma variedade de tópicos relacionados à Propriedade Intelectual, com foco em Patentes. Ele inclui várias Unidades de Aprendizagem (UAs) que cobrem desde fundamentos até aspectos práticos da proteção industrial e patentes. No entanto, há algumas inconsistências na estrutura e detalhamento dos objetivos e conteúdos entre as UAs.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange a maioria das competências e requisitos estabelecidos pela Curriculum Guideline (CG), mas falta cobertura completa de alguns tópicos, como estratégias e limitações da PI. Além disso, há uma sobreposição entre algumas unidades que poderia ser melhor organizada.",
+            "learning_objectives": "Os objetivos de aprendizagem são claramente definidos para cada UA, mas alguns estão vagos ou não usam verbos mensuráveis. Por exemplo, em várias UAs os objetivos mencionam 'explicar' sem detalhar o que exatamente está sendo explicado.",
+            "constructive_alignment": "Há uma boa coerência entre competências e conteúdos nas UAs, mas a relação com as atividades e avaliações é inconsistente. Algumas unidades têm recursos variados (OVAs, textos, podcasts), mas outras parecem ter menos diversidade de métodos pedagógicos.",
+            "pedagogical_progression": "A progressão entre as UAs é lógica e segue uma sequência que permite a construção gradual do conhecimento. No entanto, algumas unidades poderiam ser mais claras sobre os pré-requisitos necessários para entender completamente o conteúdo.",
+            "activity_resource_workload_viability": "As atividades e recursos propostos são variados e relevantes, mas a carga horária total parece estar distribuída de forma desigual entre as UAs. Algumas unidades têm uma quantidade significativamente maior de conteúdo em comparação com outras."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP abrange uma variedade de tópicos relacionados à Propriedade Intelectual, com foco em Patentes. Ele inclui várias Unidades de Aprendizagem (UAs) que cobrem desde fundamentos até aspectos práticos e estratégias avançadas. No entanto, há algumas inconsistências na estruturação dos objetivos e conteúdos entre as UAs, o que pode dificultar a compreensão do fluxo pedagógico.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange os principais tópicos da CG, mas há algumas lacunas. Por exemplo, a UA5 (Modelo de Utilidade e Seus Requisitos) não está claramente alinhada com o conteúdo formativo da CG, que inclui aspectos mais detalhados sobre proteção industrial e patentes.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e mensuráveis, mas algumas UAs têm objetivos repetitivos ou parcialmente cobertos. Por exemplo, a UA3 tem vários recursos que se sobrepõem em seus objetivos.",
+            "constructive_alignment": "Há uma boa coerência entre competências e conteúdos nas UAs, mas algumas atividades não estão claramente alinhadas com os objetivos de aprendizagem. Por exemplo, a UA7 tem um quiz que aborda tópicos que não são cobertos em profundidade nos recursos anteriores.",
+            "pedagogical_progression": "A progressão pedagógica é lógica e coerente entre as UAs, mas algumas transições podem ser melhoradas. Por exemplo, a passagem da UA2 para a UA3 poderia beneficiar de uma maior integração dos conceitos.",
+            "activity_resource_workload_viability": "Os recursos e atividades propostas são variados e relevantes, mas algumas UAs têm um número excessivo de recursos que podem sobrecarregar os alunos. Por exemplo, a UA8 tem vários tipos de recursos (OVA, Texto, Podcast, Aula Síncrona) que cobrem tópicos semelhantes."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 4,
+        "learning_objectives": 4,
+        "constructive_alignment": 3,
+        "pedagogical_progression": 4,
+        "activity_resource_workload_viability": 3
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.471,
+        "learning_objectives": 0.471,
+        "constructive_alignment": 0.471,
+        "pedagogical_progression": 0.0,
+        "activity_resource_workload_viability": 0.471
+      },
+      "escore_global_ponderado": 3.6
+    }
+  }
+}

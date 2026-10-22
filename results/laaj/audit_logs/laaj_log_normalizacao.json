@@ -1,0 +1,839 @@
+{
+  "eventos": [
+    {
+      "slug": "desenvolvimento_full_cycle",
+      "origem": "humano",
+      "ua": "UA03",
+      "recurso": "Quiz",
+      "tipo": "deduplicado",
+      "referencia": "Explicar estratégias de versionamento para resolver problemas de controle de alterações em projetos de software.",
+      "objetivo": "Explicar estratégias de versionamento para resolver problemas de controle de alterações em projetos de software.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "desenvolvimento_full_cycle",
+      "origem": "humano",
+      "ua": "UA05",
+      "recurso": "Quiz",
+      "tipo": "deduplicado",
+      "referencia": "Explicar o processo de automação de build em pipelines de CI/CD.",
+      "objetivo": "Explicar o processo de automação de build em pipelines de CI/CD.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA01",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj. 2                ",
+      "objetivo": "Classificar uma equação diferencial quanto à ordem, à homogeneidade e à linearidade.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA01",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj. 6                ",
+      "objetivo": "Resolver equações diferenciais utilizando o método de separação de variáveis.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA01",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj. 7",
+      "objetivo": "Explicar a lei de resfriamento de Newton a partir de equações diferenciais lineares.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA02",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj.1               ",
+      "objetivo": "Resolver equações diferenciais lineares de primeira ordem por meio do método do fator integrante.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA02",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj. 2                ",
+      "objetivo": "Resolver a queda de corpos com resistência do ar por meio de equações diferenciais lineares de primeira ordem.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA02",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj. 3",
+      "objetivo": "Resolver problemas envolvendo circuitos elétricos a partir de equações diferenciais lineares de primeira ordem.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA03",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj. 2                ",
+      "objetivo": "Classificar conjuntos de vetores quanto à dependência linear.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA03",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj. 3                ",
+      "objetivo": "Escrever um vetor como combinação linear de outros vetores.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA03",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj. 4",
+      "objetivo": "Determinar bases e dimensão de espaços vetoriais.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA04",
+      "recurso": "EDO de 2ª Ordem, Linear, à Coeficientes Constantes",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj.1               ",
+      "objetivo": "Explicar o método de Lagrange aplicado à solução de equações diferenciais não homogêneas de segunda ordem com coeficientes constantes.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA04",
+      "recurso": "EDO de 2ª Ordem, Linear, à Coeficientes Constantes",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj. 2                ",
+      "objetivo": "Resolver equações diferenciais não homogêneas de segunda ordem com coeficientes constantes via Lagrange, com termo independente dado por funções elementares.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA04",
+      "recurso": "EDO de 2ª Ordem, Linear, à Coeficientes Constantes",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj. 4",
+      "objetivo": "Resolver equações diferenciais não homogêneas de segunda ordem com coeficientes constantes via coeficientes indeterminados, com termo independente dado por funções elementares ou suas combinações.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA05",
+      "recurso": "Aplicações de EDO",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj. 1              ",
+      "objetivo": "Diferenciar as equações diferenciais que modelam os movimentos harmônico simples, amortecido e forçado.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA05",
+      "recurso": "Aplicações de EDO",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj. 2                ",
+      "objetivo": "Resolver problemas sobre osciladores massa-mola utilizando equações diferenciais lineares de 2ª ordem.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA05",
+      "recurso": "Aplicações de EDO",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj. 4",
+      "objetivo": "Resolver circuitos RLC utilizando equações diferenciais, com base nas Leis de Kirchhoff das correntes e tensões.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA06",
+      "recurso": "Método de Euler e Runge-Kutta para resolução de EDO",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj. 1              ",
+      "objetivo": "Diferenciar métodos analíticos e núméricos para resolução de equações diferenciais.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA06",
+      "recurso": "Método de Euler e Runge-Kutta para resolução de EDO",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj. 6                ",
+      "objetivo": "Resolver problemas de valor inicial utilizando o método de Runge-Kutta.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA06",
+      "recurso": "Método de Euler e Runge-Kutta para resolução de EDO",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj. 6",
+      "objetivo": "Resolver problemas de valor inicial utilizando o método de Runge-Kutta.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA06",
+      "recurso": "Método de Euler e Runge-Kutta para resolução de EDO",
+      "tipo": "deduplicado",
+      "referencia": "Resolver problemas de valor inicial utilizando o método de Runge-Kutta.",
+      "objetivo": "Resolver problemas de valor inicial utilizando o método de Runge-Kutta.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA07",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj. 2              ",
+      "objetivo": "Calcular o núcleo e a imagem de uma transformação linear.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA07",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj. 3                ",
+      "objetivo": "Utilizar o Teorema do Núcleo e da Imagem na análise de transformações lineares.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA07",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj. 6",
+      "objetivo": "Utilizar autovalores e autovetores na resolução de equações diferenciais.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA08",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj. 3              ",
+      "objetivo": "Identificar funções vetoriais linearmente independentes utilizando o determinante de Wronski.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA08",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj. 4                ",
+      "objetivo": "Resolver sistemas de equações diferenciais ordinárias lineares de primeira ordem, homogêneas, com coeficientes constantes e autovalores reais e distintos.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "modelagem_matematica",
+      "origem": "humano",
+      "ua": "UA08",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj. 5",
+      "objetivo": "Resolver sistemas de equações diferenciais ordinárias lineares de primeira ordem, homogêneas, com coeficientes constantes e autovalores complexos.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA01",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj1    ",
+      "objetivo": "Identificar população, amostra, variáveis e seus tipos associadas a um experimento estatístico.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA01",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj2  ",
+      "objetivo": "Representar dados por meio de tabelas e gráficos, com interpretação de padrões para tomada de decisão.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA01",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj2",
+      "objetivo": "Representar dados por meio de tabelas e gráficos, com interpretação de padrões para tomada de decisão.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA01",
+      "recurso": "Quiz",
+      "tipo": "deduplicado",
+      "referencia": "Representar dados por meio de tabelas e gráficos, com interpretação de padrões para tomada de decisão.",
+      "objetivo": "Representar dados por meio de tabelas e gráficos, com interpretação de padrões para tomada de decisão.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA02",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj3    ",
+      "objetivo": "Descrever conjuntos de dados a partir de medidas de tendência central, de dispersão e separatrizes.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA02",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj3  ",
+      "objetivo": "Descrever conjuntos de dados a partir de medidas de tendência central, de dispersão e separatrizes.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA02",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj3",
+      "objetivo": "Descrever conjuntos de dados a partir de medidas de tendência central, de dispersão e separatrizes.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA02",
+      "recurso": "Quiz",
+      "tipo": "deduplicado",
+      "referencia": "Descrever conjuntos de dados a partir de medidas de tendência central, de dispersão e separatrizes.",
+      "objetivo": "Descrever conjuntos de dados a partir de medidas de tendência central, de dispersão e separatrizes.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA02",
+      "recurso": "Quiz",
+      "tipo": "deduplicado",
+      "referencia": "Descrever conjuntos de dados a partir de medidas de tendência central, de dispersão e separatrizes.",
+      "objetivo": "Descrever conjuntos de dados a partir de medidas de tendência central, de dispersão e separatrizes.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA03",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj4     ",
+      "objetivo": "Resolver problemas de contagem com base nos princípios da análise combinatória.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA03",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj4       ",
+      "objetivo": "Resolver problemas de contagem com base nos princípios da análise combinatória.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA03",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj4",
+      "objetivo": "Resolver problemas de contagem com base nos princípios da análise combinatória.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA03",
+      "recurso": "Quiz",
+      "tipo": "deduplicado",
+      "referencia": "Resolver problemas de contagem com base nos princípios da análise combinatória.",
+      "objetivo": "Resolver problemas de contagem com base nos princípios da análise combinatória.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA03",
+      "recurso": "Quiz",
+      "tipo": "deduplicado",
+      "referencia": "Resolver problemas de contagem com base nos princípios da análise combinatória.",
+      "objetivo": "Resolver problemas de contagem com base nos princípios da análise combinatória.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA04",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj5     ",
+      "objetivo": "Calcular probabilidade, incluindo probabilidade condicional e probabilidade da união e interseção de eventos.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA04",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj5       ",
+      "objetivo": "Calcular probabilidade, incluindo probabilidade condicional e probabilidade da união e interseção de eventos.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA04",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj5",
+      "objetivo": "Calcular probabilidade, incluindo probabilidade condicional e probabilidade da união e interseção de eventos.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA04",
+      "recurso": "Quiz",
+      "tipo": "deduplicado",
+      "referencia": "Calcular probabilidade, incluindo probabilidade condicional e probabilidade da união e interseção de eventos.",
+      "objetivo": "Calcular probabilidade, incluindo probabilidade condicional e probabilidade da união e interseção de eventos.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA04",
+      "recurso": "Quiz",
+      "tipo": "deduplicado",
+      "referencia": "Calcular probabilidade, incluindo probabilidade condicional e probabilidade da união e interseção de eventos.",
+      "objetivo": "Calcular probabilidade, incluindo probabilidade condicional e probabilidade da união e interseção de eventos.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA05",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj6    ",
+      "objetivo": "Identificar variáveis aleatórias discretas e suas distribuições de probabilidade em experimentos.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA05",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj7  ",
+      "objetivo": "Resolver problemas envolvendo experimentos que satisfazem as condições de uma distribuição binomial ou de Poisson.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA05",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj7",
+      "objetivo": "Resolver problemas envolvendo experimentos que satisfazem as condições de uma distribuição binomial ou de Poisson.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA05",
+      "recurso": "Quiz",
+      "tipo": "deduplicado",
+      "referencia": "Resolver problemas envolvendo experimentos que satisfazem as condições de uma distribuição binomial ou de Poisson.",
+      "objetivo": "Resolver problemas envolvendo experimentos que satisfazem as condições de uma distribuição binomial ou de Poisson.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA06",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj9    ",
+      "objetivo": "Calcular probabilidades associadas a variáveis aleatórias contínuas utilizando funções densidade de probabilidade.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA06",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj10  ",
+      "objetivo": "Resolver problemas envolvendo variáveis aleatórias que seguem distribuição normal.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA06",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj10",
+      "objetivo": "Resolver problemas envolvendo variáveis aleatórias que seguem distribuição normal.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA06",
+      "recurso": "Quiz",
+      "tipo": "deduplicado",
+      "referencia": "Resolver problemas envolvendo variáveis aleatórias que seguem distribuição normal.",
+      "objetivo": "Resolver problemas envolvendo variáveis aleatórias que seguem distribuição normal.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA07",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj11          ",
+      "objetivo": "Estimar média ou proporção populacional, incluindo a determinação da margem de erro, intervalo de confiança e tamanho amostral.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA07",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj11          ",
+      "objetivo": "Estimar média ou proporção populacional, incluindo a determinação da margem de erro, intervalo de confiança e tamanho amostral.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA07",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj11",
+      "objetivo": "Estimar média ou proporção populacional, incluindo a determinação da margem de erro, intervalo de confiança e tamanho amostral.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA07",
+      "recurso": "Quiz",
+      "tipo": "deduplicado",
+      "referencia": "Estimar média ou proporção populacional, incluindo a determinação da margem de erro, intervalo de confiança e tamanho amostral.",
+      "objetivo": "Estimar média ou proporção populacional, incluindo a determinação da margem de erro, intervalo de confiança e tamanho amostral.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA07",
+      "recurso": "Quiz",
+      "tipo": "deduplicado",
+      "referencia": "Estimar média ou proporção populacional, incluindo a determinação da margem de erro, intervalo de confiança e tamanho amostral.",
+      "objetivo": "Estimar média ou proporção populacional, incluindo a determinação da margem de erro, intervalo de confiança e tamanho amostral.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA09",
+      "recurso": "Banco de questões",
+      "tipo": "deduplicado",
+      "referencia": "Resolver problemas envolvendo experimentos que satisfazem as condições de uma distribuição binomial ou de Poisson.",
+      "objetivo": "Resolver problemas envolvendo experimentos que satisfazem as condições de uma distribuição binomial ou de Poisson.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "estatistica_geral",
+      "origem": "humano",
+      "ua": "UA09",
+      "recurso": "Banco de questões",
+      "tipo": "deduplicado",
+      "referencia": "Realizar testes para validação de hipóteses sobre proporção ou média populacional.",
+      "objetivo": "Realizar testes para validação de hipóteses sobre proporção ou média populacional.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA02",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj.1 \n",
+      "objetivo": "Explicar a função da patente como instrumento de proteção da propriedade industrial",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA02",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj.2\n",
+      "objetivo": "Diferenciar as modalidades de patente de invenção e modelo de utilidade",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA02",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj.3",
+      "objetivo": "Descrever as criações enquadradas como patenteáveis segundo a legislação brasileira.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA03",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj.3\n",
+      "objetivo": "Explicar a importância dos documentos de patentes como fontes de informação e inovação tecnológica.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA03",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj.4\n",
+      "objetivo": "Explicar as características que envolvem a classificação internacional de patentes.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA03",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj. 7",
+      "objetivo": "Descrever as principais bases de patentes oficiais e comerciais utilizadas em pesquisas tecnológicas.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA04",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj.1\n",
+      "objetivo": "Descrever as características relacionadas às seções que compõem um documento de patente.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA04",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj. 5\n",
+      "objetivo": "Descrever os recursos utilizados na redação para ampliar a proteção da invenção",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA04",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj. 6",
+      "objetivo": "Descrever as etapas que compõem o processamento de um pedido de patente no INPI",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA05",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj.1 \n",
+      "objetivo": "Descrever os elementos que compõem uma marca e explicar sua função distintiva no mercado.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA05",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj. 6\n",
+      "objetivo": "Explicar como os princípios de marcas orientam a proteção e o alcance jurídico dos registros.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA05",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj. 7",
+      "objetivo": "Explicar as consequências jurídicas da degeneração de marcas.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA06",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj. 1 \n",
+      "objetivo": "Explicar a definição de Desenho Industrial (DI) segundo a legislação brasileira.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA06",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj. 2\n",
+      "objetivo": "Explicar a função do DI na proteção, bem como a importância na valorização de produtos.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA06",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj. 3",
+      "objetivo": "Diferenciar desenho industrial de desenho artístico, design e artesanato.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA07",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj.1 \n",
+      "objetivo": "Explicar o conceito de Indicação Geográfica (IG).",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA07",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G2: Obj. 2\n",
+      "objetivo": "Comparar os diferentes tipos de Indicação Geográfica (IG).",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA07",
+      "recurso": "QUIZ",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj.6",
+      "objetivo": "Explicar os benefícios e a importância da Indicação Geográfica (IG) para a valorização de produtos regionais",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA08",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G1: Obj. 1 \n",
+      "objetivo": "Explicar o conceito de licença compulsória no contexto jurídico e econômico.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA08",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G3: Obj. 8\n",
+      "objetivo": "Explicar a relevância e os benefícios do segredo industrial como mecanismo de proteção do conhecimento e da competitividade a partir de exemplos práticos.",
+      "alvo_ua": null
+    },
+    {
+      "slug": "ferramentas_propriedade_industrial",
+      "origem": "humano",
+      "ua": "UA08",
+      "recurso": "Quiz",
+      "tipo": "referencia_resolvida",
+      "referencia": "G4: Obj. 11",
+      "objetivo": "Explicar práticas configuradas como concorrência desleal segundo a legislação vigente",
+      "alvo_ua": null
+    },
+    {
+      "slug": "resistencia_materiais",
+      "origem": "humano",
+      "ua": "UA02",
+      "recurso": "Quiz",
+      "tipo": "deduplicado",
+      "referencia": "Determinar a declividade e a deflexão de vigas com restrições e carregamentos simples a partir do método da integração direta.",
+      "objetivo": "Determinar a declividade e a deflexão de vigas com restrições e carregamentos simples a partir do método da integração direta.",
+      "alvo_ua": null
+    }
+  ],
+  "resumo": {
+    "referencias_resolvidas": 66,
+    "nao_resolvidas": 0,
+    "deduplicadas": 17
+  }
+}

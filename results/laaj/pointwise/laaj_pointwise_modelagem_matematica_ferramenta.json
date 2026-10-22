@@ -1,0 +1,146 @@
+{
+  "juizes": {
+    "deepseek-r1:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 5,
+            "learning_objectives": 5,
+            "constructive_alignment": 5,
+            "pedagogical_progression": 5,
+            "activity_resource_workload_viability": 5
+          },
+          "rationale_geral": "O LAP apresenta um design pedagógico robusto, com unidades de aprendizagem bem definidas que seguem uma progressão lógica. Ele abrange todos os componentes da currículo, incluindo desde a introdução a equações diferenciais até sistemas complexos e transformações lineares. Os recursos variados e as atividades práticas promovem uma compreensão profunda dos tópicos.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre todos os objetivos da CG, incluindo a modelagem matemática de fenômenos e resolução de EDOs. Cada UA está alinhada com as competências específicas, como resolver sistemas de equações diferenciais e aplicar conceitos de espaços vetoriais.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e medíveis. Cada UA define metas específicas, como '_resolver EDOs' ou 'aplicar métodos numéricos', usando verbos apropriados para avaliação.",
+            "constructive_alignment": "Há uma coerência entre objetivos, conteúdo e atividades. As avaliações, como quizzes e testes, medem adequadamente o alcance dos objetivos de aprendizagem.",
+            "pedagogical_progression": "A sequência das UAs segue uma progressão lógica: introdução a EDOs, resolução de sistemas, transformações lineares e aplicações práticas. Isso promove uma construção gradual do conhecimento.",
+            "activity_resource_workload_viability": "As atividades são variadas e relevantes, incluindo vídeos, textos, podcasts e roteiros de atividades. A carga horária parece adequada para cada unidade."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 3,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada e abrangente, cobrindo a maioria dos objetivos e conteúdos da CG. No entanto, há algumas omissões significativas, como a ausência de atividades que promovam a liderança e integração em equipes, além de inconsistências na alinhamento entre alguns recursos e objetivos.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange a maioria dos objetivos e competências da CG, como resolução de EDOs e modelagem de fenômenos. No entanto, falta atividades que promovam habilidades em liderança e integração de equipes.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e medíveis, mas algumas unidades possuem objetivos muito amplos ou pouco específicos, o que pode dificultar a compreensão dos alunos.",
+            "constructive_alignment": "Há uma boa correspondência entre competências, objetivos e recursos, mas algumas unidades apresentam inconsistências, como recursos que não se alinham diretamente com os objetivos da unidade.",
+            "pedagogical_progression": "A sequência lógica das unidades é geralmente boa, mas há problemas na ordem de algumas unidades, como a posição da UA6 em relação à UA7, que pode confundir os alunos.",
+            "activity_resource_workload_viability": "Os recursos são variados e relevantes, mas algumas unidades têm um excesso de recursos, o que pode sobrecarregar os alunos. Além disso, alguns recursos não estão diretamente alinhados com os objetivos da unidade."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 5,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada e abrangente, cobrindo todos os tópicos mencionados na CG. Cada UA é bem definida e inclui recursos variados que ajudam a alcançar os objetivos de aprendizagem. No entanto, há algumas unidades com conteúdo excessivo e outros problemas menores que podem afetar a coerência e a viabilidade da carga horária.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange todos os tópicos listados na CG, incluindo espaços vetoriais, equações diferenciais, transformações lineares e métodos numéricos. Cada unidade está alinhada com as competências e objetivos da CG.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e medíveis, como 'Resolver equações diferenciais ordinárias' e 'Aplicar conceitos de espaços vetoriais'. No entanto, algumas unidades tratam de mais de um objetivo, o que pode dificultar a observação individual.",
+            "constructive_alignment": "Há uma boa coerência entre competências, objetivos e atividades. Por exemplo, as unidades sobre equações diferenciais incluem vídeos, textos e quizzes relevantes. No entanto, algumas unidades misturam tópicos diferentes, o que pode prejudicar a coesão.",
+            "pedagogical_progression": "A sequência lógica é mantida, com uma progressão clara de conceitos básicos para mais complexos. Por exemplo, UA1 introduz equações diferenciais, enquanto UA8 trata de sistemas de equações. No entanto, há saltos significativos entre algumas unidades que podem confundir os alunos.",
+            "activity_resource_workload_viability": "Os recursos são variados e relevantes, incluindo vídeos, textos, podcasts e atividades interativas. No entanto, a carga horária parece pesada em algumas unidades, especialmente nas UAs com mais de uma hora de conteúdo."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 5,
+        "learning_objectives": 4,
+        "constructive_alignment": 4,
+        "pedagogical_progression": 4,
+        "activity_resource_workload_viability": 3
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.471,
+        "learning_objectives": 0.471,
+        "constructive_alignment": 0.471,
+        "pedagogical_progression": 0.816,
+        "activity_resource_workload_viability": 0.943
+      },
+      "escore_global_ponderado": 4.0
+    },
+    "qwen2.5:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 3,
+            "learning_objectives": 4,
+            "constructive_alignment": 3,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP abrange uma variedade de tópicos relacionados a equações diferenciais e espaços vetoriais, seguindo um formato estruturado com várias unidades de aprendizagem (UAs) que incluem recursos variados como vídeos, textos, podcasts e atividades interativas. No entanto, há algumas inconsistências na cobertura dos objetivos e competências da CG, bem como em alguns aspectos do alinhamento construtivo e progressão pedagógica.",
+          "rationales": {
+            "curricular_alignment": "Embora o LAP cubra a maioria das áreas mencionadas na CG, falta um foco mais detalhado nas transformações lineares e nos sistemas de equações diferenciais. Além disso, alguns objetivos específicos da CG não são abordados em profundidade ou estão ausentes no LAP.",
+            "learning_objectives": "Os objetivos de aprendizagem são claramente definidos e mensuráveis para cada UA, mas algumas UAs têm objetivos que se sobrepõem ou não estão alinhados com os objetivos gerais da CG.",
+            "constructive_alignment": "Há uma boa correspondência entre competências, objetivos e conteúdos em várias UAs, mas a avaliação das atividades às vezes parece inconsistente com os objetivos de aprendizagem estabelecidos. Por exemplo, algumas avaliações não cobrem todos os aspectos dos objetivos de aprendizagem.",
+            "pedagogical_progression": "A progressão pedagógica entre as UAs é lógica e segue uma sequência que permite aos alunos construir conhecimento gradualmente. No entanto, algumas transições podem ser mais abruptas ou não claramente definidas.",
+            "activity_resource_workload_viability": "Os recursos propostos são variados e relevantes para o conteúdo de cada UA. A carga horária parece adequada para a profundidade do material, mas algumas atividades podem ser excessivamente longas ou não eficientes em termos de tempo."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 3,
+            "learning_objectives": 4,
+            "constructive_alignment": 3,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP aborda de forma extensa e detalhada os conteúdos relacionados a equações diferenciais, espaços vetoriais e transformações lineares. No entanto, há algumas inconsistências na cobertura dos objetivos de aprendizagem e competências estabelecidas pela Curriculum Guideline (CG). As atividades propostas são variadas e relevantes para o conteúdo, mas a progressão pedagógica entre as unidades de aprendizagem poderia ser mais clara.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange uma grande parte dos conteúdos da CG, incluindo equações diferenciais, espaços vetoriais e transformações lineares. No entanto, há alguns objetivos de aprendizagem que não são cobertos diretamente, como a aplicação de conceitos de espaços vetoriais na modelagem de fenômenos (Objetivo 2). Além disso, algumas competências da CG não são explicitamente mencionadas ou abordadas no LAP.",
+            "learning_objectives": "Os objetivos de aprendizagem do LAP são claros e mensuráveis. Eles cobrem a resolução de equações diferenciais, análise de sistemas lineares e métodos numéricos para resolver EDOs. No entanto, alguns dos objetivos poderiam ser mais granulares ou detalhados em relação aos requisitos da CG.",
+            "constructive_alignment": "Há uma boa coerência entre os conteúdos e as atividades propostas nas unidades de aprendizagem. No entanto, há algumas inconsistências na avaliação dos objetivos de aprendizagem em relação às competências da CG. Por exemplo, a avaliação do método de resolução de EDOs numéricos não está claramente alinhada com o objetivo 1 da CG.",
+            "pedagogical_progression": "A progressão pedagógica entre as unidades de aprendizagem é lógica e segue uma sequência coerente. No entanto, a relação de pré-requisitos entre algumas UAs poderia ser mais claramente definida para melhorar a compreensão da estrutura do LAP.",
+            "activity_resource_workload_viability": "Os recursos e atividades propostas são variados, relevantes e contextualmente adequados. No entanto, algumas atividades parecem ter uma carga de trabalho muito alta (por exemplo, o roteiro de atividade em UA3 com 100 minutos), que pode ser desafiadora para os alunos."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP aborda extensivamente os conteúdos relacionados a equações diferenciais, espaços vetoriais e transformações lineares conforme especificado na CG. No entanto, há algumas lacunas em termos de cobertura completa dos objetivos de aprendizagem e competências estabelecidas pela CG. As atividades propostas são variadas e relevantes para o conteúdo abordado, mas a progressão pedagógica entre as unidades de aprendizagem poderia ser mais claramente definida.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre extensivamente os conteúdos relacionados a equações diferenciais, espaços vetoriais e transformações lineares conforme especificado na CG. No entanto, há uma falta de referência explícita aos pré-requisitos mencionados na CG (Cálculo em Várias Variáveis).",
+            "learning_objectives": "Os objetivos de aprendizagem são claramente definidos e mensuráveis, mas eles não abrangem todos os aspectos dos objetivos estabelecidos na CG. Por exemplo, a competência em liderar equipes para alcançar resultados não é mencionada.",
+            "constructive_alignment": "Há uma boa correspondência entre as competências, objetivos e conteúdos ao longo do LAP, com atividades e avaliações que alinham bem os aprendizados esperados. No entanto, a avaliação dos pré-requisitos não é claramente estabelecida.",
+            "pedagogical_progression": "A progressão pedagógica entre as unidades de aprendizagem é lógica e coerente, mas poderia ser mais explicitamente definida em termos de pré-requisitos e dependências entre os conteúdos.",
+            "activity_resource_workload_viability": "As atividades propostas são variadas e relevantes para o conteúdo abordado, incluindo OVA, textos, podcasts, roteiros de atividade, aulas síncronas e quizzes. No entanto, algumas atividades parecem ter uma carga horária muito alta (100 minutos), o que pode ser desafiador para os estudantes."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 3,
+        "learning_objectives": 4,
+        "constructive_alignment": 3,
+        "pedagogical_progression": 4,
+        "activity_resource_workload_viability": 4
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.471,
+        "learning_objectives": 0.0,
+        "constructive_alignment": 0.471,
+        "pedagogical_progression": 0.0,
+        "activity_resource_workload_viability": 0.0
+      },
+      "escore_global_ponderado": 3.6
+    }
+  }
+}

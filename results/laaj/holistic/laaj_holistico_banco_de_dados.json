@@ -1,0 +1,237 @@
+{
+  "juizes": {
+    "deepseek-r1:14b": {
+      "respostas_brutas": [
+        {
+          "mapeamento": "paa_1=A#1",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura e Estrutura das Unidades",
+              "evidencia_artifact_a": "Artifact A apresenta uma divisão mais detalhada e progressiva das unidades, com cada unidade focando em tópicos específicos como Fundamentos, Modelagem Conceitual, Lógica, Normalização, Álgebra Relacional, SQL, Processamento de Consultas e Bancos não-relacionais. Isso permite uma abordagem mais sequencial e aprofundada do conteúdo.",
+              "evidencia_artifact_b": "Artifact B apresenta unidades com tópicos mais amplos e menos divisão, como UA1 abrangendo conceitos básicos de sistemas de banco de dados e UA2 sobre arquitetura. Essa abordagem pode resultar em um conteúdo mais disperso e menos focado."
+            },
+            {
+              "aspecto": "Qualidade dos Objetivos de Aprendizagem",
+              "evidencia_artifact_a": "Os objetivos de aprendizagem em Artifact A são claros, específicos e bem definidos. Por exemplo, UA3 destaca a modelagem conceitual com abordagem E-R, identificação de entidades, relacionamentos, atributos, cardinalidade e condicionalidade.",
+              "evidencia_artifact_b": "Os objetivos em Artifact B são mais genéricos e menos específicos. Por exemplo, UA1 foca em conceitos fundamentais de sistemas de banco de dados sem entrar em detalhes."
+            },
+            {
+              "aspecto": "Recursos e Atividades",
+              "evidencia_artifact_a": "Artifact A inclui uma variedade maior de recursos como OVAs, textos, roteiros de atividades HTML, aulas sincronas e quizzes. As atividades são mais específicas e práticas, como modelagem conceitual em UA3.",
+              "evidencia_artifact_b": "Artifact B também inclui recursos variados, mas as atividades tendem a ser menos detalhadas e mais gerais."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#2",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura de Conteúdo e Integração",
+              "evidencia_artifact_a": "Artifact A apresenta unidades mais segmentadas, como UA1 focando apenas em introdução a sistemas de banco de dados, enquanto UA2 aborda arquitetura de SGBD separadamente.",
+              "evidencia_artifact_b": "Artifact B combina tópicos relacionados, por exemplo, UA01 abrange tanto os fundamentos de bancos de dados quanto a arquitetura de SGBD, promovendo uma abordagem mais integrada."
+            },
+            {
+              "aspecto": "Profundidade nas Atividades",
+              "evidencia_artifact_a": "As unidades de Artifact A incluem atividades práticas como roteiros e quizzes, mas aprofundam menos em tópicos específicos.",
+              "evidencia_artifact_b": "Artifact B apresenta atividades mais detalhadas, como 'Roteiro de Atividade' que envolvem modelagem conceitual e lógica, além de estratégias de migração para bancos não-relacionais."
+            },
+            {
+              "aspecto": "Fluxo e Conexão dos Conteúdos",
+              "evidencia_artifact_a": "O fluxo em Artifact A é linear, com cada unidade tratando um tópico isolado, o que pode limitar a conexão entre conceitos.",
+              "evidencia_artifact_b": "Artifact B promove uma abordagem mais holística, integrando tópicos relacionados e permitindo que os alunos vejam conexões entre diferentes áreas do currículo."
+            }
+          ],
+          "preferred_artifact": "B",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_1=A#3",
+          "comparacao": [
+            {
+              "aspecto": "Organizacao das unidades e recursos",
+              "evidencia_artifact_a": "Artifact A apresenta uma organização clara em unidades (UA01 a UA08), cada uma com foco em tópicos específicos como Fundamentos, Modelagem Conceitual, Lógica, Normalização, Álgebra Relacional, SQL, Processamento de Consultas e Bancos NoSQL. Cada unidade inclui recursos variados como OVAs, textos, roteiros de atividades HTML, aulas síncronas e quizzes.",
+              "evidencia_artifact_b": "Artifact B também organiza em unidades (UA1 a UA8), mas some tópicos parecem ser abrangidos em unidades mais amplas. Por exemplo, UA2 aborda arquitetura de SGBD e normalização, enquanto UA5 inclui transformação de modelos e dependência funcional."
+            },
+            {
+              "aspecto": "Abordagem pedagógica",
+              "evidencia_artifact_a": "Artifact A utiliza uma abordagem mais modular e detalhada, com cada unidade focando em um tópico específico. Por exemplo, UA02 é dedicada exclusivamente à Modelagem Conceitual de Dados com abordagem E-R.",
+              "evidencia_artifact_b": "Artifact B parece ter uma abordagem mais integrada, com unidades que abrangem tópicos relacionados. Por exemplo, UA5 inclui transformação de modelos e normalização."
+            },
+            {
+              "aspecto": "Recursos pedagógicos",
+              "evidencia_artifact_a": "Artifact A inclui uma variedade maior de recursos pedagógicos, como OVAs, textos, roteiros de atividades interativos (HTML), aulas síncronas e quizzes. Cada recurso tem objetivos específicos e conteúdo formativo bem definido.",
+              "evidencia_artifact_b": "Artifact B também inclui recursos variados, mas parece ter menos diversidade em alguns casos. Por exemplo, o uso de podcasts e vídeos é mais limitado."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#4",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura do currículo",
+              "evidencia_artifact_a": "Cada unidade aborda tópicos específicos em detalhe, como introdução, arquitetura e modelagem de dados.",
+              "evidencia_artifact_b": "Combina tópicos em unidades mais amplas, o que pode resultar em uma abordagem menos aprofundada."
+            },
+            {
+              "aspecto": "Variedade de recursos",
+              "evidencia_artifact_a": "Inclui uma variedade de recursos como OVA, textos, podcasts e atividades interativas.",
+              "evidencia_artifact_b": "Também inclui vários tipos de recursos, mas pode ter menos diversidade em algumas unidades."
+            },
+            {
+              "aspecto": "Estrutura modular",
+              "evidencia_artifact_a": "Possui mais unidades, permitindo uma abordagem modular e aprofundada.",
+              "evidencia_artifact_b": "Tendência a combinar tópicos em unidades mais amplas."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        }
+      ],
+      "replicas_descartadas_sem_comparacao": 0,
+      "preferencia_final": "paa_1",
+      "votos_traduzidos": [
+        "paa_1",
+        "paa_1",
+        "paa_1",
+        "paa_2"
+      ],
+      "padrao_votos": "1-3",
+      "vencedor_padrao_votos": "humano",
+      "confidence_por_execucao": [
+        "high",
+        "high",
+        "high",
+        "high"
+      ]
+    },
+    "qwen2.5:14b": {
+      "respostas_brutas": [
+        {
+          "mapeamento": "paa_1=A#1",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura do Conteúdo Formativo",
+              "evidencia_artifact_a": "UA02: Modelagem Conceitual de Dados, UA03: Modelagem Lógica, UA04: Dependência Funcional e Normalização",
+              "evidencia_artifact_b": "UA3: Modelagem Conceitual de Dados: Fundamentos, UA4: Transformação de Modelos de Dados e Normalização"
+            },
+            {
+              "aspecto": "Qualidade dos Objetivos de Aprendizagem",
+              "evidencia_artifact_a": "UA01: Fundamentos de Sistemas de Banco de Dados e Arquitetura de SGBD, UA02: Modelagem Conceitual de Dados",
+              "evidencia_artifact_b": "UA1: Introdução aos Sistemas de Banco de Dados, UA2: Arquitetura e Componentes de um SGBD"
+            },
+            {
+              "aspecto": "Viabilidade Prática das Atividades",
+              "evidencia_artifact_a": "UA05: Álgebra Relacional e Cálculo Relacional, UA06: Structured Query Language - SQL",
+              "evidencia_artifact_b": "UA6: Álgebra Relacional e Cálculo Relacional, UA7: SQL: Linguagem de Definição e Manipulação de Dados"
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#2",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura do conteúdo formativo",
+              "evidencia_artifact_a": "UA1 e UA2 cobrem os fundamentos dos SGBDs e arquitetura, mas UA3 de Artifact A foca mais em Modelagem Conceitual com E-R.",
+              "evidencia_artifact_b": "UA01 abrange tanto os fundamentos quanto a arquitetura de SGBD, além da modelagem conceitual."
+            },
+            {
+              "aspecto": "Qualidade dos objetivos de aprendizagem",
+              "evidencia_artifact_a": "O objetivo de UA2 é aplicar técnicas para conversão do modelo conceitual para o lógico e vice-versa.",
+              "evidencia_artifact_b": "UA04 tem um objetivo mais detalhado, como identificar dependências funcionais implícitas em uma relação."
+            },
+            {
+              "aspecto": "Viabilidade prática",
+              "evidencia_artifact_a": "UA7 inclui atividades práticas com SQL e subconsultas aninhadas.",
+              "evidencia_artifact_b": "UA06 tem um roteiro de atividade que implementa operações com strings, ordenação e subconsultas aninhadas na construção de consultas SQL."
+            }
+          ],
+          "preferred_artifact": "B",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_1=A#3",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura dos Conteúdos Formativos",
+              "evidencia_artifact_a": "UA04: Dependência Funcional e Normalização, UA05: Álgebra Relacional e Cálculo Relacional",
+              "evidencia_artifact_b": "UA5: Transformação de Modelos de Dados e Normalização, UA6: Álgebra Relacional e Cálculo Relacional"
+            },
+            {
+              "aspecto": "Qualidade dos Objetivos de Aprendizagem",
+              "evidencia_artifact_a": "UA02: Modelagem Conceitual de Dados - Reconhecer os requisitos do problema do mundo real, identificando informações relevantes para a construção de um modelo conceitual de dados.",
+              "evidencia_artifact_b": "UA3: Modelagem Conceitual de Dados: Fundamentos - Compreender os conceitos fundamentais relacionados ao tema da unidade."
+            },
+            {
+              "aspecto": "Viabilidade Prática das Atividades",
+              "evidencia_artifact_a": "UA06: Structured Query Language - SQL - Implementar operações com strings, ordenação e subconsultas aninhadas na construção de consultas SQL.",
+              "evidencia_artifact_b": "UA7: SQL: Linguagem de Definição e Manipulação de Dados - Explicar os principais elementos de uma consulta SQL."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#4",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura do conteúdo formativo",
+              "evidencia_artifact_a": "UA1 e UA2 cobrem os fundamentos dos SGBDs e arquitetura, mas UA3 de Artifact A foca mais em Modelagem Conceitual com E-R.",
+              "evidencia_artifact_b": "UA01 abrange tanto os fundamentos quanto a arquitetura do SGBD, além da modelagem conceitual."
+            },
+            {
+              "aspecto": "Qualidade dos objetivos de aprendizagem",
+              "evidencia_artifact_a": "O objetivo de UA2 é aplicar técnicas para conversão do modelo conceitual para lógico e vice-versa.",
+              "evidencia_artifact_b": "UA04 tem um objetivo mais detalhado, como identificar dependências funcionais implícitas em uma relação."
+            },
+            {
+              "aspecto": "Viabilidade prática",
+              "evidencia_artifact_a": "UA7 inclui atividades práticas com SQL e subconsultas aninhadas.",
+              "evidencia_artifact_b": "UA06 tem roteiros de atividade que envolvem a aplicação de operações avançadas em SQL."
+            }
+          ],
+          "preferred_artifact": "B",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        }
+      ],
+      "replicas_descartadas_sem_comparacao": 0,
+      "preferencia_final": "paa_1",
+      "votos_traduzidos": [
+        "paa_1",
+        "paa_1",
+        "paa_1",
+        "paa_1"
+      ],
+      "padrao_votos": "0-4",
+      "vencedor_padrao_votos": "humano",
+      "confidence_por_execucao": [
+        "high",
+        "high",
+        "high",
+        "high"
+      ]
+    }
+  },
+  "execucoes": 4
+}

@@ -1,0 +1,26 @@
+{
+  "por_disciplina": {
+    "estatistica_data_science": [
+      "UA09"
+    ],
+    "banco_de_dados": [
+      "UA09"
+    ],
+    "desenvolvimento_full_cycle": [
+      "UA09"
+    ],
+    "modelagem_matematica": [
+      "UA09"
+    ],
+    "estatistica_geral": [
+      "UA09"
+    ],
+    "ferramentas_propriedade_industrial": [
+      "UA09"
+    ],
+    "resistencia_materiais": [
+      "UA09"
+    ]
+  },
+  "total_uas_fora_de_escopo_removidas": 7
+}

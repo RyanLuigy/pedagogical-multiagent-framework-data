@@ -1,0 +1,239 @@
+{
+  "escores_globais_ponderados": {
+    "estatistica_data_science:humano": {
+      "deepseek-r1:14b": 4.0,
+      "qwen2.5:14b": 4.0
+    },
+    "estatistica_data_science:ferramenta": {
+      "deepseek-r1:14b": 3.8,
+      "qwen2.5:14b": 4.0
+    },
+    "banco_de_dados:humano": {
+      "deepseek-r1:14b": 4.8,
+      "qwen2.5:14b": 4.0
+    },
+    "banco_de_dados:ferramenta": {
+      "deepseek-r1:14b": 3.6,
+      "qwen2.5:14b": 3.2
+    },
+    "desenvolvimento_full_cycle:humano": {
+      "deepseek-r1:14b": 3.6,
+      "qwen2.5:14b": 3.8
+    },
+    "desenvolvimento_full_cycle:ferramenta": {
+      "deepseek-r1:14b": 4.8,
+      "qwen2.5:14b": 4.0
+    },
+    "modelagem_matematica:humano": {
+      "deepseek-r1:14b": 4.2,
+      "qwen2.5:14b": 4.0
+    },
+    "modelagem_matematica:ferramenta": {
+      "deepseek-r1:14b": 4.0,
+      "qwen2.5:14b": 3.6
+    },
+    "estatistica_geral:humano": {
+      "deepseek-r1:14b": 4.2,
+      "qwen2.5:14b": 4.0
+    },
+    "estatistica_geral:ferramenta": {
+      "deepseek-r1:14b": 3.6,
+      "qwen2.5:14b": 3.4
+    },
+    "ferramentas_propriedade_industrial:humano": {
+      "deepseek-r1:14b": 4.6,
+      "qwen2.5:14b": 4.0
+    },
+    "ferramentas_propriedade_industrial:ferramenta": {
+      "deepseek-r1:14b": 3.6,
+      "qwen2.5:14b": 3.6
+    },
+    "resistencia_materiais:humano": {
+      "deepseek-r1:14b": 4.0,
+      "qwen2.5:14b": 4.0
+    },
+    "resistencia_materiais:ferramenta": {
+      "deepseek-r1:14b": 3.4,
+      "qwen2.5:14b": 4.0
+    }
+  },
+  "concordancia_holistica": {
+    "percentual_concordancia": 0.286,
+    "total_disciplinas": 7,
+    "detalhe": [
+      {
+        "disciplina": "estatistica_data_science",
+        "juiz_0": "paa_2",
+        "juiz_1": "paa_1",
+        "concordam": false
+      },
+      {
+        "disciplina": "banco_de_dados",
+        "juiz_0": "paa_1",
+        "juiz_1": "paa_1",
+        "concordam": true
+      },
+      {
+        "disciplina": "desenvolvimento_full_cycle",
+        "juiz_0": "paa_1",
+        "juiz_1": "paa_2",
+        "concordam": false
+      },
+      {
+        "disciplina": "modelagem_matematica",
+        "juiz_0": "paa_2",
+        "juiz_1": "tie",
+        "concordam": false
+      },
+      {
+        "disciplina": "estatistica_geral",
+        "juiz_0": "tie",
+        "juiz_1": "paa_2",
+        "concordam": false
+      },
+      {
+        "disciplina": "ferramentas_propriedade_industrial",
+        "juiz_0": "paa_1",
+        "juiz_1": "tie",
+        "concordam": false
+      },
+      {
+        "disciplina": "resistencia_materiais",
+        "juiz_0": "tie",
+        "juiz_1": "tie",
+        "concordam": true
+      }
+    ]
+  },
+  "vitorias_empates_derrotas": {
+    "deepseek-r1:14b": {
+      "vitorias_gerado": 2,
+      "vitorias_humano": 3,
+      "empates": 2
+    },
+    "qwen2.5:14b": {
+      "vitorias_gerado": 2,
+      "vitorias_humano": 2,
+      "empates": 3
+    }
+  },
+  "resultados_holistico_por_disciplina": {
+    "estatistica_data_science": {
+      "deepseek-r1:14b": "paa_2",
+      "qwen2.5:14b": "paa_1"
+    },
+    "banco_de_dados": {
+      "deepseek-r1:14b": "paa_1",
+      "qwen2.5:14b": "paa_1"
+    },
+    "desenvolvimento_full_cycle": {
+      "deepseek-r1:14b": "paa_1",
+      "qwen2.5:14b": "paa_2"
+    },
+    "modelagem_matematica": {
+      "deepseek-r1:14b": "paa_2",
+      "qwen2.5:14b": "tie"
+    },
+    "estatistica_geral": {
+      "deepseek-r1:14b": "tie",
+      "qwen2.5:14b": "paa_2"
+    },
+    "ferramentas_propriedade_industrial": {
+      "deepseek-r1:14b": "paa_1",
+      "qwen2.5:14b": "tie"
+    },
+    "resistencia_materiais": {
+      "deepseek-r1:14b": "tie",
+      "qwen2.5:14b": "tie"
+    }
+  },
+  "position_bias_passo_b": {
+    "taxa_geral": 0.143,
+    "suspeitos_total": 2,
+    "total": 14,
+    "por_juiz": {
+      "qwen2.5:14b": {
+        "suspeitos": 0,
+        "total": 7,
+        "taxa": 0.0
+      },
+      "deepseek-r1:14b": {
+        "suspeitos": 2,
+        "total": 7,
+        "taxa": 0.286
+      }
+    },
+    "detalhe": [
+      {
+        "disciplina": "estatistica_data_science",
+        "juiz": "deepseek-r1:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "estatistica_data_science",
+        "juiz": "qwen2.5:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "banco_de_dados",
+        "juiz": "deepseek-r1:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "banco_de_dados",
+        "juiz": "qwen2.5:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "desenvolvimento_full_cycle",
+        "juiz": "deepseek-r1:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "desenvolvimento_full_cycle",
+        "juiz": "qwen2.5:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "modelagem_matematica",
+        "juiz": "deepseek-r1:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "modelagem_matematica",
+        "juiz": "qwen2.5:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "estatistica_geral",
+        "juiz": "deepseek-r1:14b",
+        "suspeito_position_bias": true
+      },
+      {
+        "disciplina": "estatistica_geral",
+        "juiz": "qwen2.5:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "ferramentas_propriedade_industrial",
+        "juiz": "deepseek-r1:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "ferramentas_propriedade_industrial",
+        "juiz": "qwen2.5:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "resistencia_materiais",
+        "juiz": "deepseek-r1:14b",
+        "suspeito_position_bias": true
+      },
+      {
+        "disciplina": "resistencia_materiais",
+        "juiz": "qwen2.5:14b",
+        "suspeito_position_bias": false
+      }
+    ]
+  }
+}

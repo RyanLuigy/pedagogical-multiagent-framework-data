@@ -1,0 +1,252 @@
+{
+  "juizes": {
+    "deepseek-r1:14b": {
+      "respostas_brutas": [
+        {
+          "mapeamento": "paa_1=A#1",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura de Tópicos Específicos",
+              "evidencia_artifact_a": "Cobre uma variedade ampla de tópicos, incluindo álgebra linear, teoria das probabilidades, estatística descritiva, testes estatísticos e tratamento de dados.",
+              "evidencia_artifact_b": "Também abrange tópicos extensos, com ênfase em ecossistema de ciência de dados, aprendizagem automática e ferramentas essenciais."
+            },
+            {
+              "aspecto": "Atividades Interativas",
+              "evidencia_artifact_a": "Inclui多种互动活动如OVA, 视频, 文本和测验，提供丰富的学习体验。",
+              "evidencia_artifact_b": "同样包含互动元素如播客、文本和测验，但结构更紧凑，重点突出核心技能。"
+            },
+            {
+              "aspecto": "Estrutura e Coerência",
+              "evidencia_artifact_a": "Unidades variadas podem levar à dispersão de foco, possivelmente tornando-se overwhelmaning.",
+              "evidencia_artifact_b": "Organizado de forma mais coesa, permitindo que os alunos construam conhecimento de forma progressiva."
+            }
+          ],
+          "preferred_artifact": "B",
+          "is_tie": false,
+          "confidence": "medium",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#2",
+          "comparacao": [
+            {
+              "aspecto": "Estrutura das unidades de aprendizagem",
+              "evidencia_artifact_a": "Cada UA em Artifact A é focada em um tópico específico, como álgebra linear e teoria das probabilidades, permitindo uma abordagem mais aprofundada.",
+              "evidencia_artifact_b": "As UAs em Artifact B combinam vários tópicos relacionados, o que pode levar à dispersão de conteúdo."
+            },
+            {
+              "aspecto": "Variedade e alinhamento de recursos",
+              "evidencia_artifact_a": "Utiliza uma variedade de recursos como OVAs, podcasts, vídeos e atividades interativas, cada um com objetivos claros e bem-alinhados.",
+              "evidencia_artifact_b": "Também utiliza vários tipos de recursos, mas alguns podem ser repetitivos ou abrangem áreas muito amplas."
+            },
+            {
+              "aspecto": "Cobertura do currículo",
+              "evidencia_artifact_a": "Cada UA é bem alinhada com os objetivos e conteúdo da diretriz, permitindo uma cobertura completa e organizada.",
+              "evidencia_artifact_b": "A abordagem mais ampla pode resultar em menos profundidade em cada tópico."
+            },
+            {
+              "aspecto": "Viabilidade prática",
+              "evidencia_artifact_a": "A estrutura clara facilita a implementação e avaliação, promovendo uma progressão lógica de aprendizagem.",
+              "evidencia_artifact_b": "Pode ser mais difícil de gerenciar devido à abrangência ampla das unidades."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_1=A#3",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura de Tópicos",
+              "evidencia_artifact_a": "Cobre uma gama ampla e detalhada de tópicos, incluindo álgebra linear, teoria probabilística, aprendizagem automática e tratamento de dados.",
+              "evidencia_artifact_b": "Também abrange tópicos essenciais como ecossistema de ciência de dados, probabilidade, correlação e dimensão dos dados."
+            },
+            {
+              "aspecto": "Estrutura das Unidades",
+              "evidencia_artifact_a": "Possui 8 unidades (UA01 a UA08), com cada unidade focando em temas específicos e abrangendo desde matemática estatística até testes estatísticos.",
+              "evidencia_artifact_b": "Organizado em 8 unidades (UA1 a UA8), com cada unidade centrada em tópicos-chave como probabilidade, correlação e tratamento de dados."
+            },
+            {
+              "aspecto": "Recursos Pedagógicos",
+              "evidencia_artifact_a": "Inclui uma variedade de recursos como OVAs, vídeos, textos, podcasts, roteiros de atividades e quizzes.",
+              "evidencia_artifact_b": "Também utiliza recursos variados, incluindo OVAs, textos, podcasts, roteiros de atividades interativas e testes."
+            },
+            {
+              "aspecto": "Enfoque em Aplicabilidade",
+              "evidencia_artifact_a": "Muito focado na aplicação prática com Python, especialmente em unidades como UA03 e UA04.",
+              "evidencia_artifact_b": "Inclui atividades práticas e exemplos de código, promovendo uma ligação forte entre teoria e prática."
+            },
+            {
+              "aspecto": "Profundidade do Conteúdo",
+              "evidencia_artifact_a": "Oferece uma abordagem mais aprofundada em tópicos como álgebra linear e regresão, com recursos detalhados.",
+              "evidencia_artifact_b": "Mantém um equilíbrio entre profundidade e clareza, com explicações claras e exemplos práticos."
+            }
+          ],
+          "preferred_artifact": "B",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#4",
+          "comparacao": [
+            {
+              "aspecto": "Estrutura e Cobertura de Tópicos",
+              "evidencia_artifact_a": "Artifact A apresenta uma estrutura modular, com unidades focadas em tópicos específicos como Álgebra Linear e Teoria das Probabilidades, permitindo uma abordagem mais aprofundada e progressiva.",
+              "evidencia_artifact_b": "Artifact B mistura diferentes tópicos em cada unidade, o que pode ser benéfico para mostrar conexões entre áreas, mas pode ser cansativo para alunos."
+            },
+            {
+              "aspecto": "Recursos e Alinhamento com Objetivos",
+              "evidencia_artifact_a": "Artifact A usa recursos de forma eficaz, como OVAs e textos que se alinham diretamente a objetivos específicos, promovendo uma abordagem focada.",
+              "evidencia_artifact_b": "Artifact B também usa variados recursos, mas às vezes os objetivos parecem repetitivos ou menos bem-alinhados."
+            },
+            {
+              "aspecto": "Abordagem Prática",
+              "evidencia_artifact_a": "Inclui atividades práticas e ferramentas específicas como NumPy e Pandas desde o início, apoiando aprofundamento em habilidades técnicas.",
+              "evidencia_artifact_b": "Também inclui atividades práticas, mas pode haver excessiva generalidade em alguns objetivos."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        }
+      ],
+      "replicas_descartadas_sem_comparacao": 0,
+      "preferencia_final": "paa_2",
+      "votos_traduzidos": [
+        "paa_2",
+        "paa_2",
+        "paa_2",
+        "paa_2"
+      ],
+      "padrao_votos": "4-0",
+      "vencedor_padrao_votos": "gerado",
+      "confidence_por_execucao": [
+        "medium",
+        "high",
+        "high",
+        "high"
+      ]
+    },
+    "qwen2.5:14b": {
+      "respostas_brutas": [
+        {
+          "mapeamento": "paa_1=A#1",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura de conteúdo",
+              "evidencia_artifact_a": "UA01 em Artifact A abrange matemática e estatística aplicada à Data Science, incluindo álgebra linear e teoria das probabilidades.",
+              "evidencia_artifact_b": "UA1 em Artifact B também aborda matemática e estatística aplicada à Data Science, mas com foco mais específico em álgebra linear e teorema de Bayes."
+            },
+            {
+              "aspecto": "Qualidade da atividade prática",
+              "evidencia_artifact_a": "Roteiro de Atividade 1 na UA03 de Artifact A inclui a implementação de testes estatísticos com Python, demonstrando uma aplicação prática robusta.",
+              "evidencia_artifact_b": "O roteiro de atividade em UA4 do Artifact B também envolve a realização de testes estatísticos, mas com um enfoque mais teórico."
+            },
+            {
+              "aspecto": "Viabilidade da implementação",
+              "evidencia_artifact_a": "UA05 em Artifact A inclui uma variedade de recursos como OVA, texto e roteiro de atividade que cobrem a preparação dos dados para análises.",
+              "evidencia_artifact_b": "UA7 do Artifact B também aborda a preparação dos dados, mas com um foco mais teórico em compreensão e tratamento de dados."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "medium",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#2",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura do conteúdo formativo",
+              "evidencia_artifact_a": "UA1 de Artifact A aborda matemática e estatística aplicada à Data Science, incluindo álgebra linear e teoria das probabilidades.",
+              "evidencia_artifact_b": "UA01 de Artifact B também aborda matemática e estatística aplicada à Data Science, mas com uma ênfase maior em bibliotecas Python como Numpy e Pandas."
+            },
+            {
+              "aspecto": "Qualidade dos objetivos de aprendizagem",
+              "evidencia_artifact_a": "UA1 de Artifact A tem um objetivo claro de explicar o conceito de matrizes e suas propriedades básicas.",
+              "evidencia_artifact_b": "UA01 de Artifact B inclui um objetivo mais prático, como a implementação de cálculos com bibliotecas Python."
+            },
+            {
+              "aspecto": "Viabilidade prática das atividades",
+              "evidencia_artifact_a": "UA4 de Artifact A apresenta uma atividade que envolve a interpretação de resultados de testes de hipóteses.",
+              "evidencia_artifact_b": "UA03 de Artifact B inclui uma atividade prática para implementar testes de normalidade e não paramétricos em Python."
+            }
+          ],
+          "preferred_artifact": "B",
+          "is_tie": false,
+          "confidence": "medium",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_1=A#3",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura de conteúdo",
+              "evidencia_artifact_a": "UA01 em Artifact A abrange matemática e estatística aplicada à Data Science, incluindo álgebra linear e teoria das probabilidades.",
+              "evidencia_artifact_b": "UA1 em Artifact B também aborda matemática e estatística aplicada à Data Science, mas com foco mais específico em álgebra linear e teoria da probabilidade."
+            },
+            {
+              "aspecto": "Qualidade de atividades práticas",
+              "evidencia_artifact_a": "UA04 em Artifact A inclui várias atividades práticas para implementar conceitos como distâncias euclidianas, manhattan e chebyshev.",
+              "evidencia_artifact_b": "UA5 em Artifact B também oferece atividades práticas, mas com foco mais específico na aplicação de testes não paramétricos."
+            },
+            {
+              "aspecto": "Viabilidade prática",
+              "evidencia_artifact_a": "UA06 em Artifact A inclui uma aula síncrona detalhada sobre correlação e o parádox de Simpson, com várias atividades práticas.",
+              "evidencia_artifact_b": "UA6 em Artifact B também oferece uma aula síncrona abrangente sobre correlação e o parádox de Simpson, mas com menos recursos interativos."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "medium",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#4",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura do conteúdo formativo",
+              "evidencia_artifact_a": "UA1 de Artifact A aborda matemática e estatística aplicada à Data Science, incluindo álgebra linear e teoria das probabilidades.",
+              "evidencia_artifact_b": "UA01 de Artifact B também aborda matemática e estatística aplicada à Data Science, mas com uma ênfase maior em bibliotecas Python como Numpy e Pandas."
+            },
+            {
+              "aspecto": "Qualidade dos objetivos de aprendizagem",
+              "evidencia_artifact_a": "UA1 de Artifact A tem um objetivo claro de explicar o conceito de matrizes e suas propriedades básicas.",
+              "evidencia_artifact_b": "UA01 de Artifact B também explica a álgebra linear, mas adiciona uma ênfase em aplicação prática com Python."
+            },
+            {
+              "aspecto": "Viabilidade das atividades práticas",
+              "evidencia_artifact_a": "UA4 de Artifact A inclui um roteiro de atividade que envolve a implementação de testes não paramétricos.",
+              "evidencia_artifact_b": "UA03 de Artifact B também tem uma atividade prática, mas foca mais em frequências e medidas estatísticas."
+            }
+          ],
+          "preferred_artifact": "B",
+          "is_tie": false,
+          "confidence": "medium",
+          "rationale": null
+        }
+      ],
+      "replicas_descartadas_sem_comparacao": 0,
+      "preferencia_final": "paa_1",
+      "votos_traduzidos": [
+        "paa_1",
+        "paa_1",
+        "paa_1",
+        "paa_1"
+      ],
+      "padrao_votos": "0-4",
+      "vencedor_padrao_votos": "humano",
+      "confidence_por_execucao": [
+        "medium",
+        "medium",
+        "medium",
+        "medium"
+      ]
+    }
+  },
+  "execucoes": 4
+}

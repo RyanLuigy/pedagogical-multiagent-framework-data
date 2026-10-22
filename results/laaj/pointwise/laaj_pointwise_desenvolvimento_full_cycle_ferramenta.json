@@ -1,0 +1,146 @@
+{
+  "juizes": {
+    "deepseek-r1:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 5,
+            "learning_objectives": 5,
+            "constructive_alignment": 5,
+            "pedagogical_progression": 5,
+            "activity_resource_workload_viability": 5
+          },
+          "rationale_geral": "O LAP é bem estruturado e abrange todos os objetivos do currículo. Cada unidade de aprendizagem (UA) está alinhada com as competências e objetivos específicos, e há uma progressão lógica no conteúdo. Os recursos variados e as atividades promovem uma abordagem pedagógica equilibrada.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre todos os quatro objetivos de aprendizagem da CG, com cada UA focando em aspectos específicos. Por exemplo, a UA1 trata da arquitetura Full Cycle e ciclo de vida do desenvolvimento, enquanto a UA3 se concentra em práticas de DevOps. O conteúdo abrangente garante que nenhuma área crucial seja negligenciada.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros, medíveis e bem definidos em cada UA. Eles usam verbos apropriados como 'analisar', 'aplicar' e 'implementar', o que torna possível medir o progresso dos alunos.",
+            "constructive_alignment": "Há uma coerência consistente entre competências, objetivos, conteúdo, atividades e avaliações. Cada recurso e atividade está alinhado com os objetivos da CG, promovendo uma integração sólida do aprendizado.",
+            "pedagogical_progression": "A sequência das UAs segue um fluxo lógico, começando com conceitos básicos e progredindo para aplicações mais complexas. Cada UA constrói sobre a anterior, garantindo uma progressão pedagógica eficaz.",
+            "activity_resource_workload_viability": "As atividades são variadas e relevantes, com um equilíbrio entre diferentes tipos de recursos. O cronograma de workload parece viável, sem sobrecarregar os alunos em qualquer unidade."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura detalhada e abrangente, cobrindo todos os aspectos do componente curricular de Desenvolvimento Full Cycle. No entanto, há uma quantidade significativa de conteúdo que pode resultar em sobreposição entre Unidades de Aprendizagem (UAs) e um possível excesso de recursos para a carga horária disponível.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange todos os tópicos mencionados na CG, incluindo arquitetura Full Cycle, metodologias ágeis, DevOps, Docker e CI/CD. No entanto, há uma distribuição desbalanceada do conteúdo, com algumas unidades cobrindo tópicos em excesso, o que pode levar a sobreposição.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e medíveis, mas algumas unidades possuem objetivos muito semelhantes ou repetitivos, o que pode causar confusão e redundância.",
+            "constructive_alignment": "Há uma boa coerência entre os objetivos, conteúdo e atividades em cada UA. No entanto, a falta de integração mais profunda entre as unidades pode prejudicar a coesão do aprendizado ao longo do curso.",
+            "pedagogical_progression": "A sequência das UAs segue uma progressão lógica, começando com conceitos básicos e avançando para tópicos mais complexos. No entanto, a divisão em tantas unidades pode tornar o curso fragmentado.",
+            "activity_resource_workload_viability": "As atividades são variadas e relevantes, mas a quantidade de recursos em algumas unidades pode exceder a carga horária disponível, tornando-a viável apenas com um ajuste na distribuição do conteúdo."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 5,
+            "learning_objectives": 5,
+            "constructive_alignment": 5,
+            "pedagogical_progression": 5,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada e abrangente, cobrindo todos os tópicos essenciais da CG. Cada UA é bem definida e alinhada com os objetivos curriculares, promovendo uma progressão lógica do conteúdo. Os recursos são variados e suportam adequadamente as atividades de aprendizagem.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange integralmente os tópicos da CG, como arquitetura Full Cycle, metodologias ágeis, CI/CD, Docker e orquestração. Cada UA está alinhada com as competências e objetivos do currículo.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros, específicos e medíveis, usando verbos apropriados como 'analisar', 'aplicar' e 'implementar'. Eles estão bem distribuídos pelas unidades e refletem os resultados esperados.",
+            "constructive_alignment": "Há uma coerência entre competências, objetivos, conteúdo e atividades. Recursos variados como textos, vídeos, quizzes e aulas síncronas suportam os objetivos de aprendizagem.",
+            "pedagogical_progression": "A sequência das unidades segue uma progressão lógica: desde arquitetura Full Cycle para metodologias ágeis, CI/CD, Docker e orquestração. Cada UA constrói sobre a anterior, promovendo uma aprendizagem渐进.",
+            "activity_resource_workload_viability": "As atividades são variadas e contextualmente adequadas, com estimativas de carga horária razoáveis. No entanto, algumas unidades têm recursos semelhantes, o que pode reduzir a diversidade."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 5,
+        "learning_objectives": 5,
+        "constructive_alignment": 5,
+        "pedagogical_progression": 5,
+        "activity_resource_workload_viability": 4
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.471,
+        "learning_objectives": 0.471,
+        "constructive_alignment": 0.471,
+        "pedagogical_progression": 0.471,
+        "activity_resource_workload_viability": 0.816
+      },
+      "escore_global_ponderado": 4.8
+    },
+    "qwen2.5:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 3,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP abrange um amplo espectro de tópicos relacionados ao desenvolvimento Full Cycle, incluindo arquitetura full cycle, metodologias ágeis, práticas DevOps e Docker. No entanto, há algumas inconsistências na cobertura dos objetivos e competências estabelecidos pela Curriculum Guideline (CG). As atividades propostas são variadas e visam promover a aprendizagem ativa, mas podem ser mais eficazes se melhor alinhadas com os objetivos de aprendizagem específicos. A progressão pedagógica entre as unidades de aprendizagem é lógica, embora algumas transições possam beneficiar-se de maior clareza e detalhamento.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange a maioria dos tópicos da CG, mas há alguns desvios. Por exemplo, o conteúdo sobre orquestração de contêineres é tratado em uma UA separada (UA7), enquanto na CG está incluído no último objetivo de aprendizagem que trata de Docker e contêineres. Além disso, a cobertura do ciclo de vida de desenvolvimento de software é mais abrangente nas UAs iniciais do que nos objetivos específicos da CG.",
+            "learning_objectives": "Os objetivos de aprendizagem são claramente definidos e mensuráveis, mas alguns recursos parecem não estar diretamente alinhados com esses objetivos. Por exemplo, a UA8 aborda tanto a automação de testes quanto o uso de Docker em pipelines CI/CD, mas os objetivos específicos da CG não mencionam explicitamente essa combinação.",
+            "constructive_alignment": "Há uma boa coerência entre competências e conteúdos ao longo do LAP. No entanto, algumas atividades parecem ser mais gerais ou menos direcionadas para os objetivos específicos estabelecidos na CG. Por exemplo, a UA1 tem um foco significativo em arquitetura full cycle que não é tão bem representado nos objetivos de aprendizagem da CG.",
+            "pedagogical_progression": "A progressão pedagógica entre as UAs é lógica e segue uma sequência coerente, começando com conceitos fundamentais e avançando para práticas mais complexas. No entanto, algumas transições podem ser melhor explicadas ou detalhadas para garantir que os alunos entendam claramente como cada UA se conecta à próxima.",
+            "activity_resource_workload_viability": "As atividades e recursos propostos são variados, relevantes e contextualmente adequados. No entanto, a carga horária de algumas UAs pode ser considerada excessiva (por exemplo, UA2 com 100 minutos de roteiro de atividade), o que poderia sobrecarregar os alunos sem proporcionar um benefício pedagógico adicional significativo."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP abrange um conjunto de conteúdos relevantes e alinhados com a CG, mas apresenta algumas lacunas em termos de cobertura completa dos objetivos e competências. As atividades são variadas e incluem uma boa mistura de recursos digitais e interativos, embora haja espaço para melhorar a coerência entre as unidades de aprendizagem e o uso de verbos mensuráveis nos objetivos de aprendizagem.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre grande parte dos conteúdos formativos da CG, mas falta abordar alguns aspectos importantes como os estudos de caso de arquiteturas Full Cycle e a gestão do ciclo de vida de contêineres Docker. Além disso, não há uma cobertura completa das competências previstas na CG.",
+            "learning_objectives": "Os objetivos de aprendizagem são claramente definidos para cada UA e usam verbos mensuráveis, mas poderiam ser mais granulares em alguns casos. Por exemplo, os objetivos da UA1 poderiam ser divididos em subobjetivos específicos para cada componente de arquitetura Full Cycle.",
+            "constructive_alignment": "Há uma boa coerência entre competências, objetivos e conteúdos ao longo do LAP. No entanto, há algumas inconsistências na aplicação desses elementos em todas as unidades de aprendizagem, especialmente quando se trata da integração dos conceitos de DevOps com a arquitetura Full Cycle.",
+            "pedagogical_progression": "A progressão pedagógica entre as UAs é lógica e segue uma sequência que permite aos alunos construir conhecimento gradualmente. No entanto, algumas transições poderiam ser mais claras, especialmente na passagem de UA2 para UA3, onde há um salto conceitual significativo.",
+            "activity_resource_workload_viability": "As atividades e recursos propostos são variados e relevantes, incluindo uma boa mistura de recursos digitais interativos. No entanto, algumas unidades têm um número excessivo de horas dedicadas a atividades, o que pode ser desafiador para os alunos manterem o engajamento."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 3,
+            "pedagogical_progression": 3,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP abrange um conjunto de conteúdos relevantes e alinhados com as diretrizes curriculares, mas apresenta algumas lacunas em termos de coerência entre os objetivos de aprendizagem e a progressão pedagógica. As atividades propostas são variadas e contextualizadas, embora possam ser melhoradas para garantir uma carga horária mais equilibrada.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre os principais tópicos da CG, como arquitetura Full Cycle, metodologias ágeis, DevOps e Docker. No entanto, há algumas discrepâncias em relação aos objetivos de aprendizagem específicos estabelecidos na CG.",
+            "learning_objectives": "Os objetivos de aprendizagem são claramente definidos e mensuráveis, mas alguns recursos não alinham completamente com esses objetivos, o que pode confundir os estudantes sobre as expectativas específicas para cada unidade.",
+            "constructive_alignment": "Há uma boa correspondência entre competências e conteúdos em geral, mas a coerência entre atividades e avaliações é inconsistente. Alguns recursos parecem mais focados na explicação de conceitos do que na aplicação prática.",
+            "pedagogical_progression": "A progressão pedagógica segue uma lógica geral, começando com fundamentos e avançando para aplicações práticas. No entanto, algumas unidades parecem repetir conteúdo sem um claro desenvolvimento de habilidades.",
+            "activity_resource_workload_viability": "As atividades são diversificadas e contextualizadas, mas a carga horária pode ser desequilibrada entre as unidades. Algumas unidades têm uma quantidade significativa de conteúdo em comparação com outras."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 4,
+        "learning_objectives": 4,
+        "constructive_alignment": 4,
+        "pedagogical_progression": 4,
+        "activity_resource_workload_viability": 4
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.471,
+        "learning_objectives": 0.0,
+        "constructive_alignment": 0.471,
+        "pedagogical_progression": 0.471,
+        "activity_resource_workload_viability": 0.0
+      },
+      "escore_global_ponderado": 4.0
+    }
+  }
+}

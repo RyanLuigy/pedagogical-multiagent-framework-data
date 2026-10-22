@@ -1,0 +1,232 @@
+{
+  "juizes": {
+    "deepseek-r1:14b": {
+      "respostas_brutas": [
+        {
+          "mapeamento": "paa_1=A#1",
+          "comparacao": [
+            {
+              "aspecto": "Organização do Conteúdo",
+              "evidencia_artifact_a": "Artifact A organiza o conteúdo em unidades mais específicas e modulares, como UA01 para Introdução à Estatística e UA02 para Medidas Descritivas.",
+              "evidencia_artifact_b": "Artifact B combina tópicos em unidades mais amplas, como UA1 que abrange Estatística Descritiva e Visualização de Dados."
+            },
+            {
+              "aspecto": "Recursos e Atividades",
+              "evidencia_artifact_a": "Oferece uma variedade de recursos, incluindo OVAs, aulas síncronas, roteiros de atividades e quizzes, cada um focado em objetivos específicos.",
+              "evidencia_artifact_b": "Também fornece vários tipos de recursos, mas algumas unidades abrangem mais conteúdo, o que pode diluir a atenção em tópicos individuais."
+            },
+            {
+              "aspecto": "Alinhamento com Curriculum Guidelines",
+              "evidencia_artifact_a": "Cada unidade do Artifact A alinha diretamente com os objetivos de aprendizagem específicos da CG, promovendo uma abordagem modular e focada.",
+              "evidencia_artifact_b": "O conteúdo é mais integrado, o que pode levar a um menor alinhamento direto com alguns objetivos individuais da CG."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#2",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura de Conteúdo",
+              "evidencia_artifact_a": "Cada UA em Artifact A aborda tópicos específicos e detalhados, como 'Distribuição Binomial e Poisson' em UA5.",
+              "evidencia_artifact_b": "Artifact B reutiliza materiais em unidades diferentes, o que pode levar a uma cobertura menos detalhada de certos tópicos."
+            },
+            {
+              "aspecto": "Recursos Didáticos",
+              "evidencia_artifact_a": "Oferece variedade de recursos como OVAs, textos e quizzes em cada UA.",
+              "evidencia_artifact_b": "Reutiliza alguns OVAs e atividades, possivelmente reduzindo a variedade."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_1=A#3",
+          "comparacao": [
+            {
+              "aspecto": "Organização das unidades de aprendizagem",
+              "evidencia_artifact_a": "Artifact A organiza o conteúdo em unidades mais específicas e modulares, como UA01 para Introdução à Estatística e UA02 para Medidas Descritivas.",
+              "evidencia_artifact_b": "Artifact B combina tópicos relacionados em unidades mais amplas, como UA1 para Estatística Descritiva e Visualização de Dados."
+            },
+            {
+              "aspecto": "Recursos pedagógicos",
+              "evidencia_artifact_a": "Oferece uma variedade de recursos, incluindo OVAs, aulas síncronas, roteiros de atividades e quizzes para cada unidade.",
+              "evidencia_artifact_b": "Também fornece vários tipos de recursos, mas com abordagem mais integrada, como combinar distribuições discretas e contínuas em uma única unidade."
+            },
+            {
+              "aspecto": "Cobertura curricular",
+              "evidencia_artifact_a": "Cobre todos os tópicos da CG de forma modular, permitindo abordagem detalhada de cada assunto.",
+              "evidencia_artifact_b": "Aborda a maioria dos tópicos, mas com uma abordagem mais integrada que pode resultar em menos profundidade."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#4",
+          "comparacao": [
+            {
+              "aspecto": "Organização das unidades e abrangência do conteúdo",
+              "evidencia_artifact_a": "Artifact A apresenta uma organização modular com 8 unidades, cada uma focando em tópicos específicos como estatística descritiva, probabilidade, distribuições discretas e contínuas, estimação e testes de hipóteses. Cada unidade aborda conceitos detalhados, como representação gráfica, medidas de tendência central e dispersão, além de aplicações práticas.",
+              "evidencia_artifact_b": "Artifact B também possui 8 unidades, mas some tópicos como introdução à estatística e medidas descritivas em uma única unidade (UA01 e UA02). Isso pode resultar em um conteúdo mais abrangente, mas potencialmente menos focado."
+            },
+            {
+              "aspecto": "Especificidade dos objetivos de aprendizagem",
+              "evidencia_artifact_a": "Os objetivos de Artifact A são muito específicos e bem definidos, como 'Calcular probabilidades associadas a variáveis aleatórias que seguem distribuição normal' e 'Realizar testes para validação de hipóteses sobre proporção ou média populacional'. Isso garante uma clareza na direção do aprendizado.",
+              "evidencia_artifact_b": "Os objetivos de Artifact B são menos específicos, frequentemente agrupando多个 conceitos em um único objetivo, o que pode diluir a compreensão dos tópicos individuais."
+            },
+            {
+              "aspecto": "Recursos e variedade pedagógica",
+              "evidencia_artifact_a": "Inclui uma variedade de recursos como OVAs, textos, aulas síncronas e quizzes. Cada recurso parece estar bem alinhado com os objetivos da unidade e promove diferentes abordagens ao aprendizado.",
+              "evidencia_artifact_b": "Muitos recursos são marcados como 'reaproveitamento', o que pode indicar que eles não estão totalmente adaptados ou integrados à planificação pedagógica específica do curso."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        }
+      ],
+      "replicas_descartadas_sem_comparacao": 0,
+      "preferencia_final": "tie",
+      "votos_traduzidos": [
+        "paa_1",
+        "paa_2",
+        "paa_1",
+        "paa_2"
+      ],
+      "padrao_votos": "2-2",
+      "vencedor_padrao_votos": "tie",
+      "confidence_por_execucao": [
+        "high",
+        "high",
+        "high",
+        "high"
+      ]
+    },
+    "qwen2.5:14b": {
+      "respostas_brutas": [
+        {
+          "mapeamento": "paa_1=A#1",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura dos objetivos de aprendizagem",
+              "evidencia_artifact_a": "UA01: Introdução à Estatística, UA02: Medidas Descritivas, etc., cobrem os objetivos de aprendizagem especificamente mencionados na CG.",
+              "evidencia_artifact_b": "UA1: Estatística descritiva e visualização de dados, UA2: Fundamentos da estatística descritiva, etc., também cobrem os objetivos de aprendizagem mas com uma abordagem mais integrada."
+            },
+            {
+              "aspecto": "Viabilidade prática das atividades",
+              "evidencia_artifact_a": "Inclui várias aulas síncronas e quizzes para cada unidade avaliativa.",
+              "evidencia_artifact_b": "Inclui recursos como textos, OVA (Online Video Activity) e quizzes que podem ser mais flexíveis em termos de tempo."
+            },
+            {
+              "aspecto": "Especificidade dos objetivos",
+              "evidencia_artifact_a": "Cada unidade avaliativa tem objetivos claros e específicos relacionados a um tópico específico.",
+              "evidencia_artifact_b": "Os objetivos são mais abrangentes, cobrindo múltiplos aspectos de cada tópico."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "medium",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#2",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura dos Objetivos de Aprendizagem",
+              "evidencia_artifact_a": "UA1, UA2, UA3, etc., cobrem objetivos específicos da CG como representação gráfica e tabular, medidas de tendência central e dispersão.",
+              "evidencia_artifact_b": "UA01, UA02, UA03, etc., também abrangem os mesmos objetivos mas com uma ênfase em reaproveitamento de recursos."
+            },
+            {
+              "aspecto": "Viabilidade Prática",
+              "evidencia_artifact_a": "Inclui várias aulas síncronas e quizzes para cada unidade avaliativa, garantindo um acompanhamento contínuo dos alunos.",
+              "evidencia_artifact_b": "Muitos recursos são rotulados como 'reaproveitamento', o que pode indicar uma menor flexibilidade em adaptar os materiais às necessidades específicas de cada turma."
+            },
+            {
+              "aspecto": "Integração de Conteúdo",
+              "evidencia_artifact_a": "Cada unidade avaliativa é bem estruturada, com um foco claro no conteúdo formativo e objetivos de aprendizagem.",
+              "evidencia_artifact_b": "A abordagem em UA01 inclui uma introdução mais ampla à estatística, mas pode não ser tão detalhada quanto Artifact A na cobertura dos tópicos específicos."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_1=A#3",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura dos objetivos de aprendizagem",
+              "evidencia_artifact_a": "UA01: Introdução à Estatística, UA02: Medidas Descritivas, etc., cobrem os objetivos de aprendizagem especificamente mencionados na CG.",
+              "evidencia_artifact_b": "UA1: Estatística descritiva e visualização de dados, UA2: Fundamentos da estatística descritiva, etc., também cobrem os objetivos de aprendizagem mas com uma abordagem mais integrada."
+            },
+            {
+              "aspecto": "Viabilidade prática das atividades",
+              "evidencia_artifact_a": "Inclui várias aulas síncronas e quizzes para cada unidade avaliativa.",
+              "evidencia_artifact_b": "Inclui textos adicionais além de aulas síncronas e quizzes, oferecendo mais recursos de aprendizagem."
+            },
+            {
+              "aspecto": "Especificidade dos objetivos",
+              "evidencia_artifact_a": "Cada unidade avaliativa tem objetivos claros e específicos que correspondem diretamente aos objetivos de aprendizagem da CG.",
+              "evidencia_artifact_b": "Os objetivos são mais abrangentes, frequentemente combinando múltiplos objetivos em um único item."
+            }
+          ],
+          "preferred_artifact": "B",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#4",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura dos objetivos de aprendizagem",
+              "evidencia_artifact_a": "UA1 em Artifact A aborda representação gráfica e tabular, enquanto UA01 em Artifact B inclui uma introdução mais ampla à estatística descritiva.",
+              "evidencia_artifact_b": "UA01 de Artifact B cobre a classificação de variáveis, fases do estudo estatístico, além da representação gráfica e tabular."
+            },
+            {
+              "aspecto": "Viabilidade prática das atividades",
+              "evidencia_artifact_a": "Artifact A inclui várias aulas síncronas que podem ser mais interativas para os alunos.",
+              "evidencia_artifact_b": "Artifact B utiliza roteiros de atividade reaproveitados, o que pode indicar menos personalização ou atualização das tarefas."
+            },
+            {
+              "aspecto": "Cobertura detalhada dos conteúdos formativos",
+              "evidencia_artifact_a": "UA2 em Artifact A fornece uma cobertura mais detalhada sobre medidas de tendência central e dispersão, incluindo boxplots.",
+              "evidencia_artifact_b": "UA02 em Artifact B também aborda medidas descritivas, mas com menos ênfase na aplicação prática."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        }
+      ],
+      "replicas_descartadas_sem_comparacao": 0,
+      "preferencia_final": "paa_2",
+      "votos_traduzidos": [
+        "paa_1",
+        "paa_2",
+        "paa_2",
+        "paa_2"
+      ],
+      "padrao_votos": "3-1",
+      "vencedor_padrao_votos": "gerado",
+      "confidence_por_execucao": [
+        "medium",
+        "high",
+        "high",
+        "high"
+      ]
+    }
+  },
+  "execucoes": 4
+}

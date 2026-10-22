@@ -1,0 +1,2273 @@
+{
+  "estatistica_data_science": {
+    "humano": {
+      "estrutura": {
+        "sci": 0.6667,
+        "wd": 0.0156,
+        "svr": 0.9833,
+        "por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA01",
+            "minutagem": 300.0,
+            "alvo": 300.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 7
+          },
+          {
+            "indice": 1,
+            "ua": "UA02",
+            "minutagem": 450.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.125,
+            "svr": 0.8661,
+            "num_recursos": 8
+          },
+          {
+            "indice": 2,
+            "ua": "UA03",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          },
+          {
+            "indice": 3,
+            "ua": "UA04",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 4,
+            "ua": "UA05",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 7
+          },
+          {
+            "indice": 5,
+            "ua": "UA06",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 6,
+            "ua": "UA07",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 7,
+            "ua": "UA08",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 7
+          }
+        ]
+      },
+      "conteudo": {
+        "cobertura_global": 0.5588,
+        "cobertura_por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA01",
+            "cobertura": 0.1471
+          },
+          {
+            "indice": 1,
+            "ua": "UA02",
+            "cobertura": 0.1176
+          },
+          {
+            "indice": 2,
+            "ua": "UA03",
+            "cobertura": 0.0882
+          },
+          {
+            "indice": 3,
+            "ua": "UA04",
+            "cobertura": 0.0588
+          },
+          {
+            "indice": 4,
+            "ua": "UA05",
+            "cobertura": 0.1471
+          },
+          {
+            "indice": 5,
+            "ua": "UA06",
+            "cobertura": 0.0
+          },
+          {
+            "indice": 6,
+            "ua": "UA07",
+            "cobertura": 0.0
+          },
+          {
+            "indice": 7,
+            "ua": "UA08",
+            "cobertura": 0.0
+          }
+        ],
+        "nao_cobertos": [
+          "- **Algebra Linear:** representação de matrizes e dados por matrizes ou dados representados por matrizes",
+          "- Variedades aleatórias discretas e contínuas",
+          "- Distrubuições de probabilidade",
+          "- A distribuição normal e o teorema do limite central",
+          "- **Ecosistema que caracteriza a área de ciência de dados, seu contexto histórico e definição**",
+          "- **Frequências e medias**",
+          "- **Testes de não parametrícos**",
+          "- Dados bivariados e multivariados**",
+          "- **Tratamento de dados numéricos vs. numéricos vs. categóricos**",
+          "- **Correlação e o parádox de Simpson**",
+          "- **O que é um fator de preparação dos dados**",
+          "- **Padronização e normalização dos dados**",
+          "- **A dimensão dos dados: como isto pode influenciar os modelos, os desafios e redução de dimensionalidade**",
+          "- **Reamostragem e Técnicas de participação dos dados**",
+          "- Ferramentas grá­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­"
+        ]
+      },
+      "objetivos": {
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.0,
+        "num_teoricos": 0,
+        "num_atividade": 11
+      },
+      "carga": {
+        "cv": 0.0991,
+        "media": 393.75,
+        "min": 300.0,
+        "max": 450.0
+      },
+      "resumo_geral": {
+        "sci": 0.6667,
+        "wd": 0.0156,
+        "svr": 0.9833,
+        "cobertura": 0.5588,
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.0
+      }
+    },
+    "ferramenta": {
+      "estrutura": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 0.9922,
+        "por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA1",
+            "minutagem": 300.0,
+            "alvo": 300.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 1,
+            "ua": "UA2",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 8
+          },
+          {
+            "indice": 2,
+            "ua": "UA3",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 8
+          },
+          {
+            "indice": 3,
+            "ua": "UA4",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 8
+          },
+          {
+            "indice": 4,
+            "ua": "UA5",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 7
+          },
+          {
+            "indice": 5,
+            "ua": "UA6",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 6,
+            "ua": "UA7",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 7,
+            "ua": "UA8",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.9375,
+            "num_recursos": 8
+          }
+        ]
+      },
+      "conteudo": {
+        "cobertura_global": 1.0,
+        "cobertura_por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA1",
+            "cobertura": 0.1471
+          },
+          {
+            "indice": 1,
+            "ua": "UA2",
+            "cobertura": 0.1471
+          },
+          {
+            "indice": 2,
+            "ua": "UA3",
+            "cobertura": 0.1176
+          },
+          {
+            "indice": 3,
+            "ua": "UA4",
+            "cobertura": 0.1176
+          },
+          {
+            "indice": 4,
+            "ua": "UA5",
+            "cobertura": 0.1176
+          },
+          {
+            "indice": 5,
+            "ua": "UA6",
+            "cobertura": 0.1176
+          },
+          {
+            "indice": 6,
+            "ua": "UA7",
+            "cobertura": 0.1176
+          },
+          {
+            "indice": 7,
+            "ua": "UA8",
+            "cobertura": 0.1176
+          }
+        ],
+        "nao_cobertos": []
+      },
+      "objetivos": {
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.0625,
+        "num_teoricos": 28,
+        "num_atividade": 16
+      },
+      "carga": {
+        "cv": 0.0853,
+        "media": 387.5,
+        "min": 300.0,
+        "max": 400.0
+      },
+      "resumo_geral": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 0.9922,
+        "cobertura": 1.0,
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.0625
+      }
+    },
+    "tpt": 702.69
+  },
+  "banco_de_dados": {
+    "humano": {
+      "estrutura": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 0.8541,
+        "por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA01",
+            "minutagem": 300.0,
+            "alvo": 300.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          },
+          {
+            "indice": 1,
+            "ua": "UA02",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 2,
+            "ua": "UA03",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 3,
+            "ua": "UA04",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 4,
+            "ua": "UA05",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 5,
+            "ua": "UA06",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 6,
+            "ua": "UA07",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 7,
+            "ua": "UA08",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          }
+        ]
+      },
+      "conteudo": {
+        "cobertura_global": 0.4242,
+        "cobertura_por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA01",
+            "cobertura": 0.0606
+          },
+          {
+            "indice": 1,
+            "ua": "UA02",
+            "cobertura": 0.0606
+          },
+          {
+            "indice": 2,
+            "ua": "UA03",
+            "cobertura": 0.0606
+          },
+          {
+            "indice": 3,
+            "ua": "UA04",
+            "cobertura": 0.0606
+          },
+          {
+            "indice": 4,
+            "ua": "UA05",
+            "cobertura": 0.0606
+          },
+          {
+            "indice": 5,
+            "ua": "UA06",
+            "cobertura": 0.0303
+          },
+          {
+            "indice": 6,
+            "ua": "UA07",
+            "cobertura": 0.0606
+          },
+          {
+            "indice": 7,
+            "ua": "UA08",
+            "cobertura": 0.0303
+          }
+        ],
+        "nao_cobertos": [
+          "- Banco de dados; sistema gerenciador de banco de dados; metadados; usuários",
+          "- Categoria de modelos de dados; esquemas e instâncias; independências de dados de SGBD’s",
+          "- Modelagem conceitual com abordagem E-R; entidade; relacionamentos; atributos; cardinalidade e",
+          "5. Modelos lógico de dados",
+          "- Tabelas, atributos; restrições de domínio; chave primária, secundária, estrangeira",
+          "- Semântica de atributos de relação; anomalias de atualizações; anomalia de remoção; informação redundante",
+          "8. em tuplas; valores null em tuplas; tuplas espúrias",
+          "- Dependência funcional; forma de Boyce-Codd; Primeira Forma Normal - 1FN; Segunda Forma Normal - 2FN;",
+          "- Operações SELECT e PROJECT; sequência de operações; renomeando atributos; operações da Teoria dos",
+          "11. Conjuntos; operação JOIN; operação DIVISION; funções de agregação; cálculo relacional de tuplas; cálculo",
+          "- Subconjuntos de Classificação da Linguagem; Linguagem de Manipulação de Dados - DML; Linguagem de",
+          "14. Definição de Dados - DDL; Linguagem de Controle de Dados - DCL; Linguagem de Transação de Dados -DTL;",
+          "15. operações com strings; ordenação; subconsultas aninhadas",
+          "16. Linguagem procedural em banco de dados",
+          "- Comandos básicos; procedures; funções; gatilhos",
+          "- Índices; otimização de consultas",
+          "- Propriedades ACID; recuperação à falhas; controle de concorrência",
+          "- Categorias; modelagem de uma estrutura de banco de dados não-relacional; migração de dados para banco",
+          "20. não-relacional; operações de manipulação de dados em bancos de dados orientados à documentos"
+        ]
+      },
+      "objetivos": {
+        "teoricos_ok": 0.9375,
+        "atividade_ok": 0.0435,
+        "num_teoricos": 16,
+        "num_atividade": 23
+      },
+      "carga": {
+        "cv": 0.0853,
+        "media": 387.5,
+        "min": 300.0,
+        "max": 400.0
+      },
+      "resumo_geral": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 0.8541,
+        "cobertura": 0.4242,
+        "teoricos_ok": 0.9375,
+        "atividade_ok": 0.0435
+      }
+    },
+    "ferramenta": {
+      "estrutura": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 0.9833,
+        "por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA1",
+            "minutagem": 300.0,
+            "alvo": 300.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          },
+          {
+            "indice": 1,
+            "ua": "UA2",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 8
+          },
+          {
+            "indice": 2,
+            "ua": "UA3",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 7
+          },
+          {
+            "indice": 3,
+            "ua": "UA4",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          },
+          {
+            "indice": 4,
+            "ua": "UA5",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.9286,
+            "num_recursos": 7
+          },
+          {
+            "indice": 5,
+            "ua": "UA6",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 6,
+            "ua": "UA7",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 8
+          },
+          {
+            "indice": 7,
+            "ua": "UA8",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.9375,
+            "num_recursos": 8
+          }
+        ]
+      },
+      "conteudo": {
+        "cobertura_global": 1.0,
+        "cobertura_por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA1",
+            "cobertura": 0.0606
+          },
+          {
+            "indice": 1,
+            "ua": "UA2",
+            "cobertura": 0.0303
+          },
+          {
+            "indice": 2,
+            "ua": "UA3",
+            "cobertura": 0.1212
+          },
+          {
+            "indice": 3,
+            "ua": "UA4",
+            "cobertura": 0.0909
+          },
+          {
+            "indice": 4,
+            "ua": "UA5",
+            "cobertura": 0.1818
+          },
+          {
+            "indice": 5,
+            "ua": "UA6",
+            "cobertura": 0.1212
+          },
+          {
+            "indice": 6,
+            "ua": "UA7",
+            "cobertura": 0.1515
+          },
+          {
+            "indice": 7,
+            "ua": "UA8",
+            "cobertura": 0.2424
+          }
+        ],
+        "nao_cobertos": []
+      },
+      "objetivos": {
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.5625,
+        "num_teoricos": 26,
+        "num_atividade": 16
+      },
+      "carga": {
+        "cv": 0.0853,
+        "media": 387.5,
+        "min": 300.0,
+        "max": 400.0
+      },
+      "resumo_geral": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 0.9833,
+        "cobertura": 1.0,
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.5625
+      }
+    },
+    "tpt": 1303.29
+  },
+  "desenvolvimento_full_cycle": {
+    "humano": {
+      "estrutura": {
+        "sci": 0.6667,
+        "wd": 0.0,
+        "svr": 1.0,
+        "por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA01",
+            "minutagem": 300.0,
+            "alvo": 300.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          },
+          {
+            "indice": 1,
+            "ua": "UA02",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 7
+          },
+          {
+            "indice": 2,
+            "ua": "UA03",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 3,
+            "ua": "UA04",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 4,
+            "ua": "UA05",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 5,
+            "ua": "UA06",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 7
+          },
+          {
+            "indice": 6,
+            "ua": "UA07",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 7,
+            "ua": "UA08",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          }
+        ]
+      },
+      "conteudo": {
+        "cobertura_global": 1.0,
+        "cobertura_por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA01",
+            "cobertura": 0.2632
+          },
+          {
+            "indice": 1,
+            "ua": "UA02",
+            "cobertura": 0.2105
+          },
+          {
+            "indice": 2,
+            "ua": "UA03",
+            "cobertura": 0.2105
+          },
+          {
+            "indice": 3,
+            "ua": "UA04",
+            "cobertura": 0.3158
+          },
+          {
+            "indice": 4,
+            "ua": "UA05",
+            "cobertura": 0.3158
+          },
+          {
+            "indice": 5,
+            "ua": "UA06",
+            "cobertura": 0.3158
+          },
+          {
+            "indice": 6,
+            "ua": "UA07",
+            "cobertura": 0.3158
+          },
+          {
+            "indice": 7,
+            "ua": "UA08",
+            "cobertura": 0.3158
+          }
+        ],
+        "nao_cobertos": []
+      },
+      "objetivos": {
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.0,
+        "num_teoricos": 0,
+        "num_atividade": 9
+      },
+      "carga": {
+        "cv": 0.0853,
+        "media": 387.5,
+        "min": 300.0,
+        "max": 400.0
+      },
+      "resumo_geral": {
+        "sci": 0.6667,
+        "wd": 0.0,
+        "svr": 1.0,
+        "cobertura": 1.0,
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.0
+      }
+    },
+    "ferramenta": {
+      "estrutura": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 0.9911,
+        "por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA1",
+            "minutagem": 300.0,
+            "alvo": 300.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          },
+          {
+            "indice": 1,
+            "ua": "UA2",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.9286,
+            "num_recursos": 7
+          },
+          {
+            "indice": 2,
+            "ua": "UA3",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 7
+          },
+          {
+            "indice": 3,
+            "ua": "UA4",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 7
+          },
+          {
+            "indice": 4,
+            "ua": "UA5",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 5,
+            "ua": "UA6",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 6,
+            "ua": "UA7",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 7
+          },
+          {
+            "indice": 7,
+            "ua": "UA8",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          }
+        ]
+      },
+      "conteudo": {
+        "cobertura_global": 1.0,
+        "cobertura_por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA1",
+            "cobertura": 0.1053
+          },
+          {
+            "indice": 1,
+            "ua": "UA2",
+            "cobertura": 0.2632
+          },
+          {
+            "indice": 2,
+            "ua": "UA3",
+            "cobertura": 0.1579
+          },
+          {
+            "indice": 3,
+            "ua": "UA4",
+            "cobertura": 0.1053
+          },
+          {
+            "indice": 4,
+            "ua": "UA5",
+            "cobertura": 0.1053
+          },
+          {
+            "indice": 5,
+            "ua": "UA6",
+            "cobertura": 0.2105
+          },
+          {
+            "indice": 6,
+            "ua": "UA7",
+            "cobertura": 0.0526
+          },
+          {
+            "indice": 7,
+            "ua": "UA8",
+            "cobertura": 0.1053
+          }
+        ],
+        "nao_cobertos": []
+      },
+      "objetivos": {
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.0625,
+        "num_teoricos": 23,
+        "num_atividade": 16
+      },
+      "carga": {
+        "cv": 0.0853,
+        "media": 387.5,
+        "min": 300.0,
+        "max": 400.0
+      },
+      "resumo_geral": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 0.9911,
+        "cobertura": 1.0,
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.0625
+      }
+    },
+    "tpt": 314.86
+  },
+  "modelagem_matematica": {
+    "humano": {
+      "estrutura": {
+        "sci": 0.6667,
+        "wd": 0.0,
+        "svr": 1.0,
+        "por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA01",
+            "minutagem": 300.0,
+            "alvo": 300.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          },
+          {
+            "indice": 1,
+            "ua": "UA02",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 2,
+            "ua": "UA03",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 3,
+            "ua": "UA04",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 4,
+            "ua": "UA05",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 5,
+            "ua": "UA06",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 6,
+            "ua": "UA07",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 7,
+            "ua": "UA08",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          }
+        ]
+      },
+      "conteudo": {
+        "cobertura_global": 0.6333,
+        "cobertura_por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA01",
+            "cobertura": 0.1333
+          },
+          {
+            "indice": 1,
+            "ua": "UA02",
+            "cobertura": 0.1
+          },
+          {
+            "indice": 2,
+            "ua": "UA03",
+            "cobertura": 0.1333
+          },
+          {
+            "indice": 3,
+            "ua": "UA04",
+            "cobertura": 0.0333
+          },
+          {
+            "indice": 4,
+            "ua": "UA05",
+            "cobertura": 0.0333
+          },
+          {
+            "indice": 5,
+            "ua": "UA06",
+            "cobertura": 0.0667
+          },
+          {
+            "indice": 6,
+            "ua": "UA07",
+            "cobertura": 0.1
+          },
+          {
+            "indice": 7,
+            "ua": "UA08",
+            "cobertura": 0.0667
+          }
+        ],
+        "nao_cobertos": [
+          "- Equação Diferencial Ordinária (EDO)",
+          "- Solução de uma Equação Diferencial Ordinária (EDO)",
+          "2. Equações diferenciais de 1ª ordem",
+          "- Combinações lineares",
+          "4. Equações diferenciais de 2ª Ordem",
+          "- Equações homogêneas a coeficientes constantes",
+          "- Método de Descartes",
+          "- Circuito LRC",
+          "5. Métodos numéricos de resolução de Equação Diferencial Ordinária (EDO)",
+          "7. Sistema de equações diferenciais",
+          "- Sistema de equações diferenciais lineares homogêneas"
+        ]
+      },
+      "objetivos": {
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.0,
+        "num_teoricos": 1,
+        "num_atividade": 8
+      },
+      "carga": {
+        "cv": 0.0853,
+        "media": 387.5,
+        "min": 300.0,
+        "max": 400.0
+      },
+      "resumo_geral": {
+        "sci": 0.6667,
+        "wd": 0.0,
+        "svr": 1.0,
+        "cobertura": 0.6333,
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.0
+      }
+    },
+    "ferramenta": {
+      "estrutura": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 0.993,
+        "por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA1",
+            "minutagem": 300.0,
+            "alvo": 300.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          },
+          {
+            "indice": 1,
+            "ua": "UA2",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 2,
+            "ua": "UA3",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 7
+          },
+          {
+            "indice": 3,
+            "ua": "UA4",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 7
+          },
+          {
+            "indice": 4,
+            "ua": "UA5",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.9444,
+            "num_recursos": 9
+          },
+          {
+            "indice": 5,
+            "ua": "UA6",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 7
+          },
+          {
+            "indice": 6,
+            "ua": "UA7",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          },
+          {
+            "indice": 7,
+            "ua": "UA8",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          }
+        ]
+      },
+      "conteudo": {
+        "cobertura_global": 1.0,
+        "cobertura_por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA1",
+            "cobertura": 0.1333
+          },
+          {
+            "indice": 1,
+            "ua": "UA2",
+            "cobertura": 0.1667
+          },
+          {
+            "indice": 2,
+            "ua": "UA3",
+            "cobertura": 0.1
+          },
+          {
+            "indice": 3,
+            "ua": "UA4",
+            "cobertura": 0.2667
+          },
+          {
+            "indice": 4,
+            "ua": "UA5",
+            "cobertura": 0.1333
+          },
+          {
+            "indice": 5,
+            "ua": "UA6",
+            "cobertura": 0.1667
+          },
+          {
+            "indice": 6,
+            "ua": "UA7",
+            "cobertura": 0.1667
+          },
+          {
+            "indice": 7,
+            "ua": "UA8",
+            "cobertura": 0.1333
+          }
+        ],
+        "nao_cobertos": []
+      },
+      "objetivos": {
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.125,
+        "num_teoricos": 25,
+        "num_atividade": 16
+      },
+      "carga": {
+        "cv": 0.0853,
+        "media": 387.5,
+        "min": 300.0,
+        "max": 400.0
+      },
+      "resumo_geral": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 0.993,
+        "cobertura": 1.0,
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.125
+      }
+    },
+    "tpt": 303.92
+  },
+  "estatistica_geral": {
+    "humano": {
+      "estrutura": {
+        "sci": 0.6875,
+        "wd": 0.0,
+        "svr": 0.9267,
+        "por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA01",
+            "minutagem": 300.0,
+            "alvo": 300.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 0.9286,
+            "num_recursos": 7
+          },
+          {
+            "indice": 1,
+            "ua": "UA02",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 0.9375,
+            "num_recursos": 8
+          },
+          {
+            "indice": 2,
+            "ua": "UA03",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 0.9167,
+            "num_recursos": 6
+          },
+          {
+            "indice": 3,
+            "ua": "UA04",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 0.9286,
+            "num_recursos": 7
+          },
+          {
+            "indice": 4,
+            "ua": "UA05",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 0.9286,
+            "num_recursos": 7
+          },
+          {
+            "indice": 5,
+            "ua": "UA06",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 0.9286,
+            "num_recursos": 7
+          },
+          {
+            "indice": 6,
+            "ua": "UA07",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 0.9286,
+            "num_recursos": 7
+          },
+          {
+            "indice": 7,
+            "ua": "UA08",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.8333,
+            "wd": 0.0,
+            "svr": 0.9167,
+            "num_recursos": 6
+          }
+        ]
+      },
+      "conteudo": {
+        "cobertura_global": 0.9333,
+        "cobertura_por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA01",
+            "cobertura": 0.2
+          },
+          {
+            "indice": 1,
+            "ua": "UA02",
+            "cobertura": 0.1
+          },
+          {
+            "indice": 2,
+            "ua": "UA03",
+            "cobertura": 0.1
+          },
+          {
+            "indice": 3,
+            "ua": "UA04",
+            "cobertura": 0.1333
+          },
+          {
+            "indice": 4,
+            "ua": "UA05",
+            "cobertura": 0.1667
+          },
+          {
+            "indice": 5,
+            "ua": "UA06",
+            "cobertura": 0.1667
+          },
+          {
+            "indice": 6,
+            "ua": "UA07",
+            "cobertura": 0.1
+          },
+          {
+            "indice": 7,
+            "ua": "UA08",
+            "cobertura": 0.1333
+          }
+        ],
+        "nao_cobertos": [
+          "- Medidads de dispersão",
+          "- Estimação pontual e intervalo de confiança"
+        ]
+      },
+      "objetivos": {
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.0,
+        "num_teoricos": 0,
+        "num_atividade": 10
+      },
+      "carga": {
+        "cv": 0.0853,
+        "media": 387.5,
+        "min": 300.0,
+        "max": 400.0
+      },
+      "resumo_geral": {
+        "sci": 0.6875,
+        "wd": 0.0,
+        "svr": 0.9267,
+        "cobertura": 0.9333,
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.0
+      }
+    },
+    "ferramenta": {
+      "estrutura": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 0.8333,
+        "por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA1",
+            "minutagem": 300.0,
+            "alvo": 300.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 1,
+            "ua": "UA2",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 2,
+            "ua": "UA3",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 3,
+            "ua": "UA4",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 4,
+            "ua": "UA5",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 5,
+            "ua": "UA6",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 6,
+            "ua": "UA7",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 7,
+            "ua": "UA8",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          }
+        ]
+      },
+      "conteudo": {
+        "cobertura_global": 1.0,
+        "cobertura_por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA1",
+            "cobertura": 0.0667
+          },
+          {
+            "indice": 1,
+            "ua": "UA2",
+            "cobertura": 0.2333
+          },
+          {
+            "indice": 2,
+            "ua": "UA3",
+            "cobertura": 0.0333
+          },
+          {
+            "indice": 3,
+            "ua": "UA4",
+            "cobertura": 0.2
+          },
+          {
+            "indice": 4,
+            "ua": "UA5",
+            "cobertura": 0.2
+          },
+          {
+            "indice": 5,
+            "ua": "UA6",
+            "cobertura": 0.0333
+          },
+          {
+            "indice": 6,
+            "ua": "UA7",
+            "cobertura": 0.1333
+          },
+          {
+            "indice": 7,
+            "ua": "UA8",
+            "cobertura": 0.1333
+          }
+        ],
+        "nao_cobertos": []
+      },
+      "objetivos": {
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.875,
+        "num_teoricos": 24,
+        "num_atividade": 8
+      },
+      "carga": {
+        "cv": 0.0853,
+        "media": 387.5,
+        "min": 300.0,
+        "max": 400.0
+      },
+      "resumo_geral": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 0.8333,
+        "cobertura": 1.0,
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.875
+      }
+    },
+    "tpt": 205.42
+  },
+  "ferramentas_propriedade_industrial": {
+    "humano": {
+      "estrutura": {
+        "sci": 0.625,
+        "wd": 0.0,
+        "svr": 0.9719,
+        "por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA01",
+            "minutagem": 100.0,
+            "alvo": 100.0,
+            "sci": 0.8333,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 3
+          },
+          {
+            "indice": 1,
+            "ua": "UA02",
+            "minutagem": 200.0,
+            "alvo": 200.0,
+            "sci": 0.5,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          },
+          {
+            "indice": 2,
+            "ua": "UA03",
+            "minutagem": 200.0,
+            "alvo": 200.0,
+            "sci": 0.5,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          },
+          {
+            "indice": 3,
+            "ua": "UA04",
+            "minutagem": 200.0,
+            "alvo": 200.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 0.775,
+            "num_recursos": 5
+          },
+          {
+            "indice": 4,
+            "ua": "UA05",
+            "minutagem": 200.0,
+            "alvo": 200.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          },
+          {
+            "indice": 5,
+            "ua": "UA06",
+            "minutagem": 200.0,
+            "alvo": 200.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 4
+          },
+          {
+            "indice": 6,
+            "ua": "UA07",
+            "minutagem": 200.0,
+            "alvo": 200.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 4
+          },
+          {
+            "indice": 7,
+            "ua": "UA08",
+            "minutagem": 200.0,
+            "alvo": 200.0,
+            "sci": 0.5,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          }
+        ]
+      },
+      "conteudo": {
+        "cobertura_global": 0.2941,
+        "cobertura_por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA01",
+            "cobertura": 0.1471
+          },
+          {
+            "indice": 1,
+            "ua": "UA02",
+            "cobertura": 0.0294
+          },
+          {
+            "indice": 2,
+            "ua": "UA03",
+            "cobertura": 0.0294
+          },
+          {
+            "indice": 3,
+            "ua": "UA04",
+            "cobertura": 0.0294
+          },
+          {
+            "indice": 4,
+            "ua": "UA05",
+            "cobertura": 0.0
+          },
+          {
+            "indice": 5,
+            "ua": "UA06",
+            "cobertura": 0.0882
+          },
+          {
+            "indice": 6,
+            "ua": "UA07",
+            "cobertura": 0.0588
+          },
+          {
+            "indice": 7,
+            "ua": "UA08",
+            "cobertura": 0.0
+          }
+        ],
+        "nao_cobertos": [
+          "1. Fundamentos da Propriedade Intelectual - PI",
+          "4. A proteção da invenção",
+          "- Conceitos e legislação; Lei da Propriedade Industrial; vigência; o que não é patenteável; patente de invenção e",
+          "- Finalidade e estrutura de um artigo científico versus um pedido de patente.; busca de anterioridade; bases de",
+          "7. patentes oficiais; base de patentes comerciais",
+          "8. Depósito e obtenção da patente",
+          "- Estrutura do documento de patente (folha de rosto, relatório descritivo, reivindicações, resumos e desenhos);",
+          "9. classificação Internacional de Patentes; códigos INID; código de status das patentes; código dos países; o papel",
+          "10. do Instituto Nacional da Propriedade Industrial - INPI; procedimentos para depósito de pedido de patente junto",
+          "11. ao INPI; fases de um pedido de patente",
+          "13. Proteção Internacional de Patentes",
+          "- Tratado de Cooperação em Matéria de Patentes - PCT; Convenção da União Europeia - CUP",
+          "14. A Proteção da identidade por meio das marcas",
+          "- Conceito e finalidade; classificação e princípios das marcas; classificação Internacional de Produtos e Serviços",
+          "15. de Nice - NCL: 45 classes de produtos e serviços; vigência e extinção da marca; lista de produtos e serviços; sinais",
+          "16. não registráveis; territorialidade, especialidade e sistema atributivo; quem pode registrar uma marca; marcas",
+          "17. degeneradas e valor da marca; Informações gráficas (logotipo, fonte e cores); passo a passo do registro",
+          "19. industrial, desenho artístico, design, artesanato; critérios de originalidade e aplicabilidade estética;",
+          "20. representação gráfica do DI (perspectivas, projeções, detalhes técnicos, elementos visuais); estrutura e",
+          "21. formatação de um portfólio de DI; Registro Internacional: Acordo de Haia",
+          "- Princípios de Indicações Geográficas - IG; tipos, uso indevido; função e objetivos do registro de IG; histórico e",
+          "23. origem da IG no mundo; exemplos nacionais e internacionais; histórico, território, produto, desempenho, dados",
+          "25. Estratégias e Limitações da PI",
+          "- Segredo industrial; concorrência desleal; licença compulsória; sistema pipeline"
+        ]
+      },
+      "objetivos": {
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.0667,
+        "num_teoricos": 15,
+        "num_atividade": 15
+      },
+      "carga": {
+        "cv": 0.1764,
+        "media": 187.5,
+        "min": 100.0,
+        "max": 200.0
+      },
+      "resumo_geral": {
+        "sci": 0.625,
+        "wd": 0.0,
+        "svr": 0.9719,
+        "cobertura": 0.2941,
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.0667
+      }
+    },
+    "ferramenta": {
+      "estrutura": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 1.0,
+        "por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA1",
+            "minutagem": 100.0,
+            "alvo": 100.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 3
+          },
+          {
+            "indice": 1,
+            "ua": "UA2",
+            "minutagem": 200.0,
+            "alvo": 200.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 4
+          },
+          {
+            "indice": 2,
+            "ua": "UA3",
+            "minutagem": 200.0,
+            "alvo": 200.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 3,
+            "ua": "UA4",
+            "minutagem": 200.0,
+            "alvo": 200.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          },
+          {
+            "indice": 4,
+            "ua": "UA5",
+            "minutagem": 200.0,
+            "alvo": 200.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 5,
+            "ua": "UA6",
+            "minutagem": 200.0,
+            "alvo": 200.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 6
+          },
+          {
+            "indice": 6,
+            "ua": "UA7",
+            "minutagem": 200.0,
+            "alvo": 200.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 5
+          },
+          {
+            "indice": 7,
+            "ua": "UA8",
+            "minutagem": 200.0,
+            "alvo": 200.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 1.0,
+            "num_recursos": 7
+          }
+        ]
+      },
+      "conteudo": {
+        "cobertura_global": 1.0,
+        "cobertura_por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA1",
+            "cobertura": 0.0588
+          },
+          {
+            "indice": 1,
+            "ua": "UA2",
+            "cobertura": 0.0294
+          },
+          {
+            "indice": 2,
+            "ua": "UA3",
+            "cobertura": 0.1176
+          },
+          {
+            "indice": 3,
+            "ua": "UA4",
+            "cobertura": 0.0294
+          },
+          {
+            "indice": 4,
+            "ua": "UA5",
+            "cobertura": 0.0294
+          },
+          {
+            "indice": 5,
+            "ua": "UA6",
+            "cobertura": 0.0588
+          },
+          {
+            "indice": 6,
+            "ua": "UA7",
+            "cobertura": 0.0588
+          },
+          {
+            "indice": 7,
+            "ua": "UA8",
+            "cobertura": 0.6765
+          }
+        ],
+        "nao_cobertos": []
+      },
+      "objetivos": {
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.1111,
+        "num_teoricos": 24,
+        "num_atividade": 9
+      },
+      "carga": {
+        "cv": 0.1764,
+        "media": 187.5,
+        "min": 100.0,
+        "max": 200.0
+      },
+      "resumo_geral": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 1.0,
+        "cobertura": 1.0,
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.1111
+      }
+    },
+    "tpt": 246.61
+  },
+  "resistencia_materiais": {
+    "humano": {
+      "estrutura": {
+        "sci": 0.7708,
+        "wd": 0.0281,
+        "svr": 0.9119,
+        "por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA01",
+            "minutagem": 300.0,
+            "alvo": 300.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 0.9,
+            "num_recursos": 5
+          },
+          {
+            "indice": 1,
+            "ua": "UA02",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.8333,
+            "wd": 0.0,
+            "svr": 0.9167,
+            "num_recursos": 6
+          },
+          {
+            "indice": 2,
+            "ua": "UA03",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.8333,
+            "wd": 0.0,
+            "svr": 0.9286,
+            "num_recursos": 7
+          },
+          {
+            "indice": 3,
+            "ua": "UA04",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.8333,
+            "wd": 0.0,
+            "svr": 0.9167,
+            "num_recursos": 6
+          },
+          {
+            "indice": 4,
+            "ua": "UA05",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 0.9167,
+            "num_recursos": 6
+          },
+          {
+            "indice": 5,
+            "ua": "UA06",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.8333,
+            "wd": 0.0,
+            "svr": 0.9,
+            "num_recursos": 5
+          },
+          {
+            "indice": 6,
+            "ua": "UA07",
+            "minutagem": 310.0,
+            "alvo": 400.0,
+            "sci": 0.8333,
+            "wd": 0.225,
+            "svr": 0.9,
+            "num_recursos": 5
+          },
+          {
+            "indice": 7,
+            "ua": "UA08",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 0.6667,
+            "wd": 0.0,
+            "svr": 0.9167,
+            "num_recursos": 6
+          }
+        ]
+      },
+      "conteudo": {
+        "cobertura_global": 0.9211,
+        "cobertura_por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA01",
+            "cobertura": 0.0526
+          },
+          {
+            "indice": 1,
+            "ua": "UA02",
+            "cobertura": 0.1842
+          },
+          {
+            "indice": 2,
+            "ua": "UA03",
+            "cobertura": 0.1579
+          },
+          {
+            "indice": 3,
+            "ua": "UA04",
+            "cobertura": 0.1842
+          },
+          {
+            "indice": 4,
+            "ua": "UA05",
+            "cobertura": 0.1053
+          },
+          {
+            "indice": 5,
+            "ua": "UA06",
+            "cobertura": 0.1053
+          },
+          {
+            "indice": 6,
+            "ua": "UA07",
+            "cobertura": 0.1053
+          },
+          {
+            "indice": 7,
+            "ua": "UA08",
+            "cobertura": 0.2368
+          }
+        ],
+        "nao_cobertos": [
+          "5. Deformações plásticas de elementos estruturais sob esforços mecânicos",
+          "- Cargas axiais",
+          "- Torção"
+        ]
+      },
+      "objetivos": {
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.375,
+        "num_teoricos": 6,
+        "num_atividade": 8
+      },
+      "carga": {
+        "cv": 0.1095,
+        "media": 376.25,
+        "min": 300.0,
+        "max": 400.0
+      },
+      "resumo_geral": {
+        "sci": 0.7708,
+        "wd": 0.0281,
+        "svr": 0.9119,
+        "cobertura": 0.9211,
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.375
+      }
+    },
+    "ferramenta": {
+      "estrutura": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 0.8333,
+        "por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA1",
+            "minutagem": 300.0,
+            "alvo": 300.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 1,
+            "ua": "UA2",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 2,
+            "ua": "UA3",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 3,
+            "ua": "UA4",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 4,
+            "ua": "UA5",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 5,
+            "ua": "UA6",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 6,
+            "ua": "UA7",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          },
+          {
+            "indice": 7,
+            "ua": "UA8",
+            "minutagem": 400.0,
+            "alvo": 400.0,
+            "sci": 1.0,
+            "wd": 0.0,
+            "svr": 0.8333,
+            "num_recursos": 6
+          }
+        ]
+      },
+      "conteudo": {
+        "cobertura_global": 1.0,
+        "cobertura_por_ua": [
+          {
+            "indice": 0,
+            "ua": "UA1",
+            "cobertura": 0.0789
+          },
+          {
+            "indice": 1,
+            "ua": "UA2",
+            "cobertura": 0.0789
+          },
+          {
+            "indice": 2,
+            "ua": "UA3",
+            "cobertura": 0.1053
+          },
+          {
+            "indice": 3,
+            "ua": "UA4",
+            "cobertura": 0.1842
+          },
+          {
+            "indice": 4,
+            "ua": "UA5",
+            "cobertura": 0.2632
+          },
+          {
+            "indice": 5,
+            "ua": "UA6",
+            "cobertura": 0.2632
+          },
+          {
+            "indice": 6,
+            "ua": "UA7",
+            "cobertura": 0.2632
+          },
+          {
+            "indice": 7,
+            "ua": "UA8",
+            "cobertura": 0.4211
+          }
+        ],
+        "nao_cobertos": []
+      },
+      "objetivos": {
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.75,
+        "num_teoricos": 24,
+        "num_atividade": 8
+      },
+      "carga": {
+        "cv": 0.0853,
+        "media": 387.5,
+        "min": 300.0,
+        "max": 400.0
+      },
+      "resumo_geral": {
+        "sci": 1.0,
+        "wd": 0.0,
+        "svr": 0.8333,
+        "cobertura": 1.0,
+        "teoricos_ok": 1.0,
+        "atividade_ok": 0.75
+      }
+    },
+    "tpt": 228.69
+  }
+}

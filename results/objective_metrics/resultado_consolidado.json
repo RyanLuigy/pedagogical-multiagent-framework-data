@@ -1,0 +1,2393 @@
+{
+  "metadados": {
+    "n_disciplinas_planejado": 8,
+    "n_disciplinas_avaliadas": 7,
+    "juizes": [
+      "deepseek-r1:14b",
+      "qwen2.5:14b"
+    ],
+    "data_execucao": "2026-08-01T16:37:15.573651"
+  },
+  "passo_a_escores": [
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 5,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "learning_objectives",
+      "mediana": 5,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 5,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 5,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "learning_objectives",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 3,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 3,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "learning_objectives",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 3,
+      "desvio_padrao": 0.943,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 3,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 5,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "learning_objectives",
+      "mediana": 5,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 5,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 5,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.816,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 5,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 5,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.816,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 3,
+      "desvio_padrao": 0.943,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 5,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 5,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "learning_objectives",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 5,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "learning_objectives",
+      "mediana": 5,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 5,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.816,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 5,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 3,
+      "desvio_padrao": 0.943,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "learning_objectives",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 3,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "curricular_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "learning_objectives",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "constructive_alignment",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "pedagogical_progression",
+      "mediana": 4,
+      "desvio_padrao": 0.471,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "criterio": "activity_resource_workload_viability",
+      "mediana": 4,
+      "desvio_padrao": 0.0,
+      "n_replicas_validas": 3,
+      "n_replicas_falhas": 0
+    }
+  ],
+  "passo_a_escore_global": [
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "escore_global_ponderado": 4.0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "escore_global_ponderado": 4.0
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "escore_global_ponderado": 3.8
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "escore_global_ponderado": 4.0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "escore_global_ponderado": 4.8
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "escore_global_ponderado": 4.0
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "escore_global_ponderado": 3.6
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "escore_global_ponderado": 3.2
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "escore_global_ponderado": 3.6
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "escore_global_ponderado": 3.8
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "escore_global_ponderado": 4.8
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "escore_global_ponderado": 4.0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "escore_global_ponderado": 4.2
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "escore_global_ponderado": 4.0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "escore_global_ponderado": 4.0
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "escore_global_ponderado": 3.6
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "escore_global_ponderado": 4.2
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "escore_global_ponderado": 4.0
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "escore_global_ponderado": 3.6
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "escore_global_ponderado": 3.4
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "escore_global_ponderado": 4.6
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "escore_global_ponderado": 4.0
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "escore_global_ponderado": 3.6
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "escore_global_ponderado": 3.6
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "humano",
+      "juiz": "deepseek-r1:14b",
+      "escore_global_ponderado": 4.0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "humano",
+      "juiz": "qwen2.5:14b",
+      "escore_global_ponderado": 4.0
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "ferramenta",
+      "juiz": "deepseek-r1:14b",
+      "escore_global_ponderado": 3.4
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "artefato": "ferramenta",
+      "juiz": "qwen2.5:14b",
+      "escore_global_ponderado": 4.0
+    }
+  ],
+  "matriz_escores_para_icc": [
+    {
+      "artefato_id": "banco_de_dados:ferramenta",
+      "criterio": "activity_resource_workload_viability",
+      "deepseek-r1:14b": 3,
+      "qwen2.5:14b": 3
+    },
+    {
+      "artefato_id": "banco_de_dados:ferramenta",
+      "criterio": "constructive_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 3
+    },
+    {
+      "artefato_id": "banco_de_dados:ferramenta",
+      "criterio": "curricular_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 3
+    },
+    {
+      "artefato_id": "banco_de_dados:ferramenta",
+      "criterio": "learning_objectives",
+      "deepseek-r1:14b": 3,
+      "qwen2.5:14b": 3
+    },
+    {
+      "artefato_id": "banco_de_dados:ferramenta",
+      "criterio": "pedagogical_progression",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "banco_de_dados:humano",
+      "criterio": "activity_resource_workload_viability",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "banco_de_dados:humano",
+      "criterio": "constructive_alignment",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "banco_de_dados:humano",
+      "criterio": "curricular_alignment",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "banco_de_dados:humano",
+      "criterio": "learning_objectives",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "banco_de_dados:humano",
+      "criterio": "pedagogical_progression",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "desenvolvimento_full_cycle:ferramenta",
+      "criterio": "activity_resource_workload_viability",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "desenvolvimento_full_cycle:ferramenta",
+      "criterio": "constructive_alignment",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "desenvolvimento_full_cycle:ferramenta",
+      "criterio": "curricular_alignment",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "desenvolvimento_full_cycle:ferramenta",
+      "criterio": "learning_objectives",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "desenvolvimento_full_cycle:ferramenta",
+      "criterio": "pedagogical_progression",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "desenvolvimento_full_cycle:humano",
+      "criterio": "activity_resource_workload_viability",
+      "deepseek-r1:14b": 3,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "desenvolvimento_full_cycle:humano",
+      "criterio": "constructive_alignment",
+      "deepseek-r1:14b": 3,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "desenvolvimento_full_cycle:humano",
+      "criterio": "curricular_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "desenvolvimento_full_cycle:humano",
+      "criterio": "learning_objectives",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "desenvolvimento_full_cycle:humano",
+      "criterio": "pedagogical_progression",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 3
+    },
+    {
+      "artefato_id": "estatistica_data_science:ferramenta",
+      "criterio": "activity_resource_workload_viability",
+      "deepseek-r1:14b": 3,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_data_science:ferramenta",
+      "criterio": "constructive_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_data_science:ferramenta",
+      "criterio": "curricular_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_data_science:ferramenta",
+      "criterio": "learning_objectives",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_data_science:ferramenta",
+      "criterio": "pedagogical_progression",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_data_science:humano",
+      "criterio": "activity_resource_workload_viability",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_data_science:humano",
+      "criterio": "constructive_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_data_science:humano",
+      "criterio": "curricular_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_data_science:humano",
+      "criterio": "learning_objectives",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_data_science:humano",
+      "criterio": "pedagogical_progression",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_geral:ferramenta",
+      "criterio": "activity_resource_workload_viability",
+      "deepseek-r1:14b": 3,
+      "qwen2.5:14b": 3
+    },
+    {
+      "artefato_id": "estatistica_geral:ferramenta",
+      "criterio": "constructive_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 3
+    },
+    {
+      "artefato_id": "estatistica_geral:ferramenta",
+      "criterio": "curricular_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 3
+    },
+    {
+      "artefato_id": "estatistica_geral:ferramenta",
+      "criterio": "learning_objectives",
+      "deepseek-r1:14b": 3,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_geral:ferramenta",
+      "criterio": "pedagogical_progression",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_geral:humano",
+      "criterio": "activity_resource_workload_viability",
+      "deepseek-r1:14b": 3,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_geral:humano",
+      "criterio": "constructive_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_geral:humano",
+      "criterio": "curricular_alignment",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_geral:humano",
+      "criterio": "learning_objectives",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "estatistica_geral:humano",
+      "criterio": "pedagogical_progression",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "ferramentas_propriedade_industrial:ferramenta",
+      "criterio": "activity_resource_workload_viability",
+      "deepseek-r1:14b": 3,
+      "qwen2.5:14b": 3
+    },
+    {
+      "artefato_id": "ferramentas_propriedade_industrial:ferramenta",
+      "criterio": "constructive_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 3
+    },
+    {
+      "artefato_id": "ferramentas_propriedade_industrial:ferramenta",
+      "criterio": "curricular_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "ferramentas_propriedade_industrial:ferramenta",
+      "criterio": "learning_objectives",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "ferramentas_propriedade_industrial:ferramenta",
+      "criterio": "pedagogical_progression",
+      "deepseek-r1:14b": 3,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "ferramentas_propriedade_industrial:humano",
+      "criterio": "activity_resource_workload_viability",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "ferramentas_propriedade_industrial:humano",
+      "criterio": "constructive_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "ferramentas_propriedade_industrial:humano",
+      "criterio": "curricular_alignment",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "ferramentas_propriedade_industrial:humano",
+      "criterio": "learning_objectives",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "ferramentas_propriedade_industrial:humano",
+      "criterio": "pedagogical_progression",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "modelagem_matematica:ferramenta",
+      "criterio": "activity_resource_workload_viability",
+      "deepseek-r1:14b": 3,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "modelagem_matematica:ferramenta",
+      "criterio": "constructive_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 3
+    },
+    {
+      "artefato_id": "modelagem_matematica:ferramenta",
+      "criterio": "curricular_alignment",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 3
+    },
+    {
+      "artefato_id": "modelagem_matematica:ferramenta",
+      "criterio": "learning_objectives",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "modelagem_matematica:ferramenta",
+      "criterio": "pedagogical_progression",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "modelagem_matematica:humano",
+      "criterio": "activity_resource_workload_viability",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "modelagem_matematica:humano",
+      "criterio": "constructive_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "modelagem_matematica:humano",
+      "criterio": "curricular_alignment",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "modelagem_matematica:humano",
+      "criterio": "learning_objectives",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "modelagem_matematica:humano",
+      "criterio": "pedagogical_progression",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "resistencia_materiais:ferramenta",
+      "criterio": "activity_resource_workload_viability",
+      "deepseek-r1:14b": 3,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "resistencia_materiais:ferramenta",
+      "criterio": "constructive_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "resistencia_materiais:ferramenta",
+      "criterio": "curricular_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "resistencia_materiais:ferramenta",
+      "criterio": "learning_objectives",
+      "deepseek-r1:14b": 3,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "resistencia_materiais:ferramenta",
+      "criterio": "pedagogical_progression",
+      "deepseek-r1:14b": 3,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "resistencia_materiais:humano",
+      "criterio": "activity_resource_workload_viability",
+      "deepseek-r1:14b": 3,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "resistencia_materiais:humano",
+      "criterio": "constructive_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "resistencia_materiais:humano",
+      "criterio": "curricular_alignment",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "resistencia_materiais:humano",
+      "criterio": "learning_objectives",
+      "deepseek-r1:14b": 4,
+      "qwen2.5:14b": 4
+    },
+    {
+      "artefato_id": "resistencia_materiais:humano",
+      "criterio": "pedagogical_progression",
+      "deepseek-r1:14b": 5,
+      "qwen2.5:14b": 4
+    }
+  ],
+  "passo_b_votos": [
+    {
+      "disciplina": "estatistica_data_science",
+      "juiz": "deepseek-r1:14b",
+      "padrao_votos": "4-0",
+      "vencedor_padrao_votos": "gerado",
+      "preferencia_final": "gerado",
+      "votos_individuais": [
+        "gerado",
+        "gerado",
+        "gerado",
+        "gerado"
+      ],
+      "confidence_por_execucao": [
+        "medium",
+        "high",
+        "high",
+        "high"
+      ]
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "juiz": "qwen2.5:14b",
+      "padrao_votos": "0-4",
+      "vencedor_padrao_votos": "humano",
+      "preferencia_final": "humano",
+      "votos_individuais": [
+        "humano",
+        "humano",
+        "humano",
+        "humano"
+      ],
+      "confidence_por_execucao": [
+        "medium",
+        "medium",
+        "medium",
+        "medium"
+      ]
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "juiz": "deepseek-r1:14b",
+      "padrao_votos": "1-3",
+      "vencedor_padrao_votos": "humano",
+      "preferencia_final": "humano",
+      "votos_individuais": [
+        "humano",
+        "humano",
+        "humano",
+        "gerado"
+      ],
+      "confidence_por_execucao": [
+        "high",
+        "high",
+        "high",
+        "high"
+      ]
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "juiz": "qwen2.5:14b",
+      "padrao_votos": "0-4",
+      "vencedor_padrao_votos": "humano",
+      "preferencia_final": "humano",
+      "votos_individuais": [
+        "humano",
+        "humano",
+        "humano",
+        "humano"
+      ],
+      "confidence_por_execucao": [
+        "high",
+        "high",
+        "high",
+        "high"
+      ]
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "juiz": "deepseek-r1:14b",
+      "padrao_votos": "1-3",
+      "vencedor_padrao_votos": "humano",
+      "preferencia_final": "humano",
+      "votos_individuais": [
+        "humano",
+        "humano",
+        "humano",
+        "gerado"
+      ],
+      "confidence_por_execucao": [
+        "high",
+        "high",
+        "high",
+        "medium"
+      ]
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "juiz": "qwen2.5:14b",
+      "padrao_votos": "3-1",
+      "vencedor_padrao_votos": "gerado",
+      "preferencia_final": "gerado",
+      "votos_individuais": [
+        "humano",
+        "gerado",
+        "gerado",
+        "gerado"
+      ],
+      "confidence_por_execucao": [
+        "high",
+        "high",
+        "high",
+        "high"
+      ]
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "juiz": "deepseek-r1:14b",
+      "padrao_votos": "3-1",
+      "vencedor_padrao_votos": "gerado",
+      "preferencia_final": "gerado",
+      "votos_individuais": [
+        "gerado",
+        "gerado",
+        "humano",
+        "gerado"
+      ],
+      "confidence_por_execucao": [
+        "medium",
+        "medium",
+        "high",
+        "high"
+      ]
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "juiz": "qwen2.5:14b",
+      "padrao_votos": "1-2",
+      "vencedor_padrao_votos": "tie",
+      "preferencia_final": "tie",
+      "votos_individuais": [
+        "humano",
+        "tie",
+        "humano",
+        "gerado"
+      ],
+      "confidence_por_execucao": [
+        "high",
+        "high",
+        "high",
+        "high"
+      ]
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "juiz": "deepseek-r1:14b",
+      "padrao_votos": "2-2",
+      "vencedor_padrao_votos": "tie",
+      "preferencia_final": "tie",
+      "votos_individuais": [
+        "humano",
+        "gerado",
+        "humano",
+        "gerado"
+      ],
+      "confidence_por_execucao": [
+        "high",
+        "high",
+        "high",
+        "high"
+      ]
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "juiz": "qwen2.5:14b",
+      "padrao_votos": "3-1",
+      "vencedor_padrao_votos": "gerado",
+      "preferencia_final": "gerado",
+      "votos_individuais": [
+        "humano",
+        "gerado",
+        "gerado",
+        "gerado"
+      ],
+      "confidence_por_execucao": [
+        "medium",
+        "high",
+        "high",
+        "high"
+      ]
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "juiz": "deepseek-r1:14b",
+      "padrao_votos": "1-3",
+      "vencedor_padrao_votos": "humano",
+      "preferencia_final": "humano",
+      "votos_individuais": [
+        "humano",
+        "humano",
+        "humano",
+        "gerado"
+      ],
+      "confidence_por_execucao": [
+        "high",
+        "high",
+        "high",
+        "high"
+      ]
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "juiz": "qwen2.5:14b",
+      "padrao_votos": "2-2",
+      "vencedor_padrao_votos": "tie",
+      "preferencia_final": "tie",
+      "votos_individuais": [
+        "gerado",
+        "humano",
+        "humano",
+        "gerado"
+      ],
+      "confidence_por_execucao": [
+        "medium",
+        "high",
+        "high",
+        "medium"
+      ]
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "juiz": "deepseek-r1:14b",
+      "padrao_votos": "2-2",
+      "vencedor_padrao_votos": "tie",
+      "preferencia_final": "tie",
+      "votos_individuais": [
+        "humano",
+        "gerado",
+        "humano",
+        "gerado"
+      ],
+      "confidence_por_execucao": [
+        "high",
+        "high",
+        "high",
+        "high"
+      ]
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "juiz": "qwen2.5:14b",
+      "padrao_votos": "1-2",
+      "vencedor_padrao_votos": "tie",
+      "preferencia_final": "tie",
+      "votos_individuais": [
+        "gerado",
+        "tie",
+        "humano",
+        "humano"
+      ],
+      "confidence_por_execucao": [
+        "medium",
+        "high",
+        "high",
+        "medium"
+      ]
+    }
+  ],
+  "position_bias_passo_b": {
+    "taxa_geral": 0.143,
+    "suspeitos_total": 2,
+    "total": 14,
+    "por_juiz": {
+      "qwen2.5:14b": {
+        "suspeitos": 0,
+        "total": 7,
+        "taxa": 0.0
+      },
+      "deepseek-r1:14b": {
+        "suspeitos": 2,
+        "total": 7,
+        "taxa": 0.286
+      }
+    },
+    "detalhe": [
+      {
+        "disciplina": "estatistica_data_science",
+        "juiz": "deepseek-r1:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "estatistica_data_science",
+        "juiz": "qwen2.5:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "banco_de_dados",
+        "juiz": "deepseek-r1:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "banco_de_dados",
+        "juiz": "qwen2.5:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "desenvolvimento_full_cycle",
+        "juiz": "deepseek-r1:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "desenvolvimento_full_cycle",
+        "juiz": "qwen2.5:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "modelagem_matematica",
+        "juiz": "deepseek-r1:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "modelagem_matematica",
+        "juiz": "qwen2.5:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "estatistica_geral",
+        "juiz": "deepseek-r1:14b",
+        "suspeito_position_bias": true
+      },
+      {
+        "disciplina": "estatistica_geral",
+        "juiz": "qwen2.5:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "ferramentas_propriedade_industrial",
+        "juiz": "deepseek-r1:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "ferramentas_propriedade_industrial",
+        "juiz": "qwen2.5:14b",
+        "suspeito_position_bias": false
+      },
+      {
+        "disciplina": "resistencia_materiais",
+        "juiz": "deepseek-r1:14b",
+        "suspeito_position_bias": true
+      },
+      {
+        "disciplina": "resistencia_materiais",
+        "juiz": "qwen2.5:14b",
+        "suspeito_position_bias": false
+      }
+    ]
+  },
+  "concordancia_juizes": {
+    "concordancia_holistica_percentual": 0.286
+  },
+  "taxas_vitoria_passo_b": {
+    "por_juiz": {
+      "deepseek-r1:14b": {
+        "vitorias_gerado": 2,
+        "vitorias_humano": 3,
+        "empates": 2
+      },
+      "qwen2.5:14b": {
+        "vitorias_gerado": 2,
+        "vitorias_humano": 2,
+        "empates": 3
+      }
+    }
+  },
+  "sanitizacao_e_escopo": {
+    "marcadores_removidos_total": 8,
+    "uas_fora_de_escopo_removidas_total": 7,
+    "normalizacao": {
+      "referencias_resolvidas": 66,
+      "nao_resolvidas": 0,
+      "deduplicadas": 17
+    },
+    "ver_detalhe_em": [
+      "eval_pipeline\\resultados\\laaj_log_sanitizacao.json",
+      "eval_pipeline\\resultados\\laaj_log_escopo_uas.json",
+      "eval_pipeline\\resultados\\laaj_log_normalizacao.json"
+    ]
+  }
+}

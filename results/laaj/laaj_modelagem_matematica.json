@@ -1,0 +1,533 @@
+{
+  "pointwise": {
+    "humano": {
+      "juizes": {
+        "deepseek-r1:14b": {
+          "replicas_validas": [
+            {
+              "notas": {
+                "curricular_alignment": 5,
+                "learning_objectives": 4,
+                "constructive_alignment": 4,
+                "pedagogical_progression": 4,
+                "activity_resource_workload_viability": 4
+              },
+              "rationale_geral": "O LAP apresenta uma estrutura organizada e abrangente, cobrindo desde conceitos básicos até aplicações práticas de equações diferenciais. As unidades de aprendizagem seguem uma progressão lógica, e os recursos variados promovem uma abordagem pedagógica sólida. No entanto, há algumas repetições de conteúdo e ausência de exemplos em algumas unidades que merecem atenção.",
+              "rationales": {
+                "curricular_alignment": "O LAP cobre todos os objetivos da CG, incluindo a resolução de EDOs, espaços vetoriais e sistemas de equações diferenciais. O conteúdo abrangente alinha-se com as competências e requisitos curriculares.",
+                "learning_objectives": "Os objetivos de aprendizagem são claros, específicos e usam verbos mensuráveis. Cada recurso dentro das UAs contribui para alcançar esses objetivos.",
+                "constructive_alignment": "Há uma boa coerência entre competências, objetivos, conteúdo e atividades. Os recursos variados mantêm a alinhamento construtivo ao longo do LAP.",
+                "pedagogical_progression": "A sequência das UAs é lógica, promovendo uma progressão adequada de conceitos básicos para aplicações mais complexas. No entanto, algumas unidades poderiam beneficiar de exemplos práticos adicionais.",
+                "activity_resource_workload_viability": "As atividades são variadas e relevantes, com uma boa diversidade de recursos. O tempo estimado é adequado, embora algumas unidades possam ter excesso de conteúdo repetitivo."
+              }
+            },
+            {
+              "notas": {
+                "curricular_alignment": 4,
+                "learning_objectives": 3,
+                "constructive_alignment": 4,
+                "pedagogical_progression": 4,
+                "activity_resource_workload_viability": 3
+              },
+              "rationale_geral": "O LAP apresenta uma estrutura organizada com oito unidades que abrangem desde a introdução a equações diferenciais até aplicações em fenômenos físicos e biológicos. No entanto, há repetições de conteúdo e objetivos em algumas unidades, o que pode comprometer a clareza e a progressão pedagógica.",
+              "rationales": {
+                "curricular_alignment": "O LAP cobre os principais tópicos da CG, como resolução de EDOs, espaços vetoriais e sistemas de equações. No entanto, há pequenas omissões em competências específicas e a abordagem de alguns tópicos é superficial.",
+                "learning_objectives": "Os objetivos de aprendizagem são claros e mensuráveis, mas apresentam repetições entre as unidades. Isso pode levar a uma sobreposição de conteúdo e reduzir a eficácia na progressão do aluno.",
+                "constructive_alignment": "Há coerência entre os objetivos, conteúdos e atividades, mas o excesso de repetição em alguns tópicos pode causar confusão. As avaliações são consistentes com os objetivos.",
+                "pedagogical_progression": "A sequência lógica das unidades é aparente, mas a repetição de tópicos em diferentes unidades pode prejudicar a progressão. Algumas unidades tratam assuntos muito semelhantes, o que pode levar à perda de interesse do aluno.",
+                "activity_resource_workload_viability": "As atividades são variadas e incluem diferentes tipos de recursos. No entanto, a carga horária em algumas unidades parece excessiva devido ao conteúdo repetido, o que pode afetar a viabilidade."
+              }
+            },
+            {
+              "notas": {
+                "curricular_alignment": 5,
+                "learning_objectives": 4,
+                "constructive_alignment": 5,
+                "pedagogical_progression": 5,
+                "activity_resource_workload_viability": 4
+              },
+              "rationale_geral": "O LAP apresenta uma estrutura organizada que abrange todos os tópicos da CG, com objetivos claros e atividades variadas. No entanto, há repetições em alguns objetivos e quizzes focam excessivamente na resolução de problemas.",
+              "rationales": {
+                "curricular_alignment": "O LAP cobre integralmente os tópicos da CG, incluindo EDOs, espaços vetoriais e transformações lineares. Todos os objetivos da CG são abordados em diferentes unidades.",
+                "learning_objectives": "Os objetivos de aprendizagem são claros, específicos e usam verbos mensuráveis. Eles estão bem alinhados com os objetivos da CG.",
+                "constructive_alignment": "Há uma boa coerência entre competências, objetivos, conteúdos, atividades e avaliações em cada UA. As avaliações são consistentes com os objetivos.",
+                "pedagogical_progression": "A sequência das UAs segue uma progressão lógica, começando com conceitos básicos e avançando para tópicos mais complexos. As dependências são respeitadas.",
+                "activity_resource_workload_viability": "As atividades são variadas e incluem diferentes tipos de recursos. A carga horária parece adequada, embora possa ser ajustada para melhorar aprofundamento."
+              }
+            }
+          ],
+          "replicas_falhas": 0,
+          "mediana_por_criterio": {
+            "curricular_alignment": 5,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "desvio_padrao_por_criterio": {
+            "curricular_alignment": 0.471,
+            "learning_objectives": 0.471,
+            "constructive_alignment": 0.471,
+            "pedagogical_progression": 0.471,
+            "activity_resource_workload_viability": 0.471
+          },
+          "escore_global_ponderado": 4.2
+        },
+        "qwen2.5:14b": {
+          "replicas_validas": [
+            {
+              "notas": {
+                "curricular_alignment": 4,
+                "learning_objectives": 4,
+                "constructive_alignment": 4,
+                "pedagogical_progression": 4,
+                "activity_resource_workload_viability": 4
+              },
+              "rationale_geral": "O LAP apresentado cobre um amplo espectro de tópicos relacionados a equações diferenciais e espaços vetoriais, alinhando-se bem com as diretrizes curriculares. No entanto, há algumas inconsistências na progressão pedagógica e na adequação dos recursos às atividades propostas.",
+              "rationales": {
+                "curricular_alignment": "O LAP abrange a maioria das competências e objetivos de aprendizagem estabelecidos pela CG, incluindo resolução de EDOs, modelagem com espaços vetoriais e transformações lineares. No entanto, falta cobertura completa para alguns tópicos como métodos numéricos avançados e aplicações práticas em engenharia.",
+                "learning_objectives": "Os objetivos de aprendizagem são claramente definidos e mensuráveis, utilizando verbos específicos que permitem uma avaliação precisa do progresso dos alunos. No entanto, alguns objetivos poderiam ser mais granulares para facilitar a compreensão e o acompanhamento.",
+                "constructive_alignment": "Há um bom alinhamento entre os objetivos de aprendizagem, conteúdo formativo e atividades propostas em cada UA. No entanto, há algumas inconsistências na aplicação dos métodos numéricos e na integração com aplicações práticas.",
+                "pedagogical_progression": "A progressão pedagógica entre as UAs é lógica e coerente, seguindo uma sequência que permite aos alunos construir conhecimento gradualmente. No entanto, a transição de conceitos teóricos para aplicações práticas poderia ser mais suave em algumas unidades.",
+                "activity_resource_workload_viability": "As atividades e recursos propostos são variados e relevantes, incluindo vídeos, textos, exercícios e aulas síncronas. No entanto, alguns recursos poderiam ser mais contextualizados para melhorar a compreensão prática dos conceitos."
+              }
+            },
+            {
+              "notas": {
+                "curricular_alignment": 4,
+                "learning_objectives": 4,
+                "constructive_alignment": 4,
+                "pedagogical_progression": 4,
+                "activity_resource_workload_viability": 4
+              },
+              "rationale_geral": "O LAP em questão cobre extensivamente os conteúdos formativos e objetivos de aprendizagem estabelecidos na Curriculum Guideline. As unidades de aprendizagem são bem estruturadas, com recursos variados que incluem vídeos orientativos (OVAs), textos curadoria, listas de exercícios e aulas síncronas. No entanto, há algumas inconsistências menores em termos de coerência entre os objetivos e as atividades propostas, bem como na progressão pedagógica ao longo das unidades.",
+              "rationales": {
+                "curricular_alignment": "O LAP abrange todos os conteúdos formativos estabelecidos pela CG. Todas as UAs estão alinhadas com os objetivos de aprendizagem e competências previstas, embora algumas seções possam ser mais detalhadas do que outras.",
+                "learning_objectives": "Os objetivos de aprendizagem são claramente definidos em cada UA. No entanto, alguns objetivos poderiam ser mais específicos e usar verbos mensuráveis para facilitar a avaliação da compreensão dos alunos.",
+                "constructive_alignment": "Há uma boa coerência entre os conteúdos formativos e as atividades propostas em cada UA. No entanto, há algumas inconsistências menores na forma como alguns objetivos são abordados nas atividades.",
+                "pedagogical_progression": "A progressão pedagógica entre as UAs é lógica e coerente, com cada UA construindo sobre o conhecimento adquirido anteriormente. No entanto, algumas transições podem ser mais suaves para facilitar a compreensão dos alunos.",
+                "activity_resource_workload_viability": "As atividades e recursos propostos são variados e relevantes, mas alguns recursos poderiam ser mais contextualizados ou incluir exemplos práticos adicionais para melhorar a compreensão dos alunos."
+              }
+            },
+            {
+              "notas": {
+                "curricular_alignment": 4,
+                "learning_objectives": 4,
+                "constructive_alignment": 4,
+                "pedagogical_progression": 4,
+                "activity_resource_workload_viability": 4
+              },
+              "rationale_geral": "O LAP apresentado cobre uma gama de tópicos relacionados a equações diferenciais e espaços vetoriais, alinhando-se bem com as diretrizes curriculares fornecidas. No entanto, há algumas áreas que precisam ser melhoradas para garantir um fluxo pedagógico mais eficaz e coerente entre os objetivos de aprendizagem, competências e avaliações.",
+              "rationales": {
+                "curricular_alignment": "O LAP abrange a maioria dos tópicos mencionados na CG, incluindo equações diferenciais, espaços vetoriais e transformações lineares. No entanto, há uma falta de cobertura clara para alguns aspectos da CG, como o uso de conceitos matemáticos em modelagem de fenômenos reais.",
+                "learning_objectives": "Os objetivos de aprendizagem são claros e mensuráveis. No entanto, eles poderiam ser mais específicos sobre como os alunos serão avaliados para atingir esses objetivos, especialmente em relação a atividades práticas ou projetos.",
+                "constructive_alignment": "Há uma boa correspondência entre competências, objetivos e conteúdos ao longo do LAP. No entanto, algumas unidades de aprendizagem (UAs) parecem ter mais ênfase em teoria do que na prática, o que pode comprometer a coerência pedagógica.",
+                "pedagogical_progression": "A progressão lógica entre as UAs é bem estabelecida. No entanto, algumas transições podem ser mais abruptas do que outras, especialmente quando se passa de conceitos teóricos para aplicações práticas.",
+                "activity_resource_workload_viability": "Os recursos e atividades propostas são variados e relevantes. No entanto, a carga horária pode ser desafiadora para os alunos manterem o ritmo sem sobrecarga de trabalho."
+              }
+            }
+          ],
+          "replicas_falhas": 0,
+          "mediana_por_criterio": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "desvio_padrao_por_criterio": {
+            "curricular_alignment": 0.0,
+            "learning_objectives": 0.0,
+            "constructive_alignment": 0.0,
+            "pedagogical_progression": 0.0,
+            "activity_resource_workload_viability": 0.0
+          },
+          "escore_global_ponderado": 4.0
+        }
+      }
+    },
+    "ferramenta": {
+      "juizes": {
+        "deepseek-r1:14b": {
+          "replicas_validas": [
+            {
+              "notas": {
+                "curricular_alignment": 5,
+                "learning_objectives": 5,
+                "constructive_alignment": 5,
+                "pedagogical_progression": 5,
+                "activity_resource_workload_viability": 5
+              },
+              "rationale_geral": "O LAP apresenta um design pedagógico robusto, com unidades de aprendizagem bem definidas que seguem uma progressão lógica. Ele abrange todos os componentes da currículo, incluindo desde a introdução a equações diferenciais até sistemas complexos e transformações lineares. Os recursos variados e as atividades práticas promovem uma compreensão profunda dos tópicos.",
+              "rationales": {
+                "curricular_alignment": "O LAP cobre todos os objetivos da CG, incluindo a modelagem matemática de fenômenos e resolução de EDOs. Cada UA está alinhada com as competências específicas, como resolver sistemas de equações diferenciais e aplicar conceitos de espaços vetoriais.",
+                "learning_objectives": "Os objetivos de aprendizagem são claros e medíveis. Cada UA define metas específicas, como '_resolver EDOs' ou 'aplicar métodos numéricos', usando verbos apropriados para avaliação.",
+                "constructive_alignment": "Há uma coerência entre objetivos, conteúdo e atividades. As avaliações, como quizzes e testes, medem adequadamente o alcance dos objetivos de aprendizagem.",
+                "pedagogical_progression": "A sequência das UAs segue uma progressão lógica: introdução a EDOs, resolução de sistemas, transformações lineares e aplicações práticas. Isso promove uma construção gradual do conhecimento.",
+                "activity_resource_workload_viability": "As atividades são variadas e relevantes, incluindo vídeos, textos, podcasts e roteiros de atividades. A carga horária parece adequada para cada unidade."
+              }
+            },
+            {
+              "notas": {
+                "curricular_alignment": 4,
+                "learning_objectives": 4,
+                "constructive_alignment": 4,
+                "pedagogical_progression": 3,
+                "activity_resource_workload_viability": 3
+              },
+              "rationale_geral": "O LAP apresenta uma estrutura organizada e abrangente, cobrindo a maioria dos objetivos e conteúdos da CG. No entanto, há algumas omissões significativas, como a ausência de atividades que promovam a liderança e integração em equipes, além de inconsistências na alinhamento entre alguns recursos e objetivos.",
+              "rationales": {
+                "curricular_alignment": "O LAP abrange a maioria dos objetivos e competências da CG, como resolução de EDOs e modelagem de fenômenos. No entanto, falta atividades que promovam habilidades em liderança e integração de equipes.",
+                "learning_objectives": "Os objetivos de aprendizagem são claros e medíveis, mas algumas unidades possuem objetivos muito amplos ou pouco específicos, o que pode dificultar a compreensão dos alunos.",
+                "constructive_alignment": "Há uma boa correspondência entre competências, objetivos e recursos, mas algumas unidades apresentam inconsistências, como recursos que não se alinham diretamente com os objetivos da unidade.",
+                "pedagogical_progression": "A sequência lógica das unidades é geralmente boa, mas há problemas na ordem de algumas unidades, como a posição da UA6 em relação à UA7, que pode confundir os alunos.",
+                "activity_resource_workload_viability": "Os recursos são variados e relevantes, mas algumas unidades têm um excesso de recursos, o que pode sobrecarregar os alunos. Além disso, alguns recursos não estão diretamente alinhados com os objetivos da unidade."
+              }
+            },
+            {
+              "notas": {
+                "curricular_alignment": 5,
+                "learning_objectives": 4,
+                "constructive_alignment": 4,
+                "pedagogical_progression": 4,
+                "activity_resource_workload_viability": 3
+              },
+              "rationale_geral": "O LAP apresenta uma estrutura organizada e abrangente, cobrindo todos os tópicos mencionados na CG. Cada UA é bem definida e inclui recursos variados que ajudam a alcançar os objetivos de aprendizagem. No entanto, há algumas unidades com conteúdo excessivo e outros problemas menores que podem afetar a coerência e a viabilidade da carga horária.",
+              "rationales": {
+                "curricular_alignment": "O LAP abrange todos os tópicos listados na CG, incluindo espaços vetoriais, equações diferenciais, transformações lineares e métodos numéricos. Cada unidade está alinhada com as competências e objetivos da CG.",
+                "learning_objectives": "Os objetivos de aprendizagem são claros e medíveis, como 'Resolver equações diferenciais ordinárias' e 'Aplicar conceitos de espaços vetoriais'. No entanto, algumas unidades tratam de mais de um objetivo, o que pode dificultar a observação individual.",
+                "constructive_alignment": "Há uma boa coerência entre competências, objetivos e atividades. Por exemplo, as unidades sobre equações diferenciais incluem vídeos, textos e quizzes relevantes. No entanto, algumas unidades misturam tópicos diferentes, o que pode prejudicar a coesão.",
+                "pedagogical_progression": "A sequência lógica é mantida, com uma progressão clara de conceitos básicos para mais complexos. Por exemplo, UA1 introduz equações diferenciais, enquanto UA8 trata de sistemas de equações. No entanto, há saltos significativos entre algumas unidades que podem confundir os alunos.",
+                "activity_resource_workload_viability": "Os recursos são variados e relevantes, incluindo vídeos, textos, podcasts e atividades interativas. No entanto, a carga horária parece pesada em algumas unidades, especialmente nas UAs com mais de uma hora de conteúdo."
+              }
+            }
+          ],
+          "replicas_falhas": 0,
+          "mediana_por_criterio": {
+            "curricular_alignment": 5,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "desvio_padrao_por_criterio": {
+            "curricular_alignment": 0.471,
+            "learning_objectives": 0.471,
+            "constructive_alignment": 0.471,
+            "pedagogical_progression": 0.816,
+            "activity_resource_workload_viability": 0.943
+          },
+          "escore_global_ponderado": 4.0
+        },
+        "qwen2.5:14b": {
+          "replicas_validas": [
+            {
+              "notas": {
+                "curricular_alignment": 3,
+                "learning_objectives": 4,
+                "constructive_alignment": 3,
+                "pedagogical_progression": 4,
+                "activity_resource_workload_viability": 4
+              },
+              "rationale_geral": "O LAP abrange uma variedade de tópicos relacionados a equações diferenciais e espaços vetoriais, seguindo um formato estruturado com várias unidades de aprendizagem (UAs) que incluem recursos variados como vídeos, textos, podcasts e atividades interativas. No entanto, há algumas inconsistências na cobertura dos objetivos e competências da CG, bem como em alguns aspectos do alinhamento construtivo e progressão pedagógica.",
+              "rationales": {
+                "curricular_alignment": "Embora o LAP cubra a maioria das áreas mencionadas na CG, falta um foco mais detalhado nas transformações lineares e nos sistemas de equações diferenciais. Além disso, alguns objetivos específicos da CG não são abordados em profundidade ou estão ausentes no LAP.",
+                "learning_objectives": "Os objetivos de aprendizagem são claramente definidos e mensuráveis para cada UA, mas algumas UAs têm objetivos que se sobrepõem ou não estão alinhados com os objetivos gerais da CG.",
+                "constructive_alignment": "Há uma boa correspondência entre competências, objetivos e conteúdos em várias UAs, mas a avaliação das atividades às vezes parece inconsistente com os objetivos de aprendizagem estabelecidos. Por exemplo, algumas avaliações não cobrem todos os aspectos dos objetivos de aprendizagem.",
+                "pedagogical_progression": "A progressão pedagógica entre as UAs é lógica e segue uma sequência que permite aos alunos construir conhecimento gradualmente. No entanto, algumas transições podem ser mais abruptas ou não claramente definidas.",
+                "activity_resource_workload_viability": "Os recursos propostos são variados e relevantes para o conteúdo de cada UA. A carga horária parece adequada para a profundidade do material, mas algumas atividades podem ser excessivamente longas ou não eficientes em termos de tempo."
+              }
+            },
+            {
+              "notas": {
+                "curricular_alignment": 3,
+                "learning_objectives": 4,
+                "constructive_alignment": 3,
+                "pedagogical_progression": 4,
+                "activity_resource_workload_viability": 4
+              },
+              "rationale_geral": "O LAP aborda de forma extensa e detalhada os conteúdos relacionados a equações diferenciais, espaços vetoriais e transformações lineares. No entanto, há algumas inconsistências na cobertura dos objetivos de aprendizagem e competências estabelecidas pela Curriculum Guideline (CG). As atividades propostas são variadas e relevantes para o conteúdo, mas a progressão pedagógica entre as unidades de aprendizagem poderia ser mais clara.",
+              "rationales": {
+                "curricular_alignment": "O LAP abrange uma grande parte dos conteúdos da CG, incluindo equações diferenciais, espaços vetoriais e transformações lineares. No entanto, há alguns objetivos de aprendizagem que não são cobertos diretamente, como a aplicação de conceitos de espaços vetoriais na modelagem de fenômenos (Objetivo 2). Além disso, algumas competências da CG não são explicitamente mencionadas ou abordadas no LAP.",
+                "learning_objectives": "Os objetivos de aprendizagem do LAP são claros e mensuráveis. Eles cobrem a resolução de equações diferenciais, análise de sistemas lineares e métodos numéricos para resolver EDOs. No entanto, alguns dos objetivos poderiam ser mais granulares ou detalhados em relação aos requisitos da CG.",
+                "constructive_alignment": "Há uma boa coerência entre os conteúdos e as atividades propostas nas unidades de aprendizagem. No entanto, há algumas inconsistências na avaliação dos objetivos de aprendizagem em relação às competências da CG. Por exemplo, a avaliação do método de resolução de EDOs numéricos não está claramente alinhada com o objetivo 1 da CG.",
+                "pedagogical_progression": "A progressão pedagógica entre as unidades de aprendizagem é lógica e segue uma sequência coerente. No entanto, a relação de pré-requisitos entre algumas UAs poderia ser mais claramente definida para melhorar a compreensão da estrutura do LAP.",
+                "activity_resource_workload_viability": "Os recursos e atividades propostas são variados, relevantes e contextualmente adequados. No entanto, algumas atividades parecem ter uma carga de trabalho muito alta (por exemplo, o roteiro de atividade em UA3 com 100 minutos), que pode ser desafiadora para os alunos."
+              }
+            },
+            {
+              "notas": {
+                "curricular_alignment": 4,
+                "learning_objectives": 4,
+                "constructive_alignment": 4,
+                "pedagogical_progression": 4,
+                "activity_resource_workload_viability": 4
+              },
+              "rationale_geral": "O LAP aborda extensivamente os conteúdos relacionados a equações diferenciais, espaços vetoriais e transformações lineares conforme especificado na CG. No entanto, há algumas lacunas em termos de cobertura completa dos objetivos de aprendizagem e competências estabelecidas pela CG. As atividades propostas são variadas e relevantes para o conteúdo abordado, mas a progressão pedagógica entre as unidades de aprendizagem poderia ser mais claramente definida.",
+              "rationales": {
+                "curricular_alignment": "O LAP cobre extensivamente os conteúdos relacionados a equações diferenciais, espaços vetoriais e transformações lineares conforme especificado na CG. No entanto, há uma falta de referência explícita aos pré-requisitos mencionados na CG (Cálculo em Várias Variáveis).",
+                "learning_objectives": "Os objetivos de aprendizagem são claramente definidos e mensuráveis, mas eles não abrangem todos os aspectos dos objetivos estabelecidos na CG. Por exemplo, a competência em liderar equipes para alcançar resultados não é mencionada.",
+                "constructive_alignment": "Há uma boa correspondência entre as competências, objetivos e conteúdos ao longo do LAP, com atividades e avaliações que alinham bem os aprendizados esperados. No entanto, a avaliação dos pré-requisitos não é claramente estabelecida.",
+                "pedagogical_progression": "A progressão pedagógica entre as unidades de aprendizagem é lógica e coerente, mas poderia ser mais explicitamente definida em termos de pré-requisitos e dependências entre os conteúdos.",
+                "activity_resource_workload_viability": "As atividades propostas são variadas e relevantes para o conteúdo abordado, incluindo OVA, textos, podcasts, roteiros de atividade, aulas síncronas e quizzes. No entanto, algumas atividades parecem ter uma carga horária muito alta (100 minutos), o que pode ser desafiador para os estudantes."
+              }
+            }
+          ],
+          "replicas_falhas": 0,
+          "mediana_por_criterio": {
+            "curricular_alignment": 3,
+            "learning_objectives": 4,
+            "constructive_alignment": 3,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "desvio_padrao_por_criterio": {
+            "curricular_alignment": 0.471,
+            "learning_objectives": 0.0,
+            "constructive_alignment": 0.471,
+            "pedagogical_progression": 0.0,
+            "activity_resource_workload_viability": 0.0
+          },
+          "escore_global_ponderado": 3.6
+        }
+      }
+    }
+  },
+  "holistico": {
+    "juizes": {
+      "deepseek-r1:14b": {
+        "respostas_brutas": [
+          {
+            "mapeamento": "paa_1=A#1",
+            "comparacao": [
+              {
+                "aspecto": "Cobertura de tópicos e organização",
+                "evidencia_artifact_a": "Artifact A organiza o conteúdo em unidades muito detalhadas (UA01 a UA08), cada uma focando em um tópico específico, como introdução a EDOs, equações lineares de 1ª ordem, espaços vetoriais, etc. Isso pode oferecer uma abordagem mais fragmentada, mas com profundidade em cada assunto.",
+                "evidencia_artifact_b": "Artifact B organiza o conteúdo em unidades que combinam tópicos relacionados, como equações separáveis e Lei do Resfriamento de Newton (UA2), e equações lineares e aplicações em queda de corpos e circuitos elétricos (UA3). Isso pode oferecer uma abordagem mais integrada e cohesiva."
+              },
+              {
+                "aspecto": "Variedade e profundidade dos recursos",
+                "evidencia_artifact_a": "Artifact A inclui vários tipos de recursos, como OVAs, textos, roteiros de atividades, aulas síncronas e quizzes, cada um focando em aspectos específicos do conteúdo. Isso pode oferecer uma variedade significativa de métodos de ensino.",
+                "evidencia_artifact_b": "Artifact B também inclui uma variedade de recursos, mas parece ter menos diversidade em alguns tópicos e mais foco em aplicações práticas."
+              },
+              {
+                "aspecto": "Aplicabilidade prática",
+                "evidencia_artifact_a": "As unidades de Artifact A parecem ser mais teóricas, com menos ênfase em aplicações práticas. Por exemplo, a UA01 foca na introdução e soluções básicas de EDOs, mas não parece ter atividades práticas específicas além das listas de exercícios.",
+                "evidencia_artifact_b": "Artifact B inclui mais aplicativos reais, como a Lei do Resfriamento de Newton, queda de corpos e circuitos elétricos, o que pode tornar o conteúdo mais relevante e interessante para os alunos."
+              }
+            ],
+            "preferred_artifact": "B",
+            "is_tie": false,
+            "confidence": "medium",
+            "rationale": null
+          },
+          {
+            "mapeamento": "paa_2=A#2",
+            "comparacao": [
+              {
+                "aspecto": "Cobertura de tópicos específicos",
+                "evidencia_artifact_a": "Artifact A dedica unidades específicas para cada método de solução, como Euler e Runge-Kutta, e aplicações em contextos específicos.",
+                "evidencia_artifact_b": "Artifact B abrange métodos e aplicações em unidades mais amplas, possivelmente menos detalhadas."
+              },
+              {
+                "aspecto": "Variedade de recursos",
+                "evidencia_artifact_a": "Oferece uma diversidade de recursos como OVAs, textos, podcasts, atividades guiadas, aulas sincronas e quizzes.",
+                "evidencia_artifact_b": "Também usa vários tipos de recursos, mas com um enfoque mais coeso em cada unidade."
+              },
+              {
+                "aspecto": "Estrutura modular vs. abrangente",
+                "evidencia_artifact_a": "Unidades focadas permitem uma abordagem modular e progressiva.",
+                "evidencia_artifact_b": "Unidades mais amplas podem fornecer uma visão mais holística, mas possivelmente menos detalhada."
+              }
+            ],
+            "preferred_artifact": "A",
+            "is_tie": false,
+            "confidence": "medium",
+            "rationale": null
+          },
+          {
+            "mapeamento": "paa_1=A#3",
+            "comparacao": [
+              {
+                "aspecto": "Cobertura de tópicos",
+                "evidencia_artifact_a": "Cobre uma gama mais ampla de tópicos, incluindo aplicações em física e biologia.",
+                "evidencia_artifact_b": "Concentra-se em tópicos específicos como separação de variáveis e Lei do Resfriamento."
+              },
+              {
+                "aspecto": "Recursos pedagógicos",
+                "evidencia_artifact_a": "Inclui多种 recursos como OVAs, textos, atividades interativas e quizzes.",
+                "evidencia_artifact_b": "Oferece podcasts e vídeos curtos para explicar conceitos específicos."
+              },
+              {
+                "aspecto": "Abordagem ao conteúdo",
+                "evidencia_artifact_a": "Aborda tópicos de forma mais abrangente, com exemplos em diferentes disciplinas.",
+                "evidencia_artifact_b": "Foca em aplicações práticas e problemas específicos."
+              }
+            ],
+            "preferred_artifact": "A",
+            "is_tie": false,
+            "confidence": "high",
+            "rationale": null
+          },
+          {
+            "mapeamento": "paa_2=A#4",
+            "comparacao": [
+              {
+                "aspecto": "Estrutura das unidades e abrangência do conteúdo",
+                "evidencia_artifact_a": "Artifact A apresenta uma divisão modular em unidades específicas, como UA1 para introdução a EDOs e UA2 para variáveis separáveis. Cada unidade é focada em um tópico específico, permitindo uma abordagem sequencial e estruturada.",
+                "evidencia_artifact_b": "Artifact B também organiza o conteúdo em unidades (UA01 a UA08), mas algumas unidades abrangem mais tópicos simultaneamente, como UA01 que inclui classificação de EDOs, soluções e aplicações variadas."
+              },
+              {
+                "aspecto": "Recursos pedagógicos e variedade",
+                "evidencia_artifact_a": "Inclui uma variedade de recursos como OVAs, textos, podcasts, roteiros de atividades HTML, aulas síncronas e quizzes. Cada recurso é integrado para apoiar o aprendizado em diferentes formatos.",
+                "evidencia_artifact_b": "Também inclui uma variedade de recursos, mas algumas unidades combinam mais tópicos em um único recurso, possivelmente diluindo a clareza."
+              },
+              {
+                "aspecto": "Profundidade na exploração de cada tópico",
+                "evidencia_artifact_a": "Cada unidade é focada em um tópico específico, permitindo umaprofundização maior. Por exemplo, UA2 dedica tempo exclusivo para a Lei do Resfriamento de Newton.",
+                "evidencia_artifact_b": "Algumas unidades abrangem mais tópicos, o que pode resultar em menos profundidade individual por tópico."
+              }
+            ],
+            "preferred_artifact": "A",
+            "is_tie": false,
+            "confidence": "high",
+            "rationale": null
+          }
+        ],
+        "replicas_descartadas_sem_comparacao": 0,
+        "preferencia_final": "paa_2",
+        "votos_traduzidos": [
+          "paa_2",
+          "paa_2",
+          "paa_1",
+          "paa_2"
+        ],
+        "padrao_votos": "3-1",
+        "vencedor_padrao_votos": "gerado",
+        "confidence_por_execucao": [
+          "medium",
+          "medium",
+          "high",
+          "high"
+        ]
+      },
+      "qwen2.5:14b": {
+        "respostas_brutas": [
+          {
+            "mapeamento": "paa_1=A#1",
+            "comparacao": [
+              {
+                "aspecto": "Cobertura dos conteúdos",
+                "evidencia_artifact_a": "UA01, UA02, UA03, etc., cobrem todos os tópicos da CG de forma detalhada.",
+                "evidencia_artifact_b": "UA1, UA2, UA3, etc., também abrangem todos os tópicos necessários, mas com menos profundidade em alguns aspectos."
+              },
+              {
+                "aspecto": "Métodos de resolução",
+                "evidencia_artifact_a": "Inclui métodos analíticos e numéricos detalhados para cada tipo de equação diferencial.",
+                "evidencia_artifact_b": "Menor ênfase em métodos numéricos, focando mais nos analíticos."
+              },
+              {
+                "aspecto": "Atividades práticas",
+                "evidencia_artifact_a": "Inclui várias atividades práticas e roteiros de atividade para aplicar o conhecimento.",
+                "evidencia_artifact_b": "Menor número de atividades práticas, focando mais em teoria e quizzes."
+              }
+            ],
+            "preferred_artifact": "A",
+            "is_tie": false,
+            "confidence": "high",
+            "rationale": null
+          },
+          {
+            "mapeamento": "paa_2=A#2",
+            "comparacao": [
+              {
+                "aspecto": "Cobertura de conteúdo",
+                "evidencia_artifact_a": "UA1 a UA8 cobrem todos os tópicos da CG, incluindo equações diferenciais, espaços vetoriais e transformações lineares.",
+                "evidencia_artifact_b": "UA01 a UA08 também cobrem todos os tópicos da CG, mas com uma ênfase maior em aplicações práticas como crescimento populacional e decaimento radioativo."
+              },
+              {
+                "aspecto": "Qualidade dos objetivos de aprendizagem",
+                "evidencia_artifact_a": "Cada unidade avaliativa (UA) tem objetivos claros e específicos que se alinham com os objetivos gerais da CG.",
+                "evidencia_artifact_b": "Os objetivos em Artifact B são mais abrangentes, às vezes incluindo múltiplos tópicos por UA."
+              },
+              {
+                "aspecto": "Viabilidade prática",
+                "evidencia_artifact_a": "Inclui uma variedade de recursos como OVA, textos e roteiros de atividades que facilitam a aprendizagem em diferentes estilos.",
+                "evidencia_artifact_b": "Também inclui diversos tipos de recursos, mas com ênfase maior em aplicações práticas e exemplos específicos."
+              }
+            ],
+            "preferred_artifact": "tie",
+            "is_tie": true,
+            "confidence": "high",
+            "rationale": null
+          },
+          {
+            "mapeamento": "paa_1=A#3",
+            "comparacao": [
+              {
+                "aspecto": "Cobertura dos conteúdos",
+                "evidencia_artifact_a": "UA01 em Artifact A aborda uma introdução mais ampla às equações diferenciais, incluindo definições e classificações.",
+                "evidencia_artifact_b": "UA1 em Artifact B foca principalmente na solução básica de EDOs e existência/unicidade."
+              },
+              {
+                "aspecto": "Métodos de resolução",
+                "evidencia_artifact_a": "Artifact A inclui detalhes sobre o método do fator integrante para resolver equações lineares de 1ª ordem.",
+                "evidencia_artifact_b": "Artifact B também aborda o método da separação de variáveis, mas não menciona explicitamente o método do fator integrante."
+              },
+              {
+                "aspecto": "Aplicações práticas",
+                "evidencia_artifact_a": "UA02 em Artifact A inclui aplicações em queda de corpos e circuitos elétricos.",
+                "evidencia_artifact_b": "UA3 em Artifact B aborda a Lei do Resfriamento de Newton, mas não menciona diretamente as aplicações em queda de corpos ou circuitos elétricos."
+              }
+            ],
+            "preferred_artifact": "A",
+            "is_tie": false,
+            "confidence": "high",
+            "rationale": null
+          },
+          {
+            "mapeamento": "paa_2=A#4",
+            "comparacao": [
+              {
+                "aspecto": "Cobertura de tópicos específicos",
+                "evidencia_artifact_a": "UA1: Equações Diferenciais: Introdução e Solução Básica, UA2: Equações Diferenciais de Primeira Ordem: Variáveis Separáveis e Lei do Resfriamento",
+                "evidencia_artifact_b": "UA01: Equações diferenciais- Primeiros conceitos"
+              },
+              {
+                "aspecto": "Qualidade dos objetivos de aprendizagem específicos",
+                "evidencia_artifact_a": "UA3: Equações Diferenciais de Primeira Ordem: Linear e Queda de Corpos, Objetivo: Aplicar o método do fator integrante para resolver equações diferenciais lineares.",
+                "evidencia_artifact_b": "UA02: Equações linear de 1º ordem, Objetivo: Resolver problemas envolvendo circuitos elétricos a partir de equações diferenciais lineares de primeira ordem."
+              },
+              {
+                "aspecto": "Viabilidade prática das atividades",
+                "evidencia_artifact_a": "UA5: Métodos Numéricos para Equações Diferenciais Ordinárias (EDOs), Atividade: Aplicação do Runge-Kutta em problemas específicos.",
+                "evidencia_artifact_b": "UA06: Métodos Numéricos para Resolução de Equações Diferenciais Ordinárias, Atividade: Comparar a solução aproximada obtida pelo método de Euler com a solução exata."
+              }
+            ],
+            "preferred_artifact": "A",
+            "is_tie": false,
+            "confidence": "high",
+            "rationale": null
+          }
+        ],
+        "replicas_descartadas_sem_comparacao": 0,
+        "preferencia_final": "tie",
+        "votos_traduzidos": [
+          "paa_1",
+          "tie",
+          "paa_1",
+          "paa_2"
+        ],
+        "padrao_votos": "1-2",
+        "vencedor_padrao_votos": "tie",
+        "confidence_por_execucao": [
+          "high",
+          "high",
+          "high",
+          "high"
+        ]
+      }
+    },
+    "execucoes": 4
+  }
+}

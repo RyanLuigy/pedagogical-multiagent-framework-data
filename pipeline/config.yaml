@@ -1,0 +1,35 @@
+disciplinas:
+  - estatistica_data_science
+  - banco_de_dados
+  - desenvolvimento_full_cycle
+  - modelagem_matematica
+  - estatistica_geral
+  - ferramentas_propriedade_industrial
+  - resistencia_materiais
+
+caminhos:
+  dir_raiz: "disciplinas"
+  subdir_humano: "disciplinas_humanas"
+  subdir_ferramenta: "disciplinas_ferramenta"
+  arquivo_humano: "paa_humana.json"
+  arquivo_ferramenta: "ciclo_03.json"
+  arquivo_cg: "cg.json"
+  gabarito: "rag/shared/disciplina_gabarito.json"
+  premissas: "rag/shared/premissas.txt"
+  dir_saida: "eval_pipeline/resultados"
+
+llm:
+  base_url: "http://localhost:11434"
+  juizes:
+    - "deepseek-r1:14b"
+    - "qwen2.5:14b"
+  temperature: 0.1
+  top_p: 0.9
+  num_ctx: 32768
+  replicas_pointwise: 3
+  replicas_holistico: 4
+
+opcoes:
+  usar_laaj: true
+  ignorar_ua9: true
+  n_disciplinas_planejado: 8

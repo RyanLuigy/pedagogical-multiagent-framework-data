@@ -1,0 +1,146 @@
+{
+  "juizes": {
+    "deepseek-r1:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada e abrangente, cobrindo desde a introdução a bancos de dados até tópicos mais avançados como normalização e bancos não-relacionais. No entanto, há repetições em alguns módulos e aprofundamentos insuficientes em outros, o que pode prejudicar a coesão e a clareza do aprendizado.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange todos os tópicos mencionados na CG, como arquitetura de SGBD, modelagem de dados, normalização, álgebra relacional, SQL e bancos não-relacionais. No entanto, há repetições em alguns módulos, o que pode indicar falta de priorização ou excesso de conteúdo.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e medíveis, como 'modelar dados utilizando abordagens E-R' e 'implementar bancos de dados não-relacionais'. No entanto, alguns objetivos são muito amplos ou repetem conteúdo em diferentes unidades.",
+            "constructive_alignment": "Há uma boa coerência entre competências, objetivos e atividades. Porém, algumas avaliações não abrangem todos os aspectos dos objetivos de aprendizagem, o que pode limitar a validade das avaliações.",
+            "pedagogical_progression": "A sequência lógica é mantida, com cada unidade construindo sobre o conteúdo anterior. No entanto, há unidades que tratam de tópicos semelhantes, o que pode causar confusão ou cansaço nos alunos.",
+            "activity_resource_workload_viability": "As atividades são variadas e incluem diferentes tipos de recursos, promovendo uma abordagem multimodal. No entanto, a carga horária parece excessiva em algumas unidades, o que pode desmotivar os alunos."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 3,
+            "constructive_alignment": 3,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada e abrangente, cobrindo desde conceitos básicos até tópicos mais avançados em bancos de dados. No entanto, há áreas que podem ser melhoradas para garantir uma alinhamento curricular mais robusto e uma progressão pedagógica mais coesa.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange a maioria dos objetivos e conteúdos da CG, como fundamentos de bancos de dados, arquitetura de SGBD e modelagem de dados. No entanto, a implementação de bancos de dados não-relacionais é tratada apenas na UA8, o que pode ser considerado um desfazimento em termos de progressão.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e medíveis, mas algumas repetições e falta de especificidade podem comprometer a clareza. Por exemplo,多个UAs têm objetivos semelhantes sobre entender conceitos básicos.",
+            "constructive_alignment": "Há uma boa coerência entre competências, objetivos e conteúdos, mas a ligação entre atividades e avaliações有时 é tênue. Por exemplo, several activities seem generic and may not directly assess the specific skills outlined in the objectives.",
+            "pedagogical_progression": "A sequência lógica das UAs é boa, com cada unidade construindo sobre a anterior. No entanto, a introdução tardia de tópicos como bancos de dados não-relacionais em UA8 pode dificultar o aprendizado para alunos que enfrentam dificuldades.",
+            "activity_resource_workload_viability": "As atividades são variadas e cobrem diferentes estilos de aprendizagem. No entanto, há redundâncias e algumas atividades parecem muito semelhantes, o que pode levar a uma carga de trabalho excessiva ou não eficiente."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 3,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP é compreensivo e bem estruturado, cobrindo uma ampla gama de tópicos do componente curricular. No entanto, há áreas onde melhorias podem ser feitas para aprofundar o conteúdo, tornar os objetivos mais específicos e variar as avaliações para abranger melhor as competências.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre todos os principais tópicos da CG, incluindo fundamentos de bancos de dados, arquitetura SGBD, modelagem E-R, normalização e SQL. No entanto, alguns tópicos, como aplicações reais de bancos não-relacionais, são tratados superficialmente.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros, mas frequentemente muito amplos. Eles usam verbos como 'compreender' que não são tão mensuráveis. Por exemplo, UA1 poderia incluir ações mais específicas além de entender.",
+            "constructive_alignment": "Há uma boa alinhamento entre os objetivos e as atividades, mas algumas avaliações são repetitivas, o que pode não capturar todas as competências adequadamente.",
+            "pedagogical_progression": "A sequência lógica é forte, com cada unidade construindo sobre a anterior. No entanto, unidades mais longas, como UA5 e UA6, podem ser cansativas sem um equilíbrio de ritmo.",
+            "activity_resource_workload_viability": "Os recursos são variados, o que é bom para diferentes estilos de aprendizagem. No entanto, a carga horária em alguns módulos pode ser excessiva e os podcasts curtos podem não abranger tópicos complexos adequadamente."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 4,
+        "learning_objectives": 3,
+        "constructive_alignment": 4,
+        "pedagogical_progression": 4,
+        "activity_resource_workload_viability": 3
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.0,
+        "learning_objectives": 0.471,
+        "constructive_alignment": 0.471,
+        "pedagogical_progression": 0.0,
+        "activity_resource_workload_viability": 0.0
+      },
+      "escore_global_ponderado": 3.6
+    },
+    "qwen2.5:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 3,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP abrange uma variedade de tópicos relacionados a sistemas de banco de dados, desde introdução até bancos não-relacionais. No entanto, há algumas inconsistências e falta de detalhes em alguns aspectos que podem necessitar de revisão para melhorar a qualidade pedagógica.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre uma grande parte dos conteúdos formativos da CG, mas não aborda todos os itens especificados na CG. Por exemplo, o tópico 'Processamento de consultas' é mencionado em várias UAs sem detalhes específicos sobre como isso é ensinado ou avaliado.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e mensuráveis, mas algumas atividades não estão diretamente alinhadas com os objetivos especificados na CG. Por exemplo, a UA7 aborda SQL, mas o objetivo específico 'Implementar bancos de dados não-relacionais' é mencionado apenas em uma UA posterior.",
+            "constructive_alignment": "Há um bom alinhamento entre competências e objetivos ao longo do LAP. No entanto, algumas atividades parecem ser mais gerais e não especificamente direcionadas para atingir os objetivos de aprendizagem estabelecidos.",
+            "pedagogical_progression": "A progressão pedagógica é lógica e segue uma sequência que permite aos alunos construir conhecimento gradualmente. No entanto, algumas transições entre unidades podem ser mais abruptas do que o ideal.",
+            "activity_resource_workload_viability": "As atividades propostas são variadas e relevantes para os objetivos de aprendizagem. No entanto, a carga horária parece estar distribuída de forma desigual entre as unidades, com algumas UAs tendo muito mais conteúdo do que outras."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 3,
+            "learning_objectives": 3,
+            "constructive_alignment": 3,
+            "pedagogical_progression": 3,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP aborda a maioria dos tópicos relevantes para o componente curricular de Banco de Dados, mas apresenta algumas lacunas e inconsistências em termos de alinhamento com as competências e objetivos da CG. As atividades e recursos são variadas e cobrem um amplo espectro de habilidades necessárias para a compreensão dos bancos de dados, embora haja uma falta de detalhamento nos objetivos de aprendizagem e em algumas seções do LAP.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange grande parte do conteúdo da CG, mas não inclui alguns tópicos importantes como a linguagem procedural em banco de dados (UA7) e a modelagem lógica de dados (UA4). Além disso, há uma falta de alinhamento claro entre os objetivos de aprendizagem e as competências previstas na CG.",
+            "learning_objectives": "Os objetivos de aprendizagem são geralmente claros e mensuráveis, mas faltam detalhes específicos em algumas seções. Por exemplo, a UA4 não especifica claramente como os alunos serão avaliados na compreensão dos conceitos fundamentais relacionados ao tema da unidade.",
+            "constructive_alignment": "Há uma boa coerência entre as competências e objetivos de aprendizagem em várias unidades, mas algumas seções carecem de detalhes sobre como os alunos serão avaliados na compreensão dos conceitos fundamentais. Por exemplo, a UA4 não fornece um alinhamento claro entre o conteúdo formativo e as atividades propostas.",
+            "pedagogical_progression": "A progressão pedagógica é lógica e coerente ao longo das unidades de aprendizagem, mas algumas transições podem ser melhoradas para garantir que os alunos entendam claramente como cada unidade se conecta à próxima. Por exemplo, a UA4 poderia fornecer mais detalhes sobre como o conteúdo formativo é aplicado em atividades práticas.",
+            "activity_resource_workload_viability": "As atividades e recursos são variadas e relevantes para as unidades de aprendizagem. No entanto, algumas seções carecem de detalhes sobre como essas atividades e recursos serão implementados na prática. Por exemplo, a UA4 não fornece informações suficientes sobre como os alunos irão aplicar o conhecimento adquirido em situações práticas."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 3,
+            "learning_objectives": 3,
+            "constructive_alignment": 3,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP abrange uma variedade de tópicos relacionados a sistemas de banco de dados, mas há algumas inconsistências e omissões que precisam ser corrigidas para melhorar sua qualidade pedagógica. As unidades de aprendizagem (UAs) cobrem os principais conceitos e habilidades necessárias, mas alguns objetivos de aprendizagem não são claramente mensuráveis e algumas atividades carecem de diversidade e relevância contextual.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange a maioria dos tópicos mencionados na CG, como sistemas de banco de dados, arquitetura SGBD, modelagem conceitual e lógica de dados. No entanto, há uma falta de cobertura sobre linguagens procedurais em bancos de dados (objetivo 4 da CG) e a transformação entre modelos de dados não é abordada com profundidade suficiente.",
+            "learning_objectives": "Os objetivos de aprendizagem são geralmente claros, mas alguns carecem de verbos mensuráveis. Por exemplo, 'Compreender os fundamentos dos sistemas de banco de dados' poderia ser reformulado para incluir um verbo mais específico e mensurável.",
+            "constructive_alignment": "Há uma boa coerência entre competências, objetivos e conteúdos em cada UA. No entanto, algumas atividades não parecem estar diretamente alinhadas com os objetivos de aprendizagem ou competências específicas, o que pode levar a confusão para os alunos.",
+            "pedagogical_progression": "A progressão pedagógica entre as UAs é lógica e coerente. As unidades começam com conceitos fundamentais e avançam gradualmente para tópicos mais complexos, como normalização de dados e linguagem SQL.",
+            "activity_resource_workload_viability": "A diversidade das atividades é boa, incluindo OVA, textos, podcasts, vídeos e roteiros de atividade. No entanto, algumas atividades parecem ser muito longas (100 minutos) para uma única sessão, o que pode sobrecarregar os alunos."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 3,
+        "learning_objectives": 3,
+        "constructive_alignment": 3,
+        "pedagogical_progression": 4,
+        "activity_resource_workload_viability": 3
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.0,
+        "learning_objectives": 0.471,
+        "constructive_alignment": 0.471,
+        "pedagogical_progression": 0.471,
+        "activity_resource_workload_viability": 0.471
+      },
+      "escore_global_ponderado": 3.2
+    }
+  }
+}

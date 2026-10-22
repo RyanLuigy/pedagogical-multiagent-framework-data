@@ -1,0 +1,146 @@
+{
+  "juizes": {
+    "deepseek-r1:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 3,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 3,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada com unidades de aprendizagem que abrangem desde fundamentos matemáticos e estatísticos até aplicações práticas em ciência de dados. No entanto, há repetições em alguns objetivos e recursos, o que pode comprometer a clareza e a coerência.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre tópicos alinhados com a CG, como estatística aplicada, álgebra linear e aprendizagem automática. No entanto, falta abordar aspectos como modelagem de fenômenos em contextos multidisciplinares.",
+            "learning_objectives": "Os objetivos são claros e mensuráveis, mas há repetições e algumas definições que poderiam ser mais específicas.",
+            "constructive_alignment": "Há boa integração entre teoria e prática, com atividades usando ferramentas como Python. Contudo, a falta de variedade em avaliações pode comprometer a abrangência.",
+            "pedagogical_progression": "A progressão lógica é mantida, mas algumas unidades tratam temas semelhantes, o que pode causar repetição e desinteresse.",
+            "activity_resource_workload_viability": "As atividades são variadas e relevantes, mas a carga horária parece excessiva em algumas unidades, possivelmente comprometendo a viabilidade."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada e abrange os principais tópicos da disciplina de Estatística Aplicada à Data Science. No entanto, há algumas repetições em alguns recursos e unidades que poderiam ser melhor aproveitadas para oferecer mais profundidade em outros assuntos.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre a maioria dos objetivos e conteúdos da CG, com ênfase em estatística aplicada, álgebra linear, probabilidades e aprendizagem automática. No entanto, falta abordar tópicos como visualização de dados em profundidade e aplicações práticas mais avançadas.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e usam verbos mensuráveis. No entanto, alguns objetivos poderiam ser mais específicos para garantir que sejam totalmente alcançáveis em cada unidade.",
+            "constructive_alignment": "Há uma boa coerência entre os objetivos, conteúdos e atividades. As avaliações são consistentes com os objetivos de aprendizagem, mas poderiam incluir mais tipos de avaliação para abranger diferentes aspectos do conteúdo.",
+            "pedagogical_progression": "A sequência das unidades é lógica e segue uma progressão natural do básico ao mais avançado. No entanto, algumas unidades repetem tópicos já abordados em unidades anteriores, o que pode levar a redundância.",
+            "activity_resource_workload_viability": "As atividades são variadas e incluem uma boa mistura de teoria e prática. No entanto, o tempo estimado para algumas atividades pode ser excessivo ou insuficiente, dependendo da complexidade do conteúdo."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP apresentado é um plano de aprendizagem detalhado e bem estruturado que abrange uma variedade de tópicos relevantes para a estatística aplicada à ciência de dados. Ele inclui unidades de aprendizagem que se concentram em fundamentos matemáticos, teoria probabilística, paradigmas da estatística, preparação de dados, visualização gráfica e técnicas de regressão. No entanto, há algumas áreas onde melhorias podem ser identificadas, especialmente em relação à cobertura de tópicos específicos da currículo e na alinhamento entre objetivos de aprendizagem e atividades propostas.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange a maioria dos tópicos mencionados na CG, como estatística aplicada, álgebra linear, probabilidade condicional e variáveis aleatórias. No entanto, há uma ausência de exemplos práticos multidisciplinares que ilustram a aplicação da ciência de dados em diferentes setores, conforme indicado na CG.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e medíveis, mas algumas unidades carecem de objetivos específicos que possam ser observados e avaliados de forma consistente. Por exemplo, a UA08 sobre autocorrelação poderia ter objetivos mais detalhados.",
+            "constructive_alignment": "Há uma boa coerência entre os tópicos abordados nas unidades e as atividades propostas. Porém, há algumas inconsistências na ligação entre o conteúdo teórico e as atividades práticas em algumas unidades, especialmente na UA07.",
+            "pedagogical_progression": "A sequência das unidades segue uma progressão lógica, começando com fundamentos matemáticos e estatísticos e progredindo para tópicos mais avançados como regressão e autocorrelação. No entanto, a falta de revisões ou conexões entre unidades pode prejudicar a compreensão integral do material.",
+            "activity_resource_workload_viability": "As atividades são variadas e incluem uma boa combinação de recursos, como vídeos, OVAs e quizzes. No entanto, o tempo estimado para algumas atividades pode ser excessivo, especialmente nas unidades com mais conteúdo teórico."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 4,
+        "learning_objectives": 4,
+        "constructive_alignment": 4,
+        "pedagogical_progression": 4,
+        "activity_resource_workload_viability": 4
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.0,
+        "learning_objectives": 0.471,
+        "constructive_alignment": 0.0,
+        "pedagogical_progression": 0.471,
+        "activity_resource_workload_viability": 0.471
+      },
+      "escore_global_ponderado": 4.0
+    },
+    "qwen2.5:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP abrange uma variedade de tópicos relevantes para a estatística aplicada à ciência de dados, mas apresenta inconsistências em alguns aspectos. As unidades de aprendizagem (UAs) cobrem os principais conceitos e habilidades necessárias, embora algumas seções possam ser mais verbosas do que outras. Os objetivos de aprendizagem são geralmente claros, mas podem beneficiar-se de uma maior especificidade em alguns casos. A coerência entre competências, objetivos, conteúdos, atividades e avaliações é boa, mas pode haver algumas lacunas na progressão pedagógica. As atividades propostas parecem ser viáveis e relevantes, embora possam precisar de ajustes para garantir que sejam adequadas ao tempo disponível.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange uma ampla gama de tópicos relacionados à estatística aplicada à ciência de dados, mas há algumas inconsistências na cobertura dos objetivos e competências da CG. Algumas unidades de aprendizagem (UAs) parecem ser mais detalhadas do que outras, o que pode levar a uma distribuição desigual das habilidades necessárias ao longo do curso.",
+            "learning_objectives": "Os objetivos de aprendizagem são geralmente claros e mensuráveis. No entanto, alguns podem ser mais gerais ou abstratos do que outros, o que pode dificultar a observação da progressão dos alunos em relação a esses objetivos.",
+            "constructive_alignment": "A maioria das UAs demonstra uma boa coerência entre competências, objetivos de aprendizagem e atividades. No entanto, há algumas áreas onde as avaliações parecem não estar diretamente alinhadas com os objetivos de aprendizagem ou habilidades necessárias para atingi-los.",
+            "pedagogical_progression": "A progressão pedagógica entre as UAs é lógica e segue uma sequência coerente. No entanto, algumas transições podem ser menos claras ou mais abruptas do que outras, o que pode dificultar a compreensão da relação entre os tópicos.",
+            "activity_resource_workload_viability": "As atividades propostas parecem ser viáveis e relevantes para as habilidades e conhecimentos necessários. No entanto, algumas atividades podem ser mais extensas do que o tempo disponível permitiria, o que pode exigir ajustes na carga de trabalho ou no planejamento das aulas."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP abrange uma variedade de tópicos relevantes para a estatística aplicada à ciência de dados, incluindo matemática e álgebra linear, teoria das probabilidades, paradigmas da estatística aplicada, preparação dos dados, visualização gráfica e aprendizagem automática. No entanto, há algumas inconsistências na estruturação do conteúdo e nos objetivos de aprendizagem que precisam ser melhoradas para garantir uma progressão pedagógica clara.",
+          "rationales": {
+            "curricular_alignment": "O LAP aborda a maioria dos tópicos mencionados na CG, mas há alguns desvios. Por exemplo, o conteúdo da UA08 é repetitivo com a UA07 e não segue uma progressão lógica de aprendizagem.",
+            "learning_objectives": "Os objetivos de aprendizagem são geralmente claros e mensuráveis. No entanto, alguns estão mal formulados ou duplicam-se entre as unidades de aprendizagem, o que pode confundir os alunos sobre o que esperar em cada seção.",
+            "constructive_alignment": "Há uma boa correspondência entre competências, objetivos e conteúdos ao longo do LAP. No entanto, algumas atividades não parecem estar diretamente alinhadas com os objetivos de aprendizagem ou podem ser redundantes.",
+            "pedagogical_progression": "A progressão pedagógica é geralmente lógica e coerente entre as unidades, mas há repetições desnecessárias em algumas seções que podem dificultar a compreensão do aluno.",
+            "activity_resource_workload_viability": "As atividades propostas são variadas e relevantes para o conteúdo. No entanto, alguns recursos parecem ser desnecessariamente longos ou redundantes, o que pode sobrecarregar os alunos."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP abrange uma variedade de tópicos relevantes para a estatística aplicada à ciência de dados, incluindo matemática e álgebra linear, teoria das probabilidades, inferência estatística e técnicas de visualização. No entanto, há algumas inconsistências na estruturação dos objetivos e nos recursos fornecidos que podem comprometer a coerência entre as unidades de aprendizagem (UAs).",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange uma grande parte do conteúdo formativo da CG, mas apresenta alguns desvios. Por exemplo, algumas UAs não mencionam claramente os pré-requisitos ou como se conectam com outros componentes curriculares necessários para a compreensão dos tópicos.",
+            "learning_objectives": "Os objetivos de aprendizagem são geralmente claros e mensuráveis, mas algumas UAs apresentam verbos que não são facilmente observáveis ou mensuráveis. Por exemplo, em UA02, o objetivo 'Explicar as diferentes abordagens acerca do processo de aprendizagem em ciência de dados' poderia ser mais específico.",
+            "constructive_alignment": "Há uma boa correspondência entre os objetivos de aprendizagem e as atividades propostas, mas algumas inconsistências são notáveis. Por exemplo, a UA08 tem um conteúdo formativo semelhante à UA07, o que pode levar a repetição desnecessária.",
+            "pedagogical_progression": "A progressão pedagógica entre as UAs é lógica e coerente na maioria dos casos. No entanto, há uma sobreposição de conteúdo entre UA07 e UA08 que pode dificultar a compreensão do aluno.",
+            "activity_resource_workload_viability": "As atividades propostas são variadas e relevantes para o aprendizado. No entanto, algumas UAs têm uma carga de trabalho muito alta (por exemplo, UA02 com 100 minutos de aula síncrona), que pode ser desafiadora para os alunos manterem o engajamento."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 4,
+        "learning_objectives": 4,
+        "constructive_alignment": 4,
+        "pedagogical_progression": 4,
+        "activity_resource_workload_viability": 4
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.0,
+        "learning_objectives": 0.0,
+        "constructive_alignment": 0.0,
+        "pedagogical_progression": 0.0,
+        "activity_resource_workload_viability": 0.0
+      },
+      "escore_global_ponderado": 4.0
+    }
+  }
+}

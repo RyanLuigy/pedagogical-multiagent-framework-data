@@ -1,0 +1,89 @@
+{
+  "taxa_geral": 0.143,
+  "suspeitos_total": 2,
+  "total": 14,
+  "por_juiz": {
+    "qwen2.5:14b": {
+      "suspeitos": 0,
+      "total": 7,
+      "taxa": 0.0
+    },
+    "deepseek-r1:14b": {
+      "suspeitos": 2,
+      "total": 7,
+      "taxa": 0.286
+    }
+  },
+  "detalhe": [
+    {
+      "disciplina": "estatistica_data_science",
+      "juiz": "deepseek-r1:14b",
+      "suspeito_position_bias": false
+    },
+    {
+      "disciplina": "estatistica_data_science",
+      "juiz": "qwen2.5:14b",
+      "suspeito_position_bias": false
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "juiz": "deepseek-r1:14b",
+      "suspeito_position_bias": false
+    },
+    {
+      "disciplina": "banco_de_dados",
+      "juiz": "qwen2.5:14b",
+      "suspeito_position_bias": false
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "juiz": "deepseek-r1:14b",
+      "suspeito_position_bias": false
+    },
+    {
+      "disciplina": "desenvolvimento_full_cycle",
+      "juiz": "qwen2.5:14b",
+      "suspeito_position_bias": false
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "juiz": "deepseek-r1:14b",
+      "suspeito_position_bias": false
+    },
+    {
+      "disciplina": "modelagem_matematica",
+      "juiz": "qwen2.5:14b",
+      "suspeito_position_bias": false
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "juiz": "deepseek-r1:14b",
+      "suspeito_position_bias": true
+    },
+    {
+      "disciplina": "estatistica_geral",
+      "juiz": "qwen2.5:14b",
+      "suspeito_position_bias": false
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "juiz": "deepseek-r1:14b",
+      "suspeito_position_bias": false
+    },
+    {
+      "disciplina": "ferramentas_propriedade_industrial",
+      "juiz": "qwen2.5:14b",
+      "suspeito_position_bias": false
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "juiz": "deepseek-r1:14b",
+      "suspeito_position_bias": true
+    },
+    {
+      "disciplina": "resistencia_materiais",
+      "juiz": "qwen2.5:14b",
+      "suspeito_position_bias": false
+    }
+  ]
+}

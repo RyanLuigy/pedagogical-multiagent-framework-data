@@ -1,0 +1,146 @@
+{
+  "juizes": {
+    "deepseek-r1:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 5,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada e abrangente, cobrindo os principais tópicos da disciplina de Resistência dos Materiais Avançada. As unidades de aprendizagem (UAs) são bem definidas e seguem uma progressão lógica do básico ao avançado. No entanto, há algumas omissões em relação às competências da CG, como a ausência de ênfase na sustentabilidade e inovação tecnológica. As atividades e recursos são variados e relevantes, mas o volume pode ser excessivo.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange a maioria dos tópicos da CG, como projeto de vigas, transformação de tensões, flambagem e métodos de energia. No entanto, falta uma conexão explícita com as competências que envolvem sustentabilidade e inovação tecnológica.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e medíveis, como 'Projetar vigas com base na rigidez à flexão' e 'Determinar tensões em elementos estruturais'. No entanto, há repetições em algumas unidades.",
+            "constructive_alignment": "Há uma boa coerência entre os objetivos, conteúdo e atividades. Por exemplo, as aulas síncronas e OVAs complementam o texto. No entanto, faltam links explícitos entre unidades para mostrar a conexão maior.",
+            "pedagogical_progression": "A sequência lógica das UAs é destacável, desde o projeto básico até os métodos avançados. Cada unidade constrói sobre a anterior, como na progressão de vigas para flambagem.",
+            "activity_resource_workload_viability": "As atividades são variadas e incluem textos, vídeos, aulas síncronas e quizzes. No entanto, o volume em algumas unidades pode ser excessivo, como as duas aulas síncronas de 100 minutos."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 5,
+            "learning_objectives": 5,
+            "constructive_alignment": 5,
+            "pedagogical_progression": 5,
+            "activity_resource_workload_viability": 5
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura coerente e bem organizada, com unidades de aprendizagem que seguem uma progressão lógica do básico ao avançado. Os objetivos de aprendizagem são claros e alinhados com a currículo, e os recursos variados promovem uma abordagem diversificada à aprendizagem.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre todos os tópicos mencionados na CG, como projeto de vigas, transformação de tensões, flambagem e métodos de energia. Os objetivos específicos do LAP estão alinhados com as competências da CG.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros, observáveis e medíveis, utilizando verbos apropriados como 'determinar', 'dimensionar' e 'calcular'. Eles estão bem alinhados com os objetivos da CG.",
+            "constructive_alignment": "Há uma coerência entre as competências, objetivos, conteúdos, atividades e avaliações. Os recursos como softwares e exercícios complementam o conteúdo teórico, promovendo uma integração consistente.",
+            "pedagogical_progression": "A sequência das unidades segue uma progressão lógica, desde o básico (projeto de vigas) até o avançado (métodos de energia e estudos de caso). Cada UA parece preparar o aluno para a próxima.",
+            "activity_resource_workload_viability": "As atividades são variadas e relevantes, incluindo vídeos, exercícios, quizzes e aulas síncronas. O tempo dedicado a cada recurso parece adequado e viável."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 3,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada com unidades de aprendizagem que cobrem os tópicos da CG. No entanto, há algumas omissões e inconsistências em alguns critérios.",
+          "rationales": {
+            "curricular_alignment": "As UAs abordam todos os tópicos listados na CG, como vigas, flambagem e transformação de tensões. Os objetivos de aprendizagem estão alinhados com a CG.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e usam verbos mensuráveis, mas algumas unidades repetem os mesmos objetivos.",
+            "constructive_alignment": "Há coerência entre os objetivos, conteúdo e atividades, mas faltam avaliações práticas ou projetos que envolvam softwares.",
+            "pedagogical_progression": "A progressão lógica é mantida, mas a ordem das unidades pode ser melhor ajustada para refletir um fluxo mais natural de aprendizagem.",
+            "activity_resource_workload_viability": "Os recursos são variados e incluem diferentes tipos de atividades, mas há uma concentração excessiva em vigas e flambagem com menos foco em outros tópicos."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 4,
+        "learning_objectives": 4,
+        "constructive_alignment": 4,
+        "pedagogical_progression": 5,
+        "activity_resource_workload_viability": 3
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.471,
+        "learning_objectives": 0.471,
+        "constructive_alignment": 0.816,
+        "pedagogical_progression": 0.471,
+        "activity_resource_workload_viability": 0.943
+      },
+      "escore_global_ponderado": 4.0
+    },
+    "qwen2.5:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 3,
+            "learning_objectives": 4,
+            "constructive_alignment": 3,
+            "pedagogical_progression": 3,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP em questão cobre uma gama extensa de tópicos relacionados à resistência dos materiais, com ênfase na teoria e prática. No entanto, há algumas inconsistências no alinhamento curricular e na progressão pedagógica que precisam ser melhoradas para garantir um fluxo lógico e coerente entre as unidades de aprendizagem (UAs).",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange a maioria dos objetivos de aprendizagem da CG, mas há alguns tópicos que não são cobertos, como o projeto de elementos estruturais submetidos a cargas dinâmicas e a aplicação do método da conservação de energia. Além disso, algumas UAs parecem repetir conteúdo sem uma progressão clara.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e mensuráveis em cada UA, mas há redundâncias entre as unidades que podem confundir os alunos. Por exemplo, o objetivo de determinar a declividade e deflexão de vigas é repetido em várias UAs sem uma progressão clara.",
+            "constructive_alignment": "Há um bom alinhamento entre competências, objetivos, conteúdos e avaliações em cada UA. No entanto, a falta de coerência entre as diferentes unidades pode levar à confusão dos alunos sobre como os tópicos se conectam.",
+            "pedagogical_progression": "A progressão pedagógica não é clara em todo o LAP. Algumas UAs parecem cobrir conteúdo semelhante, e a sequência lógica entre as unidades pode ser melhorada para garantir que os alunos entendam como cada tópico se conecta ao próximo.",
+            "activity_resource_workload_viability": "As atividades e recursos propostos são variados e relevantes, incluindo textos curadoria, aulas síncronas mediadas, listas de exercícios e quizzes. No entanto, o tempo estimado para cada recurso pode ser excessivo em algumas situações."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP abrange uma variedade de tópicos relevantes para a resistência dos materiais, mas apresenta algumas inconsistências em termos de alinhamento curricular e objetivos de aprendizagem. As unidades de aprendizagem são bem estruturadas e incluem atividades diversificadas, embora haja um excesso de recursos baseados em quizzes que podem não ser suficientemente variados para atender a todos os tipos de aprendizes.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre uma ampla gama de tópicos relacionados à resistência dos materiais, mas há algumas lacunas e repetições. Por exemplo, o uso excessivo do software MDSolids em várias unidades pode não ser necessário para atender a todos os objetivos curriculares estabelecidos.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e mensuráveis, mas algumas UA's têm múltiplos objetivos que podem tornar o acompanhamento da progressão do aluno mais difícil. Além disso, alguns recursos parecem ser redundantes em relação aos objetivos.",
+            "constructive_alignment": "Há uma boa correspondência entre os objetivos de aprendizagem e as atividades propostas nas UA's, mas algumas unidades apresentam um excesso de quizzes que podem não fornecer a diversidade necessária para atender aos diferentes estilos de aprendizado.",
+            "pedagogical_progression": "A progressão pedagógica entre as UA's é lógica e coerente, com cada unidade construindo sobre o conhecimento adquirido nas anteriores. No entanto, a repetição de alguns tópicos em diferentes unidades pode ser desnecessária.",
+            "activity_resource_workload_viability": "As atividades e recursos propostos são variados e relevantes para o conteúdo formativo das UA's. No entanto, a quantidade excessiva de quizzes pode sobrecarregar os alunos e não permitir uma variedade suficiente de métodos de aprendizagem."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP em questão abrange uma variedade de tópicos relacionados à resistência dos materiais, incluindo vigas, deformações plásticas, transformação de tensões e deformações, flambagem e métodos de energia. No entanto, há algumas inconsistências na cobertura do conteúdo formativo entre as Unidades de Aprendizagem (UAs) e nos objetivos de aprendizagem propostos. Além disso, a progressão pedagógica é lógica, mas poderia ser mais claramente estabelecida em termos de pré-requisitos e dependências.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre uma grande parte dos objetivos de aprendizagem da CG, mas há alguns tópicos que não são abordados, como a avaliação de deformações plásticas em elementos estruturais sob esforços mecânicos e o uso de softwares para análise estrutural. Além disso, os recursos propostos parecem estar bem alinhados com as competências da CG, mas poderiam ser mais detalhados.",
+            "learning_objectives": "Os objetivos de aprendizagem são claramente definidos e mensuráveis. No entanto, alguns dos objetivos parecem repetir-se em diferentes UAs sem uma progressão clara ou aprofundamento do conteúdo.",
+            "constructive_alignment": "Há um bom alinhamento entre os objetivos de aprendizagem e as atividades propostas, mas algumas das avaliações parecem ser muito focadas em certos aspectos dos tópicos sem cobrir todos os elementos necessários para uma compreensão completa.",
+            "pedagogical_progression": "A progressão pedagógica é lógica, começando com o projeto de vigas e avançando para tópicos mais complexos como flambagem e métodos de energia. No entanto, a relação entre as UAs poderia ser melhor explicada em termos de pré-requisitos e dependências.",
+            "activity_resource_workload_viability": "Os recursos propostos são variados e relevantes para o conteúdo formativo. No entanto, a carga horária total parece estar dentro dos limites da CG, mas poderia ser mais detalhada em termos de como cada recurso contribui para os objetivos de aprendizagem."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 4,
+        "learning_objectives": 4,
+        "constructive_alignment": 4,
+        "pedagogical_progression": 4,
+        "activity_resource_workload_viability": 4
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.471,
+        "learning_objectives": 0.0,
+        "constructive_alignment": 0.471,
+        "pedagogical_progression": 0.471,
+        "activity_resource_workload_viability": 0.0
+      },
+      "escore_global_ponderado": 4.0
+    }
+  }
+}

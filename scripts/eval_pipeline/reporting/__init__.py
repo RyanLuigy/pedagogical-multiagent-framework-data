@@ -1,0 +1,1 @@
+from eval_pipeline.reporting.relatorio import relatorio_disciplina, relatorio_consolidado

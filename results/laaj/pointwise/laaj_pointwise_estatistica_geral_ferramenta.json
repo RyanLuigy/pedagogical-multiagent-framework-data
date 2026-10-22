@@ -1,0 +1,146 @@
+{
+  "juizes": {
+    "deepseek-r1:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 3,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada e abrangente, com oito unidades de aprendizagem que cobrem os principais tópicos da disciplina. No entanto, há algumas áreas de melhoria, como a necessidade de reduzir a repetição de conteúdo e ajustar a carga horária para evitar cansaço dos alunos.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange todos os tópicos da CG, como estatística descritiva, probabilidade e testes de hipóteses. No entanto, há sobreposição em unidades como UA3 e UA1, o que pode causar confusão.",
+            "learning_objectives": "Os objetivos são claros e medíveis, mas apresentam repetição entre unidades, o que pode prejudicar a clareza.",
+            "constructive_alignment": "A alinhamento é bom, com avaliações que cobram os objetivos. No entanto, faltam avaliações integradas que abrangem多个 competency areas.",
+            "pedagogical_progression": "A sequência lógica e a progressão pedagógica são fortes, com cada unidade construindo sobre a anterior. No entanto, a repetição de conteúdo pode desmotivar os alunos.",
+            "activity_resource_workload_viability": "Os recursos são variados e relevantes, mas a carga horária pode ser excessiva em algumas unidades, o que pode levar à fadiga dos alunos."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 5,
+            "learning_objectives": 4,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 5,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada e abrangente, cobrindo todos os tópicos da CG. As unidades de aprendizagem são sequenciadas logicamente, desde a estatística descritiva até os testes de hipóteses. Os objetivos de aprendizagem são claros e usam verbos mensuráveis, embora haja algumas repetições. As atividades variam entre diferentes tipos de recursos, promovendo uma carga horária adequada.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre todos os tópicos da CG, desde a estatística descritiva até os testes de hipóteses. Cada unidade aborda conteúdo alinhado com as competências e objetivos da CG.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros, observáveis e usam verbos mensuráveis. No entanto, há algumas repetições em diferentes unidades que poderiam ser melhor ajustadas para maior clareza.",
+            "constructive_alignment": "Há uma boa coerência entre os objetivos, conteúdos e atividades. No entanto, observa-se conteúdo extra ou repetitivo em algumas unidades que pode causar confusão.",
+            "pedagogical_progression": "A sequência das unidades segue uma progressão lógica, construindo conhecimentos de forma incremental e coerente com a ordem dos tópicos na CG.",
+            "activity_resource_workload_viability": "As atividades são variadas e incluem diferentes tipos de recursos. A carga horária parece adequada, embora haja repetições em alguns recursos que podem tornar o material cansativo."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 3,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP apresenta uma estrutura organizada que abrange a maioria dos tópicos da CG, com uma sequência lógica das unidades. No entanto, há repetições em objetivos e atividades, e excesso de material em algumas unidades, o que pode comprometer a viabilidade da carga horária.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre todos os tópicos da CG, como estatística descritiva, probabilidade, distribuições, estimação e testes de hipóteses. No entanto, há repetições em alguns objetivos e conteúdo, o que pode indicar excesso.",
+            "learning_objectives": "Os objetivos são claros e medíveis, mas apresentam repetições em algumas unidades, indicando necessidade de mais精细化.",
+            "constructive_alignment": "Há boa coerência entre competências, objetivos e conteúdo, mas a sobreposição de tópicos pode causar confusão.",
+            "pedagogical_progression": "A sequência das unidades é lógica, construindo desde a estatística descritiva até os testes de hipóteses. No entanto, a repetição em algumas unidades pode prejudicar a progressão.",
+            "activity_resource_workload_viability": "As atividades são variadas e adequadas, mas o excesso de material em algumas unidades pode comprometer a viabilidade da carga horária."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 4,
+        "learning_objectives": 3,
+        "constructive_alignment": 4,
+        "pedagogical_progression": 4,
+        "activity_resource_workload_viability": 3
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.471,
+        "learning_objectives": 0.471,
+        "constructive_alignment": 0.0,
+        "pedagogical_progression": 0.471,
+        "activity_resource_workload_viability": 0.471
+      },
+      "escore_global_ponderado": 3.6
+    },
+    "qwen2.5:14b": {
+      "replicas_validas": [
+        {
+          "notas": {
+            "curricular_alignment": 3,
+            "learning_objectives": 4,
+            "constructive_alignment": 3,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP abrange uma variedade de tópicos estatísticos, mas há inconsistências na cobertura dos objetivos e competências da CG. Alguns recursos parecem estar focados em mais do que apenas o conteúdo formativo da UA correspondente, o que pode levar a sobrecarga para os alunos. A progressão pedagógica é lógica, mas algumas unidades de aprendizagem podem ser vistas como repetitivas ou não bem integradas com as outras.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange uma grande parte dos objetivos e competências da CG, mas há alguns desvios. Por exemplo, a UA3 foca principalmente em distribuições de frequência e histogramas, que são apenas um subconjunto do conteúdo formativo dessa unidade na CG. Além disso, algumas unidades misturam conteúdos de diferentes seções da CG sem uma clara justificativa pedagógica.",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e mensuráveis em grande parte do LAP. No entanto, há repetição desnecessária em alguns recursos (por exemplo, a OVA da UA1) e algumas atividades parecem estar focadas em mais do que apenas os objetivos formativos da unidade.",
+            "constructive_alignment": "Há uma boa correspondência entre competências, objetivos de aprendizagem e conteúdo na maioria das unidades. No entanto, algumas atividades parecem não estar bem alinhadas com os objetivos formativos da unidade (por exemplo, a OVA da UA5 que mistura conteúdos de variáveis discretas e contínuas).",
+            "pedagogical_progression": "A progressão pedagógica é lógica e segue uma sequência coerente. As unidades começam com conceitos básicos (UA1) e avançam para tópicos mais complexos como distribuições de probabilidade (UA4-5) e testes de hipóteses (UA8). No entanto, algumas unidades podem ser vistas como repetitivas ou não bem integradas com as outras.",
+            "activity_resource_workload_viability": "As atividades e recursos propostos são variados e relevantes para o conteúdo formativo de cada unidade. No entanto, a carga horária parece ser alta em algumas unidades (por exemplo, UA1 com duas aulas síncronas de 100 minutos cada), o que pode sobrecarregar os alunos."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 3,
+            "learning_objectives": 4,
+            "constructive_alignment": 3,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 3
+          },
+          "rationale_geral": "O LAP abrange uma variedade de tópicos estatísticos, mas há inconsistências na cobertura dos objetivos e competências da CG. Alguns recursos são redundantes em seus objetivos e conteúdo formativo, o que pode levar a sobrecarga para os alunos. A progressão pedagógica é lógica, mas algumas unidades de aprendizagem (UAs) parecem estar mal alinhadas com as competências necessárias.",
+          "rationales": {
+            "curricular_alignment": "O LAP cobre uma ampla gama de tópicos estatísticos conforme a CG, mas há alguns desvios. Por exemplo, algumas UAs abordam conteúdo que não está diretamente relacionado aos objetivos da CG (como variáveis aleatórias contínuas em UA5).",
+            "learning_objectives": "Os objetivos de aprendizagem são claros e mensuráveis, mas há repetição desnecessária entre os recursos. Por exemplo, a OVA 'Estatística descritiva: classificação de variáveis' tem o mesmo objetivo que outros recursos na UA1.",
+            "constructive_alignment": "Há uma boa coerência entre competências e objetivos em cada UA, mas há inconsistências no alinhamento dos conteúdos formativos com as atividades e avaliações. Por exemplo, a UA3 foca principalmente em distribuições de frequência, mas inclui conteúdo sobre variáveis aleatórias discretas que não está diretamente relacionado.",
+            "pedagogical_progression": "A progressão pedagógica entre as UAs é lógica e segue uma sequência coerente de tópicos estatísticos. No entanto, algumas transições podem ser melhoradas para garantir que os alunos tenham a base necessária antes de avançar para conceitos mais complexos.",
+            "activity_resource_workload_viability": "As atividades e recursos propostos são variados e relevantes, mas há um excesso de conteúdo em algumas UAs que pode sobrecarregar os alunos. Por exemplo, a UA5 tem uma quantidade significativa de conteúdo sobre distribuições discretas sem clara necessidade adicional."
+          }
+        },
+        {
+          "notas": {
+            "curricular_alignment": 4,
+            "learning_objectives": 5,
+            "constructive_alignment": 4,
+            "pedagogical_progression": 4,
+            "activity_resource_workload_viability": 4
+          },
+          "rationale_geral": "O LAP em questão cobre a maior parte dos conteúdos e objetivos da Curriculum Guideline, mas apresenta algumas inconsistências na progressão pedagógica e no alinhamento construtivo. As atividades e recursos são variados e relevantes, embora possam ser mais bem integradas com os objetivos de aprendizagem específicos.",
+          "rationales": {
+            "curricular_alignment": "O LAP abrange a maioria dos conteúdos formativos da CG, mas há alguns desvios na estruturação das unidades. Por exemplo, algumas UAs misturam conteúdo que deveria ser tratado separadamente (como em UA5 e UA6).",
+            "learning_objectives": "Os objetivos de aprendizagem são claramente definidos e mensuráveis, mas alguns recursos parecem ter objetivos mais amplos do que o necessário para a unidade específica.",
+            "constructive_alignment": "Há uma boa correspondência entre os conteúdos formativos e as atividades propostas em cada UA. No entanto, há inconsistências na forma como alguns objetivos de aprendizagem são abordados ao longo do LAP.",
+            "pedagogical_progression": "A progressão pedagógica entre as UAs é lógica e coerente em grande parte. No entanto, há algumas transições abruptas que podem confundir os alunos, especialmente na mudança de tópicos como da estatística descritiva para a probabilidade.",
+            "activity_resource_workload_viability": "As atividades e recursos são diversificados e relevantes. No entanto, alguns recursos parecem ser excessivamente longos ou cobrem um escopo maior do que o necessário para uma única unidade de aprendizagem."
+          }
+        }
+      ],
+      "replicas_falhas": 0,
+      "mediana_por_criterio": {
+        "curricular_alignment": 3,
+        "learning_objectives": 4,
+        "constructive_alignment": 3,
+        "pedagogical_progression": 4,
+        "activity_resource_workload_viability": 3
+      },
+      "desvio_padrao_por_criterio": {
+        "curricular_alignment": 0.471,
+        "learning_objectives": 0.471,
+        "constructive_alignment": 0.471,
+        "pedagogical_progression": 0.0,
+        "activity_resource_workload_viability": 0.471
+      },
+      "escore_global_ponderado": 3.4
+    }
+  }
+}

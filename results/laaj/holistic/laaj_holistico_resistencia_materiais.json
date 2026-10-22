@@ -1,0 +1,242 @@
+{
+  "juizes": {
+    "deepseek-r1:14b": {
+      "respostas_brutas": [
+        {
+          "mapeamento": "paa_1=A#1",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura de tópicos específicos",
+              "evidencia_artifact_a": "Cada unidade aborda um tópico específico, como 'Projeto de vigas' e 'Transformação de tensão e deformação', promovendo uma abordagem modular.",
+              "evidencia_artifact_b": "Combina tópicos em unidades, por exemplo, 'Vigas: Fundamentos e Deflexão' aborda tanto fundamentos quanto deflexão."
+            },
+            {
+              "aspecto": "Profundidade do conteúdo",
+              "evidencia_artifact_a": "Inclui seções detalhadas sobre métodos específicos como integração, superposição e círculo de Mohr em unidades dedicadas.",
+              "evidencia_artifact_b": "Métodos são tratados juntos, o que pode reduzir a clareza na compreensão individual de cada técnica."
+            },
+            {
+              "aspecto": "Integração de softwares",
+              "evidencia_artifact_a": "Incorpora uso de softwares em unidades específicas como UA04 e UA08, promovendo uma integração contínua.",
+              "evidencia_artifact_b": "Uso de softwares está concentrado em unidades específicas (UA4 e UA7), possivelmente menos integrado."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#2",
+          "comparacao": [
+            {
+              "aspecto": "Organização das unidades de aprendizagem",
+              "evidencia_artifact_a": "Artifact A organiza as unidades de forma mais específica e progressiva, abordando tópicos como deflexão, linha elástica e métodos de integração em etapas separadas.",
+              "evidencia_artifact_b": "Artifact B agrupa tópicos relacionados, como projeto de vigas e deflexão, em unidades mais integradas, o que pode ser menos progressivo."
+            },
+            {
+              "aspecto": "Variedade de recursos pedagógicos",
+              "evidencia_artifact_a": "Inclui diversificados tipos de recursos como OVAs, textos, aulas síncronas e quizzes, promovendo diferentes abordagens ao aprendizado.",
+              "evidencia_artifact_b": "Principalmente utiliza textos curados e aulas síncronas mediadas, com menos variedade em recursos interativos."
+            },
+            {
+              "aspecto": "Uso de softwares e ferramentas práticas",
+              "evidencia_artifact_a": "Integra o uso de softwares como FTool, MDSolids e SolidWorks em unidades específicas, promovendo aplicação prática.",
+              "evidencia_artifact_b": "Menos foco em softwares, com maior ênfase em conceitos teóricos."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_1=A#3",
+          "comparacao": [
+            {
+              "aspecto": "Estrutura das unidades de aprendizagem",
+              "evidencia_artifact_a": "Artifact A organiza o conteúdo em unidades mais específicas e sequenciais, como UA01: Projeto de vigas, UA02: Vigas: projeto, deflexão e linha elástica, etc., permitindo uma progressão lógica do simples para o complexo.",
+              "evidencia_artifact_b": "Artifact B também organiza o conteúdo em unidades, mas algumas unidades abrangem tópicos mais amplos e menos sequenciais, como UA1: Vigas: Fundamentos e Deflexão, que inclui conceitos básicos e aplicações práticas."
+            },
+            {
+              "aspecto": "Recursos pedagógicos",
+              "evidencia_artifact_a": "Artifact A utiliza uma variedade de recursos pedagógicos, como OVAs, textos, aulas síncronas mediadas e quizzes, além de incluir softwares específicos para simulação computacional em unidades específicas.",
+              "evidencia_artifact_b": "Artifact B também utiliza recursos variados, mas parece menos integrado no contexto prático, com ênfase maior em conceitos teóricos em algumas unidades."
+            },
+            {
+              "aspecto": "Abordagem ao conteúdo",
+              "evidencia_artifact_a": "O Artifact A apresenta uma abordagem mais detalhada e progressiva, com cada unidade focando em aspectos específicos do tema, como deflexão, linha elástica, métodos de integração e softwares.",
+              "evidencia_artifact_b": "O Artifact B parece ter uma abordagem mais generalista em algumas unidades, misturando conceitos básicos e aplicações práticas sem a mesma profundidade."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#4",
+          "comparacao": [
+            {
+              "aspecto": "Estrutura das unidades de aprendizagem",
+              "evidencia_artifact_a": "Artifact A organiza o conteúdo em unidades específicas e focadas, como UA1: Vigas: Fundamentos e Deflexão, permitindo uma abordagem modular e detalhada.",
+              "evidencia_artifact_b": "Artifact B apresenta unidades mais amplas, como UA01: Projeto de vigas, que pode confundir ou misturar conceitos."
+            },
+            {
+              "aspecto": "Variedade e tipos de recursos",
+              "evidencia_artifact_a": "Inclui uma variedade de recursos como OVAs, textos, aulas síncronas e quizzes, promovendo diferentes estilos de aprendizagem.",
+              "evidencia_artifact_b": "Principalmente utiliza textos, listas de exercícios e aulas síncronas mediadas, possivelmente limitando a interatividade."
+            },
+            {
+              "aspecto": "Clareza dos objetivos",
+              "evidencia_artifact_a": "Objetivos são claramente identificados e consistentemente repetidos em diferentes recursos, reforçando o aprendizado.",
+              "evidencia_artifact_b": "Objetivos podem ser menos claros ou dispersos, com risco de confusão."
+            },
+            {
+              "aspecto": "Cobertura do currículo",
+              "evidencia_artifact_a": "Cobre todos os tópicos da CG de forma detalhada e organizada.",
+              "evidencia_artifact_b": "Também cobre, mas com estrutura que pode resultar em abrangência mais superficial."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        }
+      ],
+      "replicas_descartadas_sem_comparacao": 0,
+      "preferencia_final": "tie",
+      "votos_traduzidos": [
+        "paa_1",
+        "paa_2",
+        "paa_1",
+        "paa_2"
+      ],
+      "padrao_votos": "2-2",
+      "vencedor_padrao_votos": "tie",
+      "confidence_por_execucao": [
+        "high",
+        "high",
+        "high",
+        "high"
+      ]
+    },
+    "qwen2.5:14b": {
+      "respostas_brutas": [
+        {
+          "mapeamento": "paa_1=A#1",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura dos Objetivos de Aprendizagem",
+              "evidencia_artifact_a": "UA03: Vigas: estaticamente indeterminadas, inclinação e deslocamento; UA04: Transformação de tensão e deformação; UA05: Flambagem; UA06: Métodos de energia; UA07: Estudos de caso",
+              "evidencia_artifact_b": "UA1: Vigas: Fundamentos e Deflexão; UA2: Projeto de Vigas: Deflexão e Linha Elástica; UA3: Integração e Método dos Momentos de Área; UA4: Análise de Vigas Estaticamente Indeterminadas; UA5: Deformações Plásticas em Elementos Estruturais"
+            },
+            {
+              "aspecto": "Utilização de Recursos",
+              "evidencia_artifact_a": "Inclui uma variedade de recursos como OVA, textos curados e aulas síncronas mediadas para cada Unidade de Aprendizagem.",
+              "evidencia_artifact_b": "Também inclui uma variedade de recursos como OVA, textos e aulas síncronas mediadas para cada Unidade de Aprendizagem."
+            },
+            {
+              "aspecto": "Abordagem dos Teoremas de Castigliano",
+              "evidencia_artifact_a": "Incluído na UA07: Estudos de caso com foco em aplicação prática.",
+              "evidencia_artifact_b": "Incorporado na UA8: Colunas e Métodos de Energia, mas mais integrado ao longo do curso."
+            }
+          ],
+          "preferred_artifact": "B",
+          "is_tie": false,
+          "confidence": "medium",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#2",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura dos Objetivos de Aprendizagem",
+              "evidencia_artifact_a": "UA1 e UA2 cobrem objetivos relacionados à deflexão, inclinação e deslocamento de vigas.",
+              "evidencia_artifact_b": "UA01 e UA02 também abordam os mesmos objetivos, mas com ênfase em projetos de vigas sob flexão."
+            },
+            {
+              "aspecto": "Uso de Recursos Diversificados",
+              "evidencia_artifact_a": "Inclui OVA, textos, aulas síncronas e quizzes para cada unidade.",
+              "evidencia_artifact_b": "Utiliza texto curadoria, listas de exercícios, aulas síncronas mediadas e quizzes."
+            },
+            {
+              "aspecto": "Abordagem Prática",
+              "evidencia_artifact_a": "Inclui uso de softwares como FTool, MDSolids, SolidWorks em várias unidades.",
+              "evidencia_artifact_b": "Também inclui aulas práticas com roteiros de atividades e simulações computacionais."
+            }
+          ],
+          "preferred_artifact": "tie",
+          "is_tie": true,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_1=A#3",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura dos Objetivos de Aprendizagem",
+              "evidencia_artifact_a": "UA03: Vigas: estaticamente indeterminadas, inclinação e deslocamento - Cobre a determinação da declividade e deflexão de vigas com restrições e carregamentos complexos.",
+              "evidencia_artifact_b": "UA4: Análise de Vigas Estaticamente Indeterminadas - Cobertura parcial, focando mais em softwares do que nos métodos de cálculo."
+            },
+            {
+              "aspecto": "Utilização de Recursos",
+              "evidencia_artifact_a": "Inclui uma variedade de recursos como OVA, textos curados e aulas síncronas mediadas para cada Unidade de Aprendizagem.",
+              "evidencia_artifact_b": "Também inclui diversos tipos de recursos, mas com ênfase em softwares e menos foco em teoria."
+            },
+            {
+              "aspecto": "Abordagem Prática",
+              "evidencia_artifact_a": "Inclui aulas síncronas mediadas que abrangem tanto conceitos teóricos quanto práticos.",
+              "evidencia_artifact_b": "Tem uma ênfase maior em atividades práticas e uso de softwares, às vezes à custa da cobertura completa dos objetivos teóricos."
+            }
+          ],
+          "preferred_artifact": "A",
+          "is_tie": false,
+          "confidence": "high",
+          "rationale": null
+        },
+        {
+          "mapeamento": "paa_2=A#4",
+          "comparacao": [
+            {
+              "aspecto": "Cobertura dos Objetivos de Aprendizagem",
+              "evidencia_artifact_a": "UA1 e UA2 cobrem os objetivos relacionados a deflexão, inclinação e deslocamento de vigas.",
+              "evidencia_artifact_b": "UA01 e UA02 também abordam esses tópicos, mas com foco adicional em projeto de vigas."
+            },
+            {
+              "aspecto": "Uso de Recursos Diversificados",
+              "evidencia_artifact_a": "Inclui OVA, textos, aulas síncronas e quizzes para cada unidade.",
+              "evidencia_artifact_b": "Utiliza uma variedade semelhante de recursos, mas com ênfase em listas de exercícios e avaliações práticas."
+            },
+            {
+              "aspecto": "Abordagem ao Software",
+              "evidencia_artifact_a": "Inclui o uso de softwares como FTool, MDSolids e SolidWorks apenas nas unidades específicas.",
+              "evidencia_artifact_b": "Integra o uso desses softwares em várias unidades para aplicação prática dos conceitos."
+            }
+          ],
+          "preferred_artifact": "B",
+          "is_tie": false,
+          "confidence": "medium",
+          "rationale": null
+        }
+      ],
+      "replicas_descartadas_sem_comparacao": 0,
+      "preferencia_final": "tie",
+      "votos_traduzidos": [
+        "paa_2",
+        "tie",
+        "paa_1",
+        "paa_1"
+      ],
+      "padrao_votos": "1-2",
+      "vencedor_padrao_votos": "tie",
+      "confidence_por_execucao": [
+        "medium",
+        "high",
+        "high",
+        "medium"
+      ]
+    }
+  },
+  "execucoes": 4
+}

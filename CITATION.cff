@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: >-
+  Evaluation Data: A Pedagogically Oriented Multi-Agent Framework
+  for AI-Assisted Instructional Planning with Institutional Memory
+  and Teacher-in-the-Loop Learning
+message: >-
+  If you use this dataset, please cite it using the metadata from
+  this file.
+type: dataset
+authors:
+  - given-names: Ryan
+    family-names: Luz
+    email: luigyryan@gmail.com
+    affiliation: SENAI CIMATEC University
+    orcid: 'https://orcid.org/0009-0001-4599-3988'
+  - given-names: Sanval
+    family-names: Santos
+    email: sanval.santos@fieb.org.br
+    affiliation: SENAI CIMATEC University
+    orcid: 'https://orcid.org/0000-0003-3196-6468'
+  - given-names: Leonardo
+    family-names: Cardia
+    email: leonardo.cardia@fieb.org.br
+    affiliation: SENAI CIMATEC University
+    orcid: 'https://orcid.org/0000-0002-2502-7408'
+repository-code: 'https://github.com/RyanLuigy/pedagogical-multiagent-framework-data'
+url: 'https://zenodo.org/badge/latestdoi/1430334795'
+abstract: >-
+  Companion evaluation dataset for the paper "A Pedagogically
+  Oriented Multi-Agent Framework for AI-Assisted Instructional
+  Planning with Institutional Memory and Teacher-in-the-Loop
+  Learning". Contains evaluation results (objective metrics and
+  LLM-as-a-Judge assessments) across 7 academic disciplines, along
+  with the complete evaluation pipeline source code including
+  statistical tests (paired t-test, Wilcoxon, Cohen's d, ICC,
+  Kruskal-Wallis) and position bias diagnostics.
+keywords:
+  - instructional planning
+  - multi-agent systems
+  - LLM evaluation
+  - educational technology
+  - learning activity plans
+  - AI-assisted education
+license: CC-BY-4.0
+date-released: '2026-03-01'
