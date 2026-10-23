@@ -11,8 +11,8 @@
 ## Authors
 
 - **Ryan Luz**\* (luigyryan@gmail.com) -- [ORCID: 0009-0001-4599-3988](https://orcid.org/0009-0001-4599-3988)
-- **Sanval Santos** (sanval.santos@fieb.org.br) -- [ORCID: 0000-0003-3196-6468](https://orcid.org/0000-0003-3196-6468)
 - **Leonardo Cardia** (leonardo.cardia@fieb.org.br) -- [ORCID: 0000-0002-2502-7408](https://orcid.org/0000-0002-2502-7408)
+- **Sanval Santos** (sanval.santos@fieb.org.br) -- [ORCID: 0000-0003-3196-6468](https://orcid.org/0000-0003-3196-6468)
 
 *Affiliation:* SENAI CIMATEC University
 *\*Corresponding author*
@@ -143,7 +143,7 @@ If you use this data or code in your work, please cite:
 
 ```bibtex
 @dataset{luz2026pedagogical,
-  author    = {Luz, Ryan and Santos, Sanval and Cardia, Leonardo},
+  author    = {Luz, Ryan and Cardia, Leonardo and Santos, Sanval},
   title     = {Evaluation Data: A Pedagogically Oriented Multi-Agent Framework
                for AI-Assisted Instructional Planning with Institutional Memory
                and Teacher-in-the-Loop Learning},

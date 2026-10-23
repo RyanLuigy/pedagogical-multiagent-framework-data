@@ -13,16 +13,16 @@ authors:
     email: luigyryan@gmail.com
     affiliation: SENAI CIMATEC University
     orcid: 'https://orcid.org/0009-0001-4599-3988'
-  - given-names: Sanval
-    family-names: Santos
-    email: sanval.santos@fieb.org.br
-    affiliation: SENAI CIMATEC University
-    orcid: 'https://orcid.org/0000-0003-3196-6468'
   - given-names: Leonardo
     family-names: Cardia
     email: leonardo.cardia@fieb.org.br
     affiliation: SENAI CIMATEC University
     orcid: 'https://orcid.org/0000-0002-2502-7408'
+  - given-names: Sanval
+    family-names: Santos
+    email: sanval.santos@fieb.org.br
+    affiliation: SENAI CIMATEC University
+    orcid: 'https://orcid.org/0000-0003-3196-6468'
 repository-code: 'https://github.com/RyanLuigy/pedagogical-multiagent-framework-data'
 url: 'https://zenodo.org/badge/latestdoi/1430334795'
 abstract: >-
