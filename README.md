@@ -3,7 +3,7 @@
 **Companion dataset for:**
 > *A Pedagogically Oriented Multi-Agent Framework for AI-Assisted Instructional Planning with Institutional Memory and Teacher-in-the-Loop Learning*
 
-[![DOI](https://zenodo.org/badge/1430334795.svg)](https://zenodo.org/badge/latestdoi/1430334795)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23580737.svg)](https://doi.org/10.5281/zenodo.23580737)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
@@ -23,7 +23,7 @@
 
 This repository contains the **evaluation results** and **analysis scripts** used to assess the Copiloto PAA framework -- a pedagogically oriented multi-agent system for AI-assisted instructional planning. The framework generates Learning Activity Plans (PAAs) from institutional curricula and was evaluated across **7 disciplines** using both **objective metrics** and **LLM-as-a-Judge (LAAJ)** assessments.
 
-> **Note on raw curriculum and institutional data:** The original Learning Activity Plans (both human-authored baselines and institutional inputs) contain proprietary educational and institutional content and cannot be publicly distributed. This repository provides all evaluation outputs (metrics, scores, statistical tests, reports) and the complete evaluation source code needed to understand and verify the reported results. Requests for anonymised excerpts may be directed to the corresponding author (Ryan Luz, `luigyryan@gmail.com`).
+> **Note on raw curriculum and institutional data:** The source institutional curriculum guidelines (CGs) and institutionally approved Lesson and Assessment Plans (LAPs/PAAs) used in the study contain confidential, proprietary educational content and cannot be shared publicly or provided by the authors because of institutional access restrictions. The publicly available files do not contain these source documents or excerpts. This repository provides all derived evaluation data, metric results, statistical test outputs, markdown reports, and the complete evaluation pipeline source code needed to understand and verify the reported findings.
 
 ---
 
@@ -131,9 +131,8 @@ A two-step evaluation protocol using two independent LLM judges (`deepseek-r1:14
 
 ## Data Availability Statement (DAS)
 
-> **Data Availability Statement:**  
-> The evaluation datasets, metric results, statistical test outputs, and complete analysis pipeline generated during this study are openly available in the Zenodo repository at [https://zenodo.org/badge/latestdoi/1430334795](https://zenodo.org/badge/latestdoi/1430334795) and on GitHub at [https://github.com/RyanLuigy/pedagogical-multiagent-framework-data](https://github.com/RyanLuigy/pedagogical-multiagent-framework-data).  
-> The original institutional curricula and proprietary Learning Activity Plans (PAAs) cannot be shared publicly due to institutional policies; anonymised excerpts are available from the corresponding author upon reasonable request.
+> **Data Availability:**  
+> The derived evaluation data, metric results, statistical outputs, and analysis code supporting this study are available in the Zenodo repository ([https://doi.org/10.5281/zenodo.23580737](https://doi.org/10.5281/zenodo.23580737)) and the project's GitHub repository ([https://github.com/RyanLuigy/pedagogical-multiagent-framework-data](https://github.com/RyanLuigy/pedagogical-multiagent-framework-data)). The source institutional curriculum guidelines and institutionally approved Lesson and Assessment Plans used in the study cannot be shared publicly or provided by the authors because of institutional access restrictions. The publicly available files do not contain these source documents or excerpts. The article reports the results needed to interpret the findings.
 
 ---
 
@@ -144,11 +143,13 @@ If you use this data or code in your work, please cite:
 ```bibtex
 @dataset{luz2026pedagogical,
   author    = {Luz, Ryan and Cardia, Leonardo and Santos, Sanval},
-  title     = {Evaluation Data: A Pedagogically Oriented Multi-Agent Framework
+  title     = {Evaluation Data and Code: A Pedagogically Oriented Multi-Agent Framework
                for AI-Assisted Instructional Planning with Institutional Memory
                and Teacher-in-the-Loop Learning},
   year      = {2026},
-  url       = {https://zenodo.org/badge/latestdoi/1430334795}
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23580737},
+  url       = {https://doi.org/10.5281/zenodo.23580737}
 }
 ```
 
